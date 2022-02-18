@@ -1,0 +1,2081 @@
+[
+  {
+    "school": "Air Force Institute of Technology",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Alamance Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "American Public University System",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Anne Arundel Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Arapahoe Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Arizona State University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Athens State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Auburn University Main Campus",
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Augusta Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Augusta University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Baker College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Bellevue University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Bismarck State College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Bloomsburg University of Pennsylvania",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Blue Ridge Community and Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Bluegrass Community and Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Bossier Parish Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Boston University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Bowie State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Brigham Young University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Brookdale Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Butler County Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Calhoun Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "California State Polytechnic University, Pomona",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "California State University - Sacramento",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "California State University - San Bernardino",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "California State University - San Marcos",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Capella University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Capitol Technology University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Carnegie Mellon University",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Carnegie Mellon University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Cecil Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Cedarville University",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Central New Mexico Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Century College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Champlain College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Chemeketa Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "City College of San Francisco",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "City University of Seattle",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Clark State Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Clemson University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Coastline Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "College of DuPage",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "College of Southern Maryland",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "College of Southern Nevada",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Colorado School of Mines",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Colorado State University - Pueblo",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Colorado Technical University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Columbia Basin College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Columbus State Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Columbus State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Community College of Rhode Island",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "County College of Morris",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Cypress College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Dakota State University",
+    "designations": [
+      "CAE-CO",
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Danville Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Dartmouth College",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Davenport University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Daytona State College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "DePaul University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Delta College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Drexel University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "ECPI University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "East Carolina University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "East Stroudsburg University of Pennsylvania",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Eastern Michigan University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Eastern New Mexico University - Ruidoso Branch Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Edmonds Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "El Paso Community College District",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Embry-Riddle Aeronautical University - Daytona Beach",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Embry-Riddle Aeronautical University - Prescott Campus",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Excelsior College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Fairleigh Dickinson University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Fayetteville Technical Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Ferris State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Florida Agricultural and Mechanical University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Florida Atlantic University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Florida Institute of Technology",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Florida International University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Florida State College at Jacksonville",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Florida State University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Fordham University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Forsyth Technical Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Fort Hays State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Franklin University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "George Mason University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "George Washington University, The",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Georgetown University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Georgia Institute of Technology - Main Campus",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Georgia State University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Germanna Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Glendale Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Grand Canyon University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Grand Rapids Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Green River Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Gwinnett Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Hagerstown Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Hampton University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Harford Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Henry Ford College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Highline College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Hill College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Honolulu Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Houston Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Howard Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Idaho State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Illinois Institute of Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Illinois State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Indian River State College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Indiana University Bloomington",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Indiana University of Pennsylvania",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Iowa State University of Science and Technology",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Ivy Tech Community College of Indiana",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Jackson State Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Jacksonville State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "James Madison University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "John A Logan College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Johns Hopkins University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Johnson County Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Kansas State University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Kennesaw State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Lake Superior College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Lansing Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Laredo College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "LeMoyne-Owen College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Leeward Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Lehigh Carbon Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Lewis University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Liberty University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Lincoln Land Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Long Beach City College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Lord Fairfax Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Louisiana Tech University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Loyola University Chicago",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Macomb Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Madison Area Technical College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Maricopa Community Colleges - Estrella Mountain Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Marquette University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Marymount University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "McLennan Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Mercy College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Metropolitan Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Metropolitan Community College - Kansas City",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Metropolitan State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Middle Georgia State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Mississippi State University",
+    "designations": [
+      "CAE-CO",
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Missouri University of Science and Technology",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Mohawk Valley Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Montana State University - Great Falls College of Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Montreat College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Moraine Valley Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Morgan State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Mt. Hood Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Murray State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "National University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Naval Postgraduate School",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Naval Postgraduate School",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "New England Institute of Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "New Jersey City University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "New Jersey Institute of Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "New Mexico Institute of Mining and Technology",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "New York Institute of Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "New York University",
+    "designations": [
+      "CAE-R",
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Norfolk State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "North Carolina A & T State University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "North Carolina State University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "North Dakota State University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "North Idaho College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Northeast Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Northeastern University",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Northeastern University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Northern Kentucky University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Northern Virginia Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Norwich University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Nova Southeastern University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Oakland University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Ohio State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Ohlone College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Oklahoma City Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Oklahoma State University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Old Dominion University",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Our Lady of the Lake University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Owensboro Community and Technical College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Pace University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Pennsylvania Highlands Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Pennsylvania State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Pikes Peak Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Pitt Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Pittsburgh Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Portland Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Portland State University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Prince George's Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Pueblo Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Purdue University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Purdue University Global",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Purdue University Northwest",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Radford University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Red Rocks Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Regent University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Regis University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Roane State Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Robert Morris University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Rochester Institute of Technology",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Rock Valley College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Rockland Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Roosevelt University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Rose State College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Rutgers, The State University of New Jersey",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "SUNY at Albany",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "SUNY at Buffalo",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Saint Cloud State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Saint Leo University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Saint Louis Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Saint Vincent College and Seminary",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Sam Houston State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Sampson Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "San Antonio College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Sierra College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Sinclair Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Snead State Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "South Carolina State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "South Texas College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Southeast Missouri State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Southern Maine Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Southern Methodist University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Southern Utah University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Southwest Virginia Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Spokane Falls Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "St. Petersburg College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "St. Philip's College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Stevens Institute of Technology",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Syracuse University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Tennessee Technological University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Terra State Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Texas A&M University",
+    "designations": [
+      "CAE-CO",
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Texas A&M University - Corpus Christi",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Texas A&M University San Antonio",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Texas State Technical College - Harlingen",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "The Citadel",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "The Community College of Baltimore County",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "The University of Alabama",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "The University of Tennessee - Chattanooga",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "The University of Texas at Dallas",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "The University of Texas at El Paso",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "The University of Texas at San Antonio",
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "The University of West Florida",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Thomas Nelson Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Tidewater Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Tiffin University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Towson University",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Towson University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Trident Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Tuskegee University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "United States Air Force Academy",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "United States Air Force Academy",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "United States Naval Academy",
+    "designations": [
+      "CAE-CD",
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Universidad Politecnica de Puerto Rico",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Advancing Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Alabama at Birmingham",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Alabama at Huntsville",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Arizona",
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "University of Arkansas at Little Rock",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Arkansas, Fayetteville",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of California - Davis",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of California, Irvine",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Central Florida",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Cincinnati",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "University of Cincinnati",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Colorado at Colorado Springs",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Connecticut",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Dallas",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Delaware",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Denver",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Detroit Mercy",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Florida",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Georgia",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Hawaii - West Oahu",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Hawaii Maui College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Hawaii at Manoa",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Houston",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Idaho",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Illinois at Springfield",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Illinois at Urbana-Champaign",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Kansas",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Louisville",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Maine at Augusta",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Maryland - Baltimore County",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Maryland - College Park",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Maryland Global Campus",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Massachusetts - Lowell",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Memphis",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Missouri - Columbia",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Missouri - St Louis",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Nebraska - Omaha",
+    "designations": [
+      "CAE-CO",
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Nevada - Las Vegas",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Nevada - Reno",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of New Hampshire",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of New Haven",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "University of New Mexico",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of New Orleans",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of North Carolina at Charlotte",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of North Carolina at Wilmington",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of North Florida",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of North Georgia",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of North Texas",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Pittsburgh - Main Campus",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Rhode Island",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of South Alabama",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of South Carolina - Columbia",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of South Florida",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Texas at Austin",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Tulsa",
+    "designations": [
+      "CAE-CD",
+      "CAE-CO",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Virginia",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Washington",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "University of Wisconsin - Stout",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of the Cumberlands",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Utica College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Valencia College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Valley Forge Military College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Virginia Commonwealth University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Virginia Polytechnic Institute and State University",
+    "designations": [
+      "CAE-CO"
+    ]
+  },
+  {
+    "school": "Virginia Polytechnic Institute and State University",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Virginia Western Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Wake Technical Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Walden University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Walsh College of Accountancy and Business Administration",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Washtenaw Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Waukesha County Technical College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Webster University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "West Chester University of Pennsylvania",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "West Virginia University",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Westchester Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Whatcom Community College",
+    "designations": [
+      "CAE-2Y"
+    ]
+  },
+  {
+    "school": "Wichita State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Wilmington University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Worcester Polytechnic Institute",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Wright State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "schools",
+  "version": "1.0.0",
+  "main": "ingest-to-mongo.js",
+  "repository": "https://github.com/CyberSkyline/schools",
+  "author": "contact@cyberskyline.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.4.0",
+    "progress": "^2.0.3",
+    "superagent": "^7.1.1"
+  }
+}

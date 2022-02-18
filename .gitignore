@@ -1,0 +1,33 @@
+# --------------------
+# Linux Files
+# --------------------
+*.swo
+*.swp
+*.module-cache
+*.DS_Store
+
+# --------------------
+# Node Files
+# --------------------
+node_modules/*
+node_modules
+npm-debug.log
+yarn-error.log
+# --------------------
+# Profiling
+# --------------------
+newrelic_agent.log
+Procfile
+
+# --------------------
+# Coverage
+# --------------------
+.nyc_output/
+# --------------------
+# Builds
+# --------------------
+assets/build/
+# --------------------
+# Server artifacts
+# --------------------
+.*.pid
