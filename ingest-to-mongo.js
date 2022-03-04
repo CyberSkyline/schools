@@ -5,6 +5,7 @@ const { MongoClient } = require('mongodb');
 const colleges = require('./dist/us_institutions');
 const canadaColleges = require('./dist/ca_institutions');
 const highschools = require('./dist/us_high_schools');
+const scoreBoost = require('./score_boost');
 
 const client = new MongoClient(process.env.MONGO_URI, { useNewUrlParser : true, useUnifiedTopology : true });
 
@@ -31,6 +32,7 @@ async function main() {
         alias : college.alias,
         population : college.population,
         search : `${college.name} ${college.alias || ''} ${college.domain || ''}`.trim(),
+        scoreBoost : scoreBoost[college.id] || undefined,
       },
     });
   });
@@ -48,6 +50,7 @@ async function main() {
         alias : college.alias,
         population : college.population,
         search : `${college.name} ${college.alias || ''} ${college.domain || ''}`.trim(),
+        scoreBoost : scoreBoost[college.id] || undefined,
       },
     });
   });
@@ -69,7 +72,8 @@ async function main() {
         level : 'HS',
         type : highschool.type,
         population : highschool.population,
-        search : highschool.name,
+        search : `${highschool.name} ${highschool.city}, ${highschool.state}`,
+        scoreBoost : scoreBoost[highschool.id] || undefined,
       },
     }, { upsert : true });
   });
