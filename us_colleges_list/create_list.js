@@ -102,7 +102,7 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       state,
       domain : domain || undefined,
       alias : alias || undefined,
-      population,
+      population : population || undefined,
     };
 
     schools.set(id, entry);

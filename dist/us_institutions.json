@@ -800,8 +800,7 @@
     "city": "Paradise Valley",
     "state": "AZ",
     "domain": "taliesin.edu",
-    "alias": "Taliesin",
-    "population": null
+    "alias": "Taliesin"
   },
   {
     "id": "101198",
@@ -1607,8 +1606,7 @@
     "city": "Oakland",
     "state": "CA",
     "domain": "acchs.edu",
-    "alias": "ACCHS",
-    "population": null
+    "alias": "ACCHS"
   },
   {
     "id": "102410",
@@ -1654,8 +1652,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "absw.edu",
-    "alias": "ABSW",
-    "population": null
+    "alias": "ABSW"
   },
   {
     "id": "102508",
@@ -1879,8 +1876,7 @@
     "city": "San Francisco",
     "state": "CA",
     "domain": "uchastings.edu",
-    "alias": "UC Hastings",
-    "population": null
+    "alias": "UC Hastings"
   },
   {
     "id": "102793",
@@ -2119,8 +2115,7 @@
     "city": "San Francisco",
     "state": "CA",
     "domain": "ucsf.edu",
-    "alias": "UCSF UC San Francisco University of California at San Francisco University of California, San Francisco",
-    "population": null
+    "alias": "UCSF UC San Francisco University of California at San Francisco University of California, San Francisco"
   },
   {
     "id": "103088",
@@ -2223,8 +2218,7 @@
     "city": "San Diego",
     "state": "CA",
     "domain": "cwsl.edu",
-    "alias": "CWSL",
-    "population": null
+    "alias": "CWSL"
   },
   {
     "id": "103219",
@@ -2373,8 +2367,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "cdsp.edu",
-    "alias": "CDSP",
-    "population": null
+    "alias": "CDSP"
   },
   {
     "id": "103431",
@@ -2403,8 +2396,7 @@
     "city": "Claremont",
     "state": "CA",
     "domain": "cgu.edu",
-    "alias": "CGU",
-    "population": null
+    "alias": "CGU"
   },
   {
     "id": "103477",
@@ -2477,8 +2469,7 @@
     "city": "Pomona",
     "state": "CA",
     "domain": "westernu.edu",
-    "alias": "WESTERNU",
-    "population": null
+    "alias": "WESTERNU"
   },
   {
     "id": "103583",
@@ -2676,8 +2667,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "dspt.edu",
-    "alias": "The Dominican SchoolDSPTSt. Albert's CollegeCollege of St. Albert the Great",
-    "population": null
+    "alias": "The Dominican SchoolDSPTSt. Albert's CollegeCollege of St. Albert the Great"
   },
   {
     "id": "103848",
@@ -2758,8 +2748,7 @@
     "city": "Santa Monica",
     "state": "CA",
     "domain": "emperors.edu",
-    "alias": "EMPERORS",
-    "population": null
+    "alias": "EMPERORS"
   },
   {
     "id": "103954",
@@ -2825,8 +2814,7 @@
     "city": "Santa Barbara",
     "state": "CA",
     "domain": "fielding.edu",
-    "alias": "FieldingFielding InstituteFielding Graduate Institute",
-    "population": null
+    "alias": "FieldingFielding InstituteFielding Graduate Institute"
   },
   {
     "id": "104054",
@@ -2835,8 +2823,7 @@
     "city": "Santa Cruz",
     "state": "CA",
     "domain": "fivebranches.edu",
-    "alias": "FIVEBRANCHES",
-    "population": null
+    "alias": "FIVEBRANCHES"
   },
   {
     "id": "104072",
@@ -2855,8 +2842,7 @@
     "city": "Oceanside",
     "state": "CA",
     "domain": "fst.edu",
-    "alias": "FST",
-    "population": null
+    "alias": "FST"
   },
   {
     "id": "104106",
@@ -2885,8 +2871,7 @@
     "city": "Pasadena",
     "state": "CA",
     "domain": "fuller.edu",
-    "alias": "FULLER",
-    "population": null
+    "alias": "FULLER"
   },
   {
     "id": "104142",
@@ -2983,8 +2968,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "gtu.edu",
-    "alias": "GTU",
-    "population": null
+    "alias": "GTU"
   },
   {
     "id": "104267",
@@ -3047,8 +3031,7 @@
     "city": "Carpinteria",
     "state": "CA",
     "domain": "pacifica.edu",
-    "alias": "PACIFICA",
-    "population": null
+    "alias": "PACIFICA"
   },
   {
     "id": "104434",
@@ -3231,8 +3214,7 @@
     "city": "Hayward",
     "state": "CA",
     "domain": "lifewest.edu",
-    "alias": "Life West",
-    "population": null
+    "alias": "Life West"
   },
   {
     "id": "104717",
@@ -3774,8 +3756,7 @@
     "city": "Monterey",
     "state": "CA",
     "domain": "nps.edu",
-    "alias": "NPS",
-    "population": null
+    "alias": "NPS"
   },
   {
     "id": "105534",
@@ -3986,8 +3967,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "psr.edu",
-    "alias": "PSR",
-    "population": null
+    "alias": "PSR"
   },
   {
     "id": "105783",
@@ -4178,8 +4158,7 @@
     "city": "Santa Monica",
     "state": "CA",
     "domain": "prgs.edu",
-    "alias": "PRGS",
-    "population": null
+    "alias": "PRGS"
   },
   {
     "id": "106032",
@@ -4228,8 +4207,7 @@
     "city": "Los Angeles",
     "state": "CA",
     "domain": "dula.edu",
-    "alias": "DULA",
-    "population": 0
+    "alias": "DULA"
   },
   {
     "id": "106120",
@@ -4258,8 +4236,7 @@
     "city": "Camarillo",
     "state": "CA",
     "domain": "stjohnsem.edu",
-    "alias": "SJS  St John's Seminary  Saint John's Seminary",
-    "population": null
+    "alias": "SJS  St John's Seminary  Saint John's Seminary"
   },
   {
     "id": "106157",
@@ -4396,8 +4373,7 @@
     "city": "Clovis",
     "state": "CA",
     "domain": "sjcl.edu",
-    "alias": "SJCL",
-    "population": null
+    "alias": "SJCL"
   },
   {
     "id": "106324",
@@ -4540,8 +4516,7 @@
     "city": "Oakland",
     "state": "CA",
     "domain": "saybrook.edu",
-    "alias": "SAYBROOK",
-    "population": null
+    "alias": "SAYBROOK"
   },
   {
     "id": "106500",
@@ -4761,8 +4736,7 @@
     "city": "Camarillo",
     "state": "CA",
     "domain": "stjohnsem.edu",
-    "alias": "SJS  St John's Seminary  Saint John's Seminary",
-    "population": null
+    "alias": "SJS  St John's Seminary  Saint John's Seminary"
   },
   {
     "id": "106759",
@@ -4778,8 +4752,7 @@
     "city": "Oakland",
     "state": "CA",
     "domain": "sksm.edu",
-    "alias": "SKSM",
-    "population": null
+    "alias": "SKSM"
   },
   {
     "id": "106777",
@@ -4795,8 +4768,7 @@
     "city": "Fullerton",
     "state": "CA",
     "domain": "ketchum.edu",
-    "alias": "formerly Southern California College of Optometry",
-    "population": null
+    "alias": "formerly Southern California College of Optometry"
   },
   {
     "id": "106795",
@@ -4825,8 +4797,7 @@
     "city": "Los Angeles",
     "state": "CA",
     "domain": "swlaw.edu",
-    "alias": "SWLAW",
-    "population": null
+    "alias": "SWLAW"
   },
   {
     "id": "106829",
@@ -4855,8 +4826,7 @@
     "city": "Claremont",
     "state": "CA",
     "domain": "cst.edu",
-    "alias": "CST",
-    "population": null
+    "alias": "CST"
   },
   {
     "id": "106856",
@@ -5048,8 +5018,7 @@
     "city": "Escondido",
     "state": "CA",
     "domain": "wscal.edu",
-    "alias": "Westminster Seminary California",
-    "population": null
+    "alias": "Westminster Seminary California"
   },
   {
     "id": "107132",
@@ -5095,8 +5064,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "wi.edu",
-    "alias": "WI",
-    "population": null
+    "alias": "WI"
   },
   {
     "id": "107196",
@@ -5105,8 +5073,7 @@
     "city": "San Diego",
     "state": "CA",
     "domain": "tjsl.edu",
-    "alias": "TJSL",
-    "population": null
+    "alias": "TJSL"
   },
   {
     "id": "107202",
@@ -5359,8 +5326,7 @@
     "city": "Littleton",
     "state": "CO",
     "domain": "denverseminary.edu",
-    "alias": "DENVERSEMINARY",
-    "population": null
+    "alias": "DENVERSEMINARY"
   },
   {
     "id": "107567",
@@ -5416,8 +5382,7 @@
     "city": "Denver",
     "state": "CO",
     "domain": "iliff.edu",
-    "alias": "ILIFF",
-    "population": null
+    "alias": "ILIFF"
   },
   {
     "id": "107637",
@@ -5818,8 +5783,7 @@
     "city": "Hartford",
     "state": "CT",
     "domain": "hartsem.edu",
-    "alias": "HARTSEM",
-    "population": null
+    "alias": "HARTSEM"
   },
   {
     "id": "108223",
@@ -6271,8 +6235,7 @@
     "city": "Washington",
     "state": "DC",
     "domain": "dhs.edu",
-    "alias": "DHS  Pontifical Faculty of the Immaculate Conception  College of the Immaculate Conception",
-    "population": null
+    "alias": "DHS  Pontifical Faculty of the Immaculate Conception  College of the Immaculate Conception"
   },
   {
     "id": "108870",
@@ -6372,8 +6335,7 @@
     "city": "Washington",
     "state": "DC",
     "domain": "wesleyseminary.edu",
-    "alias": "WESLEYSEMINARY",
-    "population": null
+    "alias": "WESLEYSEMINARY"
   },
   {
     "id": "109031",
@@ -7261,8 +7223,7 @@
     "city": "Boynton Beach",
     "state": "FL",
     "domain": "svdp.edu",
-    "alias": "St. Vincent de Paul Regional Seminary  St. Vincent de Paul Regional Seminary",
-    "population": null
+    "alias": "St. Vincent de Paul Regional Seminary  St. Vincent de Paul Regional Seminary"
   },
   {
     "id": "110228",
@@ -7938,8 +7899,7 @@
     "city": "Decatur",
     "state": "GA",
     "domain": "ctsnet.edu",
-    "alias": "CTSNET",
-    "population": null
+    "alias": "CTSNET"
   },
   {
     "id": "111106",
@@ -8223,8 +8183,7 @@
     "city": "Atlanta",
     "state": "GA",
     "domain": "itc.edu",
-    "alias": "ITC",
-    "population": null
+    "alias": "ITC"
   },
   {
     "id": "111434",
@@ -8344,8 +8303,7 @@
     "city": "Atlanta",
     "state": "GA",
     "domain": "msm.edu",
-    "alias": "MSM",
-    "population": null
+    "alias": "MSM"
   },
   {
     "id": "111586",
@@ -8904,8 +8862,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "adler.edu",
-    "alias": "ADLER",
-    "population": null
+    "alias": "ADLER"
   },
   {
     "id": "112297",
@@ -8992,8 +8949,7 @@
     "city": "Richmond",
     "state": "IN",
     "domain": "bethanyseminary.edu",
-    "alias": "BETHANYSEMINARY",
-    "population": null
+    "alias": "BETHANYSEMINARY"
   },
   {
     "id": "112428",
@@ -9093,8 +9049,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "ctu.edu",
-    "alias": "CTU",
-    "population": null
+    "alias": "CTU"
   },
   {
     "id": "112604",
@@ -9113,8 +9068,7 @@
     "city": "Downers Grove",
     "state": "IL",
     "domain": "midwestern.edu",
-    "alias": "MIDWESTERN",
-    "population": null
+    "alias": "MIDWESTERN"
   },
   {
     "id": "112622",
@@ -9147,8 +9101,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "ctschicago.edu",
-    "alias": "CTSCHICAGO",
-    "population": null
+    "alias": "CTSCHICAGO"
   },
   {
     "id": "112686",
@@ -9388,8 +9341,7 @@
     "city": "Evanston",
     "state": "IL",
     "domain": "garrett.edu",
-    "alias": "GARRETT",
-    "population": null
+    "alias": "GARRETT"
   },
   {
     "id": "113023",
@@ -9465,8 +9417,7 @@
     "city": "North Chicago",
     "state": "IL",
     "domain": "rosalindfranklin.edu",
-    "alias": "RFUMS",
-    "population": null
+    "alias": "RFUMS"
   },
   {
     "id": "113139",
@@ -9495,8 +9446,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "ico.edu",
-    "alias": "ICO",
-    "population": null
+    "alias": "ICO"
   },
   {
     "id": "113166",
@@ -9575,8 +9525,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "icsw.edu",
-    "alias": "ICSW",
-    "population": null
+    "alias": "ICSW"
   },
   {
     "id": "113281",
@@ -9595,8 +9544,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "jmls.edu",
-    "alias": "JMLS",
-    "population": null
+    "alias": "JMLS"
   },
   {
     "id": "113315",
@@ -9705,8 +9653,7 @@
     "city": "Lake Forest",
     "state": "IL",
     "domain": "lfgsm.edu",
-    "alias": "LFGSM",
-    "population": null
+    "alias": "LFGSM"
   },
   {
     "id": "113430",
@@ -9812,8 +9759,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "lstc.edu",
-    "alias": "LSTC",
-    "population": null
+    "alias": "LSTC"
   },
   {
     "id": "113555",
@@ -9859,8 +9805,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "mccormick.edu",
-    "alias": "MCCORMICK",
-    "population": null
+    "alias": "MCCORMICK"
   },
   {
     "id": "113625",
@@ -9889,8 +9834,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "meadville.edu",
-    "alias": "MEADVILLE",
-    "population": null
+    "alias": "MEADVILLE"
   },
   {
     "id": "113652",
@@ -10030,8 +9974,7 @@
     "city": "Lisle",
     "state": "IL",
     "domain": "seminary.edu",
-    "alias": "Northern Seminary",
-    "population": null
+    "alias": "Northern Seminary"
   },
   {
     "id": "113838",
@@ -10304,8 +10247,7 @@
     "city": "Mundelein",
     "state": "IL",
     "domain": "usml.edu",
-    "alias": "University of St. Mary of the Lake University of St Mary of the Lake",
-    "population": null
+    "alias": "University of St. Mary of the Lake University of St Mary of the Lake"
   },
   {
     "id": "114211",
@@ -10348,8 +10290,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "spertus.edu",
-    "alias": "Spertus Institute of Jewish Studies Spertus Institute for Jewish Learning and Leadership",
-    "population": null
+    "alias": "Spertus Institute of Jewish Studies Spertus Institute for Jewish Learning and Leadership"
   },
   {
     "id": "114266",
@@ -10592,8 +10533,7 @@
     "city": "Indianapolis",
     "state": "IN",
     "domain": "cts.edu",
-    "alias": "CTS",
-    "population": null
+    "alias": "CTS"
   },
   {
     "id": "114600",
@@ -10612,8 +10552,7 @@
     "city": "Fort Wayne",
     "state": "IN",
     "domain": "ctsfw.edu",
-    "alias": "CTSFW",
-    "population": null
+    "alias": "CTSFW"
   },
   {
     "id": "114628",
@@ -10991,8 +10930,7 @@
     "city": "Elkhart",
     "state": "IN",
     "domain": "ambs.edu",
-    "alias": "AMBS  Mennonite Biblical Seminary  Mennonite Seminary",
-    "population": null
+    "alias": "AMBS  Mennonite Biblical Seminary  Mennonite Seminary"
   },
   {
     "id": "115357",
@@ -11123,8 +11061,7 @@
     "city": "Saint Meinrad",
     "state": "IN",
     "domain": "saintmeinrad.edu",
-    "alias": "Saint Meinrad Seminary and School of Theology",
-    "population": null
+    "alias": "Saint Meinrad Seminary and School of Theology"
   },
   {
     "id": "115612",
@@ -11691,8 +11628,7 @@
     "city": "Des Moines",
     "state": "IA",
     "domain": "dmu.edu",
-    "alias": "Des Moines University",
-    "population": null
+    "alias": "Des Moines University"
   },
   {
     "id": "116323",
@@ -11852,8 +11788,7 @@
     "city": "Dubuque",
     "state": "IA",
     "domain": "wartburgseminary.edu",
-    "alias": "Wartburg Seminary",
-    "population": null
+    "alias": "Wartburg Seminary"
   },
   {
     "id": "116554",
@@ -12459,8 +12394,7 @@
     "city": "Topeka",
     "state": "KS",
     "domain": "bakeru.edu",
-    "alias": "BAKERU",
-    "population": null
+    "alias": "BAKERU"
   },
   {
     "id": "117274",
@@ -12539,8 +12473,7 @@
     "city": "Wilmore",
     "state": "KY",
     "domain": "asburyseminary.edu",
-    "alias": "ASBURYSEMINARY",
-    "population": null
+    "alias": "ASBURYSEMINARY"
   },
   {
     "id": "117353",
@@ -12720,8 +12653,7 @@
     "city": "Versailles",
     "state": "KY",
     "domain": "frontier.edu",
-    "alias": "FRONTIER",
-    "population": null
+    "alias": "FRONTIER"
   },
   {
     "id": "117575",
@@ -12878,8 +12810,7 @@
     "city": "Lexington",
     "state": "KY",
     "domain": "lextheo.edu",
-    "alias": "LEXTHEO",
-    "population": null
+    "alias": "LEXTHEO"
   },
   {
     "id": "117788",
@@ -12918,8 +12849,7 @@
     "city": "Louisville",
     "state": "KY",
     "domain": "lpts.edu",
-    "alias": "Louisville Seminary  Louisville Presbyterian Seminary",
-    "population": null
+    "alias": "Louisville Seminary  Louisville Presbyterian Seminary"
   },
   {
     "id": "117830",
@@ -13478,8 +13408,7 @@
     "city": "New Orleans",
     "state": "LA",
     "domain": "nobts.edu",
-    "alias": "NOBTS",
-    "population": 0
+    "alias": "NOBTS"
   },
   {
     "id": "118888",
@@ -13508,8 +13437,7 @@
     "city": "New Orleans",
     "state": "LA",
     "domain": "nds.edu",
-    "alias": "NDS",
-    "population": null
+    "alias": "NDS"
   },
   {
     "id": "118949",
@@ -14511,8 +14439,7 @@
     "city": "Laurel",
     "state": "MD",
     "domain": "muih.edu",
-    "alias": "MUIH",
-    "population": null
+    "alias": "MUIH"
   },
   {
     "id": "120449",
@@ -14756,8 +14683,7 @@
     "city": "Brookline",
     "state": "MA",
     "domain": "bgsp.edu",
-    "alias": "BGSP",
-    "population": null
+    "alias": "BGSP"
   },
   {
     "id": "120786",
@@ -14890,8 +14816,7 @@
     "city": "Northampton",
     "state": "MA",
     "domain": "csld.edu",
-    "alias": "Conway School",
-    "population": null
+    "alias": "Conway School"
   },
   {
     "id": "120944",
@@ -15037,8 +14962,7 @@
     "city": "South Hamilton",
     "state": "MA",
     "domain": "gordonconwell.edu",
-    "alias": "GCTS/Gordon-Conwell Seminary/Gordon Cromwell Theological Seminary",
-    "population": null
+    "alias": "GCTS/Gordon-Conwell Seminary/Gordon Cromwell Theological Seminary"
   },
   {
     "id": "121123",
@@ -15276,8 +15200,7 @@
     "city": "Worcester",
     "state": "MA",
     "domain": "umassmed.edu",
-    "alias": "UMASSMED",
-    "population": null
+    "alias": "UMASSMED"
   },
   {
     "id": "121442",
@@ -15394,8 +15317,7 @@
     "city": "Boston",
     "state": "MA",
     "domain": "neco.edu",
-    "alias": "The New England College of Optometry/ NECO/ NEEI/New England Eye Institute",
-    "population": null
+    "alias": "The New England College of Optometry/ NECO/ NEEI/New England Eye Institute"
   },
   {
     "id": "121619",
@@ -15411,8 +15333,7 @@
     "city": "Boston",
     "state": "MA",
     "domain": "nesl.edu",
-    "alias": "New England Law  Boston",
-    "population": null
+    "alias": "New England Law  Boston"
   },
   {
     "id": "121646",
@@ -15518,8 +15439,7 @@
     "city": "Weston",
     "state": "MA",
     "domain": "psjs.edu",
-    "alias": "PSJS",
-    "population": null
+    "alias": "PSJS"
   },
   {
     "id": "121761",
@@ -15899,8 +15819,7 @@
     "city": "Grand Rapids",
     "state": "MI",
     "domain": "calvinseminary.edu",
-    "alias": "CALVINSEMINARY",
-    "population": null
+    "alias": "CALVINSEMINARY"
   },
   {
     "id": "122214",
@@ -15919,8 +15838,7 @@
     "city": "Farmington Hills",
     "state": "MI",
     "domain": "msp.edu",
-    "alias": "MSP",
-    "population": null
+    "alias": "MSP"
   },
   {
     "id": "122232",
@@ -15979,8 +15897,7 @@
     "city": "Bloomfield Hills",
     "state": "MI",
     "domain": "cranbrookart.edu",
-    "alias": "CRANBROOKART",
-    "population": null
+    "alias": "CRANBROOKART"
   },
   {
     "id": "122296",
@@ -16692,8 +16609,7 @@
     "city": "Lansing",
     "state": "MI",
     "domain": "cooley.edu",
-    "alias": "Western Michigan University Cooley Law School",
-    "population": null
+    "alias": "Western Michigan University Cooley Law School"
   },
   {
     "id": "123262",
@@ -16783,8 +16699,7 @@
     "city": "Holland",
     "state": "MI",
     "domain": "westernsem.edu",
-    "alias": "WESTERNSEM",
-    "population": null
+    "alias": "WESTERNSEM"
   },
   {
     "id": "123378",
@@ -17118,8 +17033,7 @@
     "city": "St. Paul",
     "state": "MN",
     "domain": "luthersem.edu",
-    "alias": "Luther Theological Seminary Luther Northwestern Theological Seminary",
-    "population": null
+    "alias": "Luther Theological Seminary Luther Northwestern Theological Seminary"
   },
   {
     "id": "123758",
@@ -17165,8 +17079,7 @@
     "city": "Rochester",
     "state": "MN",
     "domain": "college.mayo.edu",
-    "alias": "MAYO",
-    "population": null
+    "alias": "MAYO"
   },
   {
     "id": "123828",
@@ -17554,8 +17467,7 @@
     "city": "St. Paul",
     "state": "MN",
     "domain": "unitedseminary.edu",
-    "alias": "United Theological SeminaryUnited",
-    "population": null
+    "alias": "United Theological SeminaryUnited"
   },
   {
     "id": "124414",
@@ -17621,8 +17533,7 @@
     "city": "Saint Paul",
     "state": "MN",
     "domain": "mitchellhamline.edu",
-    "alias": "MITCHELLHAMLINE",
-    "population": null
+    "alias": "MITCHELLHAMLINE"
   },
   {
     "id": "124496",
@@ -17996,8 +17907,7 @@
     "city": "Ridgeland",
     "state": "MS",
     "domain": "wbs.edu",
-    "alias": "WBS",
-    "population": null
+    "alias": "WBS"
   },
   {
     "id": "124964",
@@ -18037,8 +17947,7 @@
     "city": "St. Louis",
     "state": "MO",
     "domain": "ai.edu",
-    "alias": "Aquinas Institute, A.I., A.I.T.",
-    "population": null
+    "alias": "Aquinas Institute, A.I., A.I.T."
   },
   {
     "id": "125019",
@@ -18047,8 +17956,7 @@
     "city": "Springfield",
     "state": "MO",
     "domain": "agts.edu",
-    "alias": "AGTS",
-    "population": null
+    "alias": "AGTS"
   },
   {
     "id": "125028",
@@ -18195,8 +18103,7 @@
     "city": "St. Louis",
     "state": "MO",
     "domain": "csl.edu",
-    "alias": "CSL",
-    "population": null
+    "alias": "CSL"
   },
   {
     "id": "125231",
@@ -18215,8 +18122,7 @@
     "city": "St. Louis",
     "state": "MO",
     "domain": "covenantseminary.edu",
-    "alias": "CovenantCovenant SeminaryCTSFrancis Schaeffer InstituteFSICenter for Ministry LeadershipCML",
-    "population": null
+    "alias": "CovenantCovenant SeminaryCTSFrancis Schaeffer InstituteFSICenter for Ministry LeadershipCML"
   },
   {
     "id": "125259",
@@ -18275,8 +18181,7 @@
     "city": "St. Louis",
     "state": "MO",
     "domain": "eden.edu",
-    "alias": "EDEN",
-    "population": null
+    "alias": "EDEN"
   },
   {
     "id": "125329",
@@ -18429,8 +18334,7 @@
     "city": "Kirksville",
     "state": "MO",
     "domain": "atsu.edu",
-    "alias": "ATSU",
-    "population": null
+    "alias": "ATSU"
   },
   {
     "id": "125523",
@@ -18688,8 +18592,7 @@
     "city": "Kansas City",
     "state": "MO",
     "domain": "nts.edu",
-    "alias": "NTS",
-    "population": null
+    "alias": "NTS"
   },
   {
     "id": "125949",
@@ -18977,8 +18880,7 @@
     "city": "Kansas City",
     "state": "MO",
     "domain": "kcumb.edu",
-    "alias": "KCU - Kansas City",
-    "population": null
+    "alias": "KCU - Kansas City"
   },
   {
     "id": "126377",
@@ -20460,8 +20362,7 @@
     "city": "New Brunswick",
     "state": "NJ",
     "domain": "nbts.edu",
-    "alias": "NBTS",
-    "population": null
+    "alias": "NBTS"
   },
   {
     "id": "128434",
@@ -20544,8 +20445,7 @@
     "city": "Princeton",
     "state": "NJ",
     "domain": "ptsem.edu",
-    "alias": "Princeton Seminary, PTS",
-    "population": null
+    "alias": "Princeton Seminary, PTS"
   },
   {
     "id": "128540",
@@ -20973,8 +20873,7 @@
     "city": "Santa Fe",
     "state": "NM",
     "domain": "swc.edu",
-    "alias": "SWC",
-    "population": null
+    "alias": "SWC"
   },
   {
     "id": "129206",
@@ -21060,8 +20959,7 @@
     "city": "Albany",
     "state": "NY",
     "domain": "albanylaw.edu",
-    "alias": "ALBANYLAW",
-    "population": null
+    "alias": "ALBANYLAW"
   },
   {
     "id": "129312",
@@ -21070,8 +20968,7 @@
     "city": "Albany",
     "state": "NY",
     "domain": "amc.edu",
-    "alias": "AMC",
-    "population": null
+    "alias": "AMC"
   },
   {
     "id": "129321",
@@ -21174,8 +21071,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "bankstreet.edu",
-    "alias": "BANKSTREET",
-    "population": null
+    "alias": "BANKSTREET"
   },
   {
     "id": "129464",
@@ -21251,8 +21147,7 @@
     "city": "Brooklyn",
     "state": "NY",
     "domain": "brooklaw.edu",
-    "alias": "BROOKLAW",
-    "population": null
+    "alias": "BROOKLAW"
   },
   {
     "id": "129631",
@@ -21352,8 +21247,7 @@
     "city": "East Aurora",
     "state": "NY",
     "domain": "cks.edu",
-    "alias": "n/a",
-    "population": null
+    "alias": "n/a"
   },
   {
     "id": "129826",
@@ -21402,8 +21296,7 @@
     "city": "Rochester",
     "state": "NY",
     "domain": "crcds.edu",
-    "alias": "CRCDS",
-    "population": null
+    "alias": "CRCDS"
   },
   {
     "id": "129880",
@@ -21716,8 +21609,7 @@
     "city": "Long Island City",
     "state": "NY",
     "domain": "law.cuny.edu",
-    "alias": "Law School  CUNY Law School",
-    "population": null
+    "alias": "Law School  CUNY Law School"
   },
   {
     "id": "130235",
@@ -21897,8 +21789,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "gts.edu",
-    "alias": "GTS",
-    "population": null
+    "alias": "GTS"
   },
   {
     "id": "130493",
@@ -22455,8 +22346,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "icahn.mssm.edu",
-    "alias": "MSSM",
-    "population": null
+    "alias": "MSSM"
   },
   {
     "id": "131274",
@@ -22512,8 +22402,7 @@
     "city": "Seneca Falls",
     "state": "NY",
     "domain": "nycc.edu",
-    "alias": "NYCC",
-    "population": null
+    "alias": "NYCC"
   },
   {
     "id": "131362",
@@ -22536,8 +22425,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "nyls.edu",
-    "alias": "NYLS",
-    "population": null
+    "alias": "NYLS"
   },
   {
     "id": "131399",
@@ -22546,8 +22434,7 @@
     "city": "Valhalla",
     "state": "NY",
     "domain": "nymc.edu",
-    "alias": "NYMC",
-    "population": null
+    "alias": "NYMC"
   },
   {
     "id": "131414",
@@ -22556,8 +22443,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "nyts.edu",
-    "alias": "NYTS",
-    "population": null
+    "alias": "NYTS"
   },
   {
     "id": "131423",
@@ -22616,8 +22502,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "nycpm.edu",
-    "alias": "The First Institute of Podiatry Long Island College of Podiatry New York College of Podiatry M.J. Lewi College of Podiatry New York College of Podiatric Medicine",
-    "population": null
+    "alias": "The First Institute of Podiatry Long Island College of Podiatry New York College of Podiatry M.J. Lewi College of Podiatry New York College of Podiatric Medicine"
   },
   {
     "id": "131487",
@@ -22871,8 +22756,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "rockefeller.edu",
-    "alias": "ROCKEFELLER",
-    "population": null
+    "alias": "ROCKEFELLER"
   },
   {
     "id": "131858",
@@ -22918,8 +22802,7 @@
     "city": "Rochester",
     "state": "NY",
     "domain": "stbernards.edu",
-    "alias": "SBSTM St. Bernard's",
-    "population": null
+    "alias": "SBSTM St. Bernard's"
   },
   {
     "id": "131900",
@@ -23079,8 +22962,7 @@
     "city": "Crestwood",
     "state": "NY",
     "domain": "svots.edu",
-    "alias": "SVOTS",
-    "population": null
+    "alias": "SVOTS"
   },
   {
     "id": "132116",
@@ -23398,8 +23280,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "sunyopt.edu",
-    "alias": "SUNY Optometry State College of Optometry SUNY State College of Optometry",
-    "population": null
+    "alias": "SUNY Optometry State College of Optometry SUNY State College of Optometry"
   },
   {
     "id": "132505",
@@ -23505,8 +23386,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "tc.columbia.edu",
-    "alias": "Teachers College",
-    "population": null
+    "alias": "Teachers College"
   },
   {
     "id": "132620",
@@ -23593,8 +23473,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "utsnyc.edu",
-    "alias": "Union Theological Seminary",
-    "population": null
+    "alias": "Union Theological Seminary"
   },
   {
     "id": "132754",
@@ -25269,8 +25148,7 @@
     "city": "Wright-Patterson AFB",
     "state": "OH",
     "domain": "afit.edu",
-    "alias": "AFIT",
-    "population": null
+    "alias": "AFIT"
   },
   {
     "id": "134750",
@@ -25884,8 +25762,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "huc.edu",
-    "alias": "HUC-JIR",
-    "population": null
+    "alias": "HUC-JIR"
   },
   {
     "id": "135674",
@@ -26145,8 +26022,7 @@
     "city": "Delaware",
     "state": "OH",
     "domain": "mtso.edu",
-    "alias": "MTSO",
-    "population": null
+    "alias": "MTSO"
   },
   {
     "id": "136118",
@@ -26282,8 +26158,7 @@
     "city": "Rootstown",
     "state": "OH",
     "domain": "neomed.edu",
-    "alias": "NEOMED",
-    "population": null
+    "alias": "NEOMED"
   },
   {
     "id": "136321",
@@ -26456,8 +26331,7 @@
     "city": "Wilberforce",
     "state": "OH",
     "domain": "payne.edu",
-    "alias": "PAYNE",
-    "population": null
+    "alias": "PAYNE"
   },
   {
     "id": "136668",
@@ -26685,8 +26559,7 @@
     "city": "Columbus",
     "state": "OH",
     "domain": "tlsohio.edu",
-    "alias": "TLSOHIO",
-    "population": null
+    "alias": "TLSOHIO"
   },
   {
     "id": "137069",
@@ -26712,8 +26585,7 @@
     "city": "Dayton",
     "state": "OH",
     "domain": "united.edu",
-    "alias": "UNITED",
-    "population": null
+    "alias": "UNITED"
   },
   {
     "id": "137096",
@@ -26823,8 +26695,7 @@
     "city": "Findlay",
     "state": "OH",
     "domain": "winebrenner.edu",
-    "alias": "WINEBRENNER",
-    "population": null
+    "alias": "WINEBRENNER"
   },
   {
     "id": "137218",
@@ -27807,8 +27678,7 @@
     "city": "Portland",
     "state": "OR",
     "domain": "westernseminary.edu",
-    "alias": "Western Seminary-San Jose Western Seminary-Sacramento Western Seminary-Portland",
-    "population": null
+    "alias": "Western Seminary-San Jose Western Seminary-Sacramento Western Seminary-Portland"
   },
   {
     "id": "138585",
@@ -27871,8 +27741,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "domain": "avaopera.org",
-    "alias": "AVAOPERA",
-    "population": null
+    "alias": "AVAOPERA"
   },
   {
     "id": "138673",
@@ -28308,8 +28177,7 @@
     "city": "Carlisle",
     "state": "PA",
     "domain": "law.psu.edu",
-    "alias": "Penn State",
-    "population": null
+    "alias": "Penn State"
   },
   {
     "id": "139302",
@@ -28470,8 +28338,7 @@
     "city": "Myerstown",
     "state": "PA",
     "domain": "evangelical.edu",
-    "alias": "ETS, Evangelical, Evangelical Seminary",
-    "population": null
+    "alias": "ETS, Evangelical, Evangelical Seminary"
   },
   {
     "id": "139597",
@@ -28785,8 +28652,7 @@
     "city": "Lancaster",
     "state": "PA",
     "domain": "lancasterseminary.edu",
-    "alias": "LANCASTERSEMINARY",
-    "population": null
+    "alias": "LANCASTERSEMINARY"
   },
   {
     "id": "140058",
@@ -28875,8 +28741,7 @@
     "city": "Gettysburg",
     "state": "PA",
     "domain": "newschooloftheology.info",
-    "alias": "NEWSCHOOLOFTHEOLOGY",
-    "population": null
+    "alias": "NEWSCHOOLOFTHEOLOGY"
   },
   {
     "id": "140191",
@@ -29106,8 +28971,7 @@
     "city": "Elkins Park",
     "state": "PA",
     "domain": "salus.edu",
-    "alias": "SALUS",
-    "population": null
+    "alias": "SALUS"
   },
   {
     "id": "140535",
@@ -29125,7 +28989,7 @@
     "street": "201 Old Main Building",
     "city": "University Park",
     "state": "PA",
-    "domain": "worldcampus.psu.edu",
+    "domain": "psu.edu",
     "alias": "Penn State",
     "population": 8108
   },
@@ -29264,8 +29128,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "domain": "pcom.edu",
-    "alias": "PCOM",
-    "population": null
+    "alias": "PCOM"
   },
   {
     "id": "140942",
@@ -29364,8 +29227,7 @@
     "city": "Pittsburgh",
     "state": "PA",
     "domain": "pts.edu",
-    "alias": "PTS",
-    "population": null
+    "alias": "PTS"
   },
   {
     "id": "141060",
@@ -29408,8 +29270,7 @@
     "city": "Wyncote",
     "state": "PA",
     "domain": "rrc.edu",
-    "alias": "RRC",
-    "population": null
+    "alias": "RRC"
   },
   {
     "id": "141158",
@@ -29418,8 +29279,7 @@
     "city": "Pittsburgh",
     "state": "PA",
     "domain": "rpts.edu",
-    "alias": "RPTS",
-    "population": null
+    "alias": "RPTS"
   },
   {
     "id": "141167",
@@ -29733,8 +29593,7 @@
     "city": "Ambridge",
     "state": "PA",
     "domain": "tsm.edu",
-    "alias": "Trinity School for Ministry",
-    "population": null
+    "alias": "Trinity School for Ministry"
   },
   {
     "id": "141608",
@@ -29833,8 +29692,7 @@
     "city": "Glenside",
     "state": "PA",
     "domain": "wts.edu",
-    "alias": "WTS",
-    "population": null
+    "alias": "WTS"
   },
   {
     "id": "141750",
@@ -30479,8 +30337,7 @@
     "city": "Spartanburg",
     "state": "SC",
     "domain": "sherman.edu",
-    "alias": "Sherman College SCSC Sherman College of Chiropractic Sherman",
-    "population": null
+    "alias": "Sherman College SCSC Sherman College of Chiropractic Sherman"
   },
   {
     "id": "142656",
@@ -30693,8 +30550,7 @@
     "city": "Sioux Falls",
     "state": "SD",
     "domain": "sfseminary.edu",
-    "alias": "North American Baptist Seminary",
-    "population": null
+    "alias": "North American Baptist Seminary"
   },
   {
     "id": "142920",
@@ -30853,8 +30709,7 @@
     "city": "Nashville",
     "state": "TN",
     "domain": "aquinascollege.edu",
-    "alias": "AQUINASCOLLEGE",
-    "population": null
+    "alias": "AQUINASCOLLEGE"
   },
   {
     "id": "143109",
@@ -30953,8 +30808,7 @@
     "city": "Cleveland",
     "state": "TN",
     "domain": "ptseminary.edu",
-    "alias": "PTSEMINARY",
-    "population": 0
+    "alias": "PTSEMINARY"
   },
   {
     "id": "143206",
@@ -31297,8 +31151,7 @@
     "city": "Nashville",
     "state": "TN",
     "domain": "mmc.edu",
-    "alias": "MMC",
-    "population": null
+    "alias": "MMC"
   },
   {
     "id": "143604",
@@ -31337,8 +31190,7 @@
     "city": "Memphis",
     "state": "TN",
     "domain": "memphisseminary.edu",
-    "alias": "MEMPHISSEMINARY",
-    "population": null
+    "alias": "MEMPHISSEMINARY"
   },
   {
     "id": "143640",
@@ -31378,8 +31230,7 @@
     "city": "Madison",
     "state": "TN",
     "domain": "mtsa.edu",
-    "alias": "MTSA",
-    "population": null
+    "alias": "MTSA"
   },
   {
     "id": "143701",
@@ -31632,8 +31483,7 @@
     "city": "Memphis",
     "state": "TN",
     "domain": "sco.edu",
-    "alias": "SCO",
-    "population": null
+    "alias": "SCO"
   },
   {
     "id": "144014",
@@ -31948,8 +31798,7 @@
     "city": "Austin",
     "state": "TX",
     "domain": "austinseminary.edu",
-    "alias": "AUSTINSEMINARY",
-    "population": null
+    "alias": "AUSTINSEMINARY"
   },
   {
     "id": "144449",
@@ -31985,8 +31834,7 @@
     "city": "College Station",
     "state": "TX",
     "domain": "tamhsc.edu",
-    "alias": "TAMHSC",
-    "population": null
+    "alias": "TAMHSC"
   },
   {
     "id": "144494",
@@ -32206,8 +32054,7 @@
     "city": "Dallas",
     "state": "TX",
     "domain": "dts.edu",
-    "alias": "DTS",
-    "population": null
+    "alias": "DTS"
   },
   {
     "id": "144795",
@@ -32330,8 +32177,7 @@
     "city": "Austin",
     "state": "TX",
     "domain": "ssw.edu",
-    "alias": "SSW",
-    "population": null
+    "alias": "SSW"
   },
   {
     "id": "144962",
@@ -32874,8 +32720,7 @@
     "city": "San Antonio",
     "state": "TX",
     "domain": "ost.edu",
-    "alias": "Oblate",
-    "population": null
+    "alias": "Oblate"
   },
   {
     "id": "145716",
@@ -33121,8 +32966,7 @@
     "city": "Houston",
     "state": "TX",
     "domain": "stcl.edu",
-    "alias": "STCL",
-    "population": null
+    "alias": "STCL"
   },
   {
     "id": "146010",
@@ -33292,8 +33136,7 @@
     "city": "Dallas",
     "state": "TX",
     "domain": "utsouthwestern.edu",
-    "alias": "UT Southwestern UT Southwestern Medical School UT Southwestern Graduate School of Biomedical Sciences UT Southwestern Allied Health Sciences School UTSW Medical School UTSW Graduate School UTSW Allied Health School UTSWMC UTSWMC Medical School UTSWMC Graduate School UTSWMC Allied Health School University of Texas Southwestern Medical School University of Texas Southwestern Graduate School of Biomedical Sciences University of Texas Southwestern Allied Health Sciences School University of Texas Southwestern School of Health Professions",
-    "population": null
+    "alias": "UT Southwestern UT Southwestern Medical School UT Southwestern Graduate School of Biomedical Sciences UT Southwestern Allied Health Sciences School UTSW Medical School UTSW Graduate School UTSW Allied Health School UTSWMC UTSWMC Medical School UTSWMC Graduate School UTSWMC Allied Health School University of Texas Southwestern Medical School University of Texas Southwestern Graduate School of Biomedical Sciences University of Texas Southwestern Allied Health Sciences School University of Texas Southwestern School of Health Professions"
   },
   {
     "id": "146205",
@@ -33422,8 +33265,7 @@
     "city": "Pasadena",
     "state": "TX",
     "domain": "txchiro.edu",
-    "alias": "TCC/TxChiroCollege/",
-    "population": null
+    "alias": "TCC/TxChiroCollege/"
   },
   {
     "id": "146375",
@@ -33452,8 +33294,7 @@
     "city": "Forth Worth",
     "state": "TX",
     "domain": "unthsc.edu",
-    "alias": "UNT Health Science CenterUNTHSCUniversity of North Texas Health Sciences Center at Fort WorthUNT Health Sciences CenterTexas College of Osteopathic MedicineTCOM",
-    "population": null
+    "alias": "UNT Health Science CenterUNTHSCUniversity of North Texas Health Sciences Center at Fort WorthUNT Health Sciences CenterTexas College of Osteopathic MedicineTCOM"
   },
   {
     "id": "146409",
@@ -34073,8 +33914,7 @@
     "city": "Brattleboro",
     "state": "VT",
     "domain": "sit.edu",
-    "alias": "SIT; School for International Training",
-    "population": null
+    "alias": "SIT; School for International Training"
   },
   {
     "id": "147244",
@@ -34093,8 +33933,7 @@
     "city": "South Royalton",
     "state": "VT",
     "domain": "vermontlaw.edu",
-    "alias": "VLS",
-    "population": null
+    "alias": "VLS"
   },
   {
     "id": "147271",
@@ -34298,8 +34137,7 @@
     "city": "Norfolk",
     "state": "VA",
     "domain": "evms.edu",
-    "alias": "EVMS",
-    "population": null
+    "alias": "EVMS"
   },
   {
     "id": "147536",
@@ -34840,8 +34678,7 @@
     "city": "Richmond",
     "state": "VA",
     "domain": "upsem.edu",
-    "alias": "Union Presbyterian",
-    "population": null
+    "alias": "Union Presbyterian"
   },
   {
     "id": "148195",
@@ -35974,8 +35811,7 @@
     "city": "Lewisburg",
     "state": "WV",
     "domain": "wvsom.edu",
-    "alias": "WVSOM",
-    "population": null
+    "alias": "WVSOM"
   },
   {
     "id": "149657",
@@ -36313,8 +36149,7 @@
     "city": "Milwaukee",
     "state": "WI",
     "domain": "mcw.edu",
-    "alias": "MCW",
-    "population": null
+    "alias": "MCW"
   },
   {
     "id": "150136",
@@ -36390,8 +36225,7 @@
     "city": "Nashotah",
     "state": "WI",
     "domain": "nashotah.edu",
-    "alias": "NASHOTAH",
-    "population": null
+    "alias": "NASHOTAH"
   },
   {
     "id": "150215",
@@ -36450,8 +36284,7 @@
     "city": "Hales Corners",
     "state": "WI",
     "domain": "shsst.edu",
-    "alias": "SHSST",
-    "population": null
+    "alias": "SHSST"
   },
   {
     "id": "150288",
@@ -36595,8 +36428,7 @@
     "city": "Milwaukee",
     "state": "WI",
     "domain": "wspp.edu",
-    "alias": "WSPP",
-    "population": null
+    "alias": "WSPP"
   },
   {
     "id": "150482",
@@ -37002,8 +36834,7 @@
     "city": "San Juan",
     "state": "PR",
     "domain": "ceaprc.edu",
-    "alias": "CEAPRC",
-    "population": null
+    "alias": "CEAPRC"
   },
   {
     "id": "151014",
@@ -37022,8 +36853,7 @@
     "city": "San Juan",
     "state": "PR",
     "domain": "se-pr.edu",
-    "alias": "SE-PR",
-    "population": null
+    "alias": "SE-PR"
   },
   {
     "id": "151041",
@@ -37189,8 +37019,7 @@
     "city": "Bayamon",
     "state": "PR",
     "domain": "derecho.inter.edu",
-    "alias": "INTER",
-    "population": null
+    "alias": "INTER"
   },
   {
     "id": "151263",
@@ -37710,8 +37539,7 @@
     "city": "Houston",
     "state": "TX",
     "domain": "hgst.edu",
-    "alias": "HGST",
-    "population": null
+    "alias": "HGST"
   },
   {
     "id": "152132",
@@ -37737,8 +37565,7 @@
     "city": "Barrytown",
     "state": "NY",
     "domain": "uts.edu",
-    "alias": "UTS",
-    "population": null
+    "alias": "UTS"
   },
   {
     "id": "152202",
@@ -38470,8 +38297,7 @@
     "city": "Washington",
     "state": "DC",
     "domain": "law.udc.edu",
-    "alias": "UDC",
-    "population": null
+    "alias": "UDC"
   },
   {
     "id": "153658",
@@ -38772,8 +38598,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "nyaa.edu",
-    "alias": "NYAA",
-    "population": null
+    "alias": "NYAA"
   },
   {
     "id": "154280",
@@ -38856,8 +38681,7 @@
     "city": "Santa Fe",
     "state": "NM",
     "domain": "acupuncturecollege.edu",
-    "alias": "ACUPUNCTURECOLLEGE",
-    "population": null
+    "alias": "ACUPUNCTURECOLLEGE"
   },
   {
     "id": "154411",
@@ -39193,8 +39017,7 @@
     "city": "Andover",
     "state": "MA",
     "domain": "mslaw.edu",
-    "alias": "MSLAW",
-    "population": null
+    "alias": "MSLAW"
   },
   {
     "id": "155098",
@@ -39277,8 +39100,7 @@
     "city": "Portland",
     "state": "OR",
     "domain": "ocom.edu",
-    "alias": "OCOM",
-    "population": null
+    "alias": "OCOM"
   },
   {
     "id": "155238",
@@ -39606,8 +39428,7 @@
     "city": "Minnetonka",
     "state": "MN",
     "domain": "alfredadler.edu",
-    "alias": "ALFREDADLER",
-    "population": null
+    "alias": "ALFREDADLER"
   },
   {
     "id": "155946",
@@ -40318,8 +40139,7 @@
     "city": "Denver",
     "state": "CO",
     "domain": "cstcm.edu",
-    "alias": "CSTCM",
-    "population": null
+    "alias": "CSTCM"
   },
   {
     "id": "157322",
@@ -40335,8 +40155,7 @@
     "city": "Scottsdale",
     "state": "AZ",
     "domain": "ps.edu",
-    "alias": "PS",
-    "population": null
+    "alias": "PS"
   },
   {
     "id": "157377",
@@ -40694,8 +40513,7 @@
     "city": "Berkeley",
     "state": "CA",
     "domain": "aimc.edu",
-    "alias": "AIMC Berkeley",
-    "population": null
+    "alias": "AIMC Berkeley"
   },
   {
     "id": "158158",
@@ -41107,8 +40925,7 @@
     "city": "Los Angeles",
     "state": "CA",
     "domain": "yosan.edu",
-    "alias": "Yo San University",
-    "population": null
+    "alias": "Yo San University"
   },
   {
     "id": "159027",
@@ -41446,8 +41263,7 @@
     "city": "Erie",
     "state": "PA",
     "domain": "lecom.edu",
-    "alias": "LECOM",
-    "population": null
+    "alias": "LECOM"
   },
   {
     "id": "160126",
@@ -41607,8 +41423,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "erikson.edu",
-    "alias": "The Erikson Institute Erikson Erickson Institute",
-    "population": null
+    "alias": "The Erikson Institute Erikson Erickson Institute"
   },
   {
     "id": "160490",
@@ -41648,8 +41463,7 @@
     "city": "Bristol",
     "state": "RI",
     "domain": "law.rwu.edu",
-    "alias": "RWU",
-    "population": null
+    "alias": "RWU"
   },
   {
     "id": "160612",
@@ -41950,8 +41764,7 @@
     "city": "Tulsa",
     "state": "OK",
     "domain": "ptstulsa.edu",
-    "alias": "PTSTULSA",
-    "population": null
+    "alias": "PTSTULSA"
   },
   {
     "id": "161475",
@@ -42783,8 +42596,7 @@
     "city": "Tempe",
     "state": "AZ",
     "domain": "scnm.edu",
-    "alias": "SCNM",
-    "population": null
+    "alias": "SCNM"
   },
   {
     "id": "163204",
@@ -42928,8 +42740,7 @@
     "city": "Dallas",
     "state": "TX",
     "domain": "bgu.edu",
-    "alias": "BGU",
-    "population": null
+    "alias": "BGU"
   },
   {
     "id": "163444",
@@ -43355,8 +43166,7 @@
     "city": "Houston",
     "state": "TX",
     "domain": "acaom.edu",
-    "alias": "ACAOM",
-    "population": null
+    "alias": "ACAOM"
   },
   {
     "id": "164517",
@@ -43365,8 +43175,7 @@
     "city": "Austin",
     "state": "TX",
     "domain": "aoma.edu",
-    "alias": "AOMA",
-    "population": null
+    "alias": "AOMA"
   },
   {
     "id": "164526",
@@ -43804,8 +43613,7 @@
     "city": "Grundy",
     "state": "VA",
     "domain": "asl.edu",
-    "alias": "ASL",
-    "population": null
+    "alias": "ASL"
   },
   {
     "id": "165608",
@@ -44076,8 +43884,7 @@
     "city": "Orlando",
     "state": "FL",
     "domain": "fcim.edu",
-    "alias": "FCIM",
-    "population": null
+    "alias": "FCIM"
   },
   {
     "id": "166203",
@@ -44130,8 +43937,7 @@
     "city": "Jacksonville",
     "state": "FL",
     "domain": "fcsl.edu",
-    "alias": "FCSL",
-    "population": null
+    "alias": "FCSL"
   },
   {
     "id": "166355",
@@ -44211,8 +44017,7 @@
     "city": "Milwaukee",
     "state": "WI",
     "domain": "montessori6-12ami.org",
-    "alias": "MONTESSORI6-12AMI",
-    "population": null
+    "alias": "MONTESSORI6-12AMI"
   },
   {
     "id": "166601",
@@ -44235,8 +44040,7 @@
     "city": "Boulder",
     "state": "CO",
     "domain": "acupuncturecollege.edu",
-    "alias": "ACUPUNCTURECOLLEGE",
-    "population": null
+    "alias": "ACUPUNCTURECOLLEGE"
   },
   {
     "id": "166683",
@@ -44656,8 +44460,7 @@
     "city": "Pembroke Pines",
     "state": "FL",
     "domain": "sec.edu",
-    "alias": "SEC",
-    "population": null
+    "alias": "SEC"
   },
   {
     "id": "167473",
@@ -45090,8 +44893,7 @@
     "city": "Rochester",
     "state": "NY",
     "domain": "nes.edu",
-    "alias": "NES",
-    "population": null
+    "alias": "NES"
   },
   {
     "id": "168546",
@@ -45127,8 +44929,7 @@
     "city": "Seattle",
     "state": "WA",
     "domain": "sieam.edu",
-    "alias": "SIEAM",
-    "population": null
+    "alias": "SIEAM"
   },
   {
     "id": "168634",
@@ -45161,8 +44962,7 @@
     "city": "Lebanon",
     "state": "NH",
     "domain": "uvei.edu",
-    "alias": "UVEI, UVTI",
-    "population": null
+    "alias": "UVEI, UVTI"
   },
   {
     "id": "168689",
@@ -45178,8 +44978,7 @@
     "city": "Claremont",
     "state": "CA",
     "domain": "kgi.edu",
-    "alias": "KGI  Keck Graduate Institute of Applied Life Sciences",
-    "population": null
+    "alias": "KGI  Keck Graduate Institute of Applied Life Sciences"
   },
   {
     "id": "168704",
@@ -45413,8 +45212,7 @@
     "city": "Seattle",
     "state": "WA",
     "domain": "theseattleschool.edu",
-    "alias": "The Seattle School",
-    "population": null
+    "alias": "The Seattle School"
   },
   {
     "id": "169576",
@@ -45443,8 +45241,7 @@
     "city": "Duarte",
     "state": "CA",
     "domain": "cityofhope.org",
-    "alias": "CITYOFHOPE",
-    "population": null
+    "alias": "CITYOFHOPE"
   },
   {
     "id": "169646",
@@ -45851,8 +45648,7 @@
     "city": "Glenside",
     "state": "PA",
     "domain": "woninstitute.edu",
-    "alias": "WONINSTITUTE",
-    "population": null
+    "alias": "WONINSTITUTE"
   },
   {
     "id": "170365",
@@ -45885,8 +45681,7 @@
     "city": "Naples",
     "state": "FL",
     "domain": "avemarialaw.edu",
-    "alias": "AVEMARIALAW",
-    "population": null
+    "alias": "AVEMARIALAW"
   },
   {
     "id": "170596",
@@ -45895,8 +45690,7 @@
     "city": "Yellow Springs",
     "state": "OH",
     "domain": "antioch.edu",
-    "alias": "ANTIOCH",
-    "population": null
+    "alias": "ANTIOCH"
   },
   {
     "id": "170611",
@@ -45970,8 +45764,7 @@
     "city": "Blacksburg",
     "state": "VA",
     "domain": "vcom.edu",
-    "alias": "VCOM",
-    "population": null
+    "alias": "VCOM"
   },
   {
     "id": "170958",
@@ -46079,8 +45872,7 @@
     "city": "Evanston",
     "state": "IL",
     "domain": "northshore.org",
-    "alias": "NORTHSHORE",
-    "population": null
+    "alias": "NORTHSHORE"
   },
   {
     "id": "171146",
@@ -46109,8 +45901,7 @@
     "city": "Salisbury",
     "state": "NC",
     "domain": "hoodseminary.edu",
-    "alias": "HOODSEMINARY",
-    "population": null
+    "alias": "HOODSEMINARY"
   },
   {
     "id": "171173",
@@ -46133,8 +45924,7 @@
     "city": "San Jose",
     "state": "CA",
     "domain": "itu.edu",
-    "alias": "ITU",
-    "population": null
+    "alias": "ITU"
   },
   {
     "id": "171225",
@@ -46727,8 +46517,7 @@
     "city": "Honolulu",
     "state": "HI",
     "domain": "orientalmedicine.edu",
-    "alias": "ORIENTALMEDICINE",
-    "population": null
+    "alias": "ORIENTALMEDICINE"
   },
   {
     "id": "172714",
@@ -46901,8 +46690,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "ttic.edu",
-    "alias": "TTI-C TTIC",
-    "population": null
+    "alias": "TTI-C TTIC"
   },
   {
     "id": "173115",
@@ -47061,8 +46849,7 @@
     "city": "Gainesville",
     "state": "FL",
     "domain": "acupuncturist.edu",
-    "alias": "ACUPUNCTURIST",
-    "population": null
+    "alias": "ACUPUNCTURIST"
   },
   {
     "id": "173735",
@@ -47071,8 +46858,7 @@
     "city": "Roseville",
     "state": "MN",
     "domain": "aaaom.edu",
-    "alias": "American Academy of Traditional Chinese Medicine, Inc.",
-    "population": null
+    "alias": "American Academy of Traditional Chinese Medicine, Inc."
   },
   {
     "id": "173744",
@@ -47081,8 +46867,7 @@
     "city": "Tucson",
     "state": "AZ",
     "domain": "asaom.edu",
-    "alias": "ASAOM",
-    "population": null
+    "alias": "ASAOM"
   },
   {
     "id": "173762",
@@ -47091,8 +46876,7 @@
     "city": "Gainesville",
     "state": "FL",
     "domain": "dragonrises.edu",
-    "alias": "Dragon Rises College",
-    "population": null
+    "alias": "Dragon Rises College"
   },
   {
     "id": "173771",
@@ -47111,8 +46895,7 @@
     "city": "Phoenix",
     "state": "AZ",
     "domain": "pihma.edu",
-    "alias": "PIHMA College & Clinic",
-    "population": null
+    "alias": "PIHMA College & Clinic"
   },
   {
     "id": "173799",
@@ -47128,8 +46911,7 @@
     "city": "Vallejo",
     "state": "CA",
     "domain": "tu.edu",
-    "alias": "TUC",
-    "population": null
+    "alias": "TUC"
   },
   {
     "id": "173841",
@@ -47216,8 +46998,7 @@
     "city": "Dayton",
     "state": "TN",
     "domain": "ogs.edu",
-    "alias": "American Centre for Religion and Society Studies",
-    "population": null
+    "alias": "American Centre for Religion and Society Studies"
   },
   {
     "id": "174534",
@@ -47282,8 +47063,7 @@
     "city": "Fort Worth",
     "state": "TX",
     "domain": "brite.edu",
-    "alias": "BRITE",
-    "population": null
+    "alias": "BRITE"
   },
   {
     "id": "175999",
@@ -47471,8 +47251,7 @@
     "city": "Provo",
     "state": "UT",
     "domain": "rm.edu",
-    "alias": "RMUoHP",
-    "population": null
+    "alias": "RMUoHP"
   },
   {
     "id": "177700",
@@ -47593,8 +47372,7 @@
     "city": "Washington",
     "state": "DC",
     "domain": "iwp.edu",
-    "alias": "IWP",
-    "population": null
+    "alias": "IWP"
   },
   {
     "id": "179098",
@@ -47786,8 +47564,7 @@
     "city": "Manhasset",
     "state": "NY",
     "domain": "elmezzigraduateschool.org",
-    "alias": "ELMEZZIGRADUATESCHOOL",
-    "population": null
+    "alias": "ELMEZZIGRADUATESCHOOL"
   },
   {
     "id": "182290",
@@ -48022,8 +47799,7 @@
     "city": "Sunnyvale",
     "state": "CA",
     "domain": "uewm.edu",
-    "alias": "UEWM",
-    "population": null
+    "alias": "UEWM"
   },
   {
     "id": "183691",
@@ -48032,8 +47808,7 @@
     "city": "Oakwood",
     "state": "VA",
     "domain": "acp.edu",
-    "alias": "ACP",
-    "population": null
+    "alias": "ACP"
   },
   {
     "id": "183707",
@@ -48106,8 +47881,7 @@
     "city": "Louisville",
     "state": "CO",
     "domain": "itea.edu",
-    "alias": "ITEA",
-    "population": null
+    "alias": "ITEA"
   },
   {
     "id": "183895",
@@ -48116,8 +47890,7 @@
     "city": "Sugar Grove",
     "state": "NC",
     "domain": "jungtao.edu",
-    "alias": "JUNGTAO",
-    "population": null
+    "alias": "JUNGTAO"
   },
   {
     "id": "183938",
@@ -48540,8 +48313,7 @@
     "city": "Asheville",
     "state": "NC",
     "domain": "daoisttraditions.edu",
-    "alias": "DAOISTTRADITIONS",
-    "population": null
+    "alias": "DAOISTTRADITIONS"
   },
   {
     "id": "185846",
@@ -48914,8 +48686,7 @@
     "city": "Charleston",
     "state": "SC",
     "domain": "charlestonlaw.edu",
-    "alias": "CHARLESTONLAW",
-    "population": null
+    "alias": "CHARLESTONLAW"
   },
   {
     "id": "187781",
@@ -49326,8 +49097,7 @@
     "city": "Chicago",
     "state": "IL",
     "domain": "bexleyseabury.edu",
-    "alias": "Bexley Hall Seminary Bexley Hall Bexley Hall Episcopal Seminary Bexley Institute Seabury-Western Theological Seminary",
-    "population": null
+    "alias": "Bexley Hall Seminary Bexley Hall Bexley Hall Episcopal Seminary Bexley Institute Seabury-Western Theological Seminary"
   },
   {
     "id": "189042",
@@ -49487,8 +49257,7 @@
     "city": "Pittsburgh",
     "state": "PA",
     "domain": "bcs.edu",
-    "alias": "B.C.S.",
-    "population": null
+    "alias": "B.C.S."
   },
   {
     "id": "189316",
@@ -49696,8 +49465,7 @@
     "city": "Sterling",
     "state": "VA",
     "domain": "divinemercy.edu",
-    "alias": "DMU",
-    "population": null
+    "alias": "DMU"
   },
   {
     "id": "190363",
@@ -50116,8 +49884,7 @@
     "city": "Yakima",
     "state": "WA",
     "domain": "pnwu.edu",
-    "alias": "PNWU",
-    "population": null
+    "alias": "PNWU"
   },
   {
     "id": "192077",
@@ -50612,8 +50379,7 @@
     "city": "Cary",
     "state": "NC",
     "domain": "shepherds.edu",
-    "alias": "SHEPHERDS",
-    "population": null
+    "alias": "SHEPHERDS"
   },
   {
     "id": "207087",
@@ -50699,8 +50465,7 @@
     "city": "Bozeman",
     "state": "MT",
     "domain": "montanabiblecollege.edu",
-    "alias": "MONTANABIBLECOLLEGE",
-    "population": 0
+    "alias": "MONTANABIBLECOLLEGE"
   },
   {
     "id": "207342",
@@ -50918,8 +50683,7 @@
     "city": "Center City",
     "state": "MN",
     "domain": "hazeldenbettyford.edu",
-    "alias": "HAZELDENBETTYFORD",
-    "population": null
+    "alias": "HAZELDENBETTYFORD"
   },
   {
     "id": "208044",
@@ -51072,8 +50836,7 @@
     "city": "Los Angeles",
     "state": "CA",
     "domain": "ajrca.edu",
-    "alias": "AJRCA",
-    "population": null
+    "alias": "AJRCA"
   },
   {
     "id": "209533",
@@ -51082,8 +50845,7 @@
     "city": "Wentzville",
     "state": "MO",
     "domain": "ugst.edu",
-    "alias": "UGST",
-    "population": null
+    "alias": "UGST"
   },
   {
     "id": "209542",
@@ -51119,8 +50881,7 @@
     "city": "Lake Elmo",
     "state": "MN",
     "domain": "rasmussen.edu",
-    "alias": "RASMUSSEN",
-    "population": null
+    "alias": "RASMUSSEN"
   },
   {
     "id": "210100",
@@ -51386,8 +51147,7 @@
     "city": "Chattanooga",
     "state": "TN",
     "domain": "richmont.edu",
-    "alias": "RICHMONT",
-    "population": null
+    "alias": "RICHMONT"
   },
   {
     "id": "211185",
@@ -51443,8 +51203,7 @@
     "city": "Seward",
     "state": "NE",
     "domain": "sggs.edu",
-    "alias": "SGGS",
-    "population": null
+    "alias": "SGGS"
   },
   {
     "id": "211255",
@@ -52031,8 +51790,7 @@
     "city": "Franklin",
     "state": "WV",
     "domain": "future.edu",
-    "alias": "FUTURE",
-    "population": null
+    "alias": "FUTURE"
   },
   {
     "id": "213367",
@@ -52284,8 +52042,7 @@
     "city": "Washington",
     "state": "DC",
     "domain": "johnpaulii.edu",
-    "alias": "JOHNPAULII",
-    "population": null
+    "alias": "JOHNPAULII"
   },
   {
     "id": "214519",
@@ -52294,8 +52051,7 @@
     "city": "Montpelier",
     "state": "VT",
     "domain": "vcfa.edu",
-    "alias": "VCFA",
-    "population": null
+    "alias": "VCFA"
   },
   {
     "id": "214528",
@@ -52395,8 +52151,7 @@
     "city": "Bethlehem",
     "state": "PA",
     "domain": "iirp.edu",
-    "alias": "IIRP Graduate School",
-    "population": null
+    "alias": "IIRP Graduate School"
   },
   {
     "id": "214801",
@@ -52470,8 +52225,7 @@
     "city": "New York",
     "state": "NY",
     "domain": "christies.edu",
-    "alias": "CHRISTIES",
-    "population": null
+    "alias": "CHRISTIES"
   },
   {
     "id": "215114",
@@ -52993,8 +52747,7 @@
     "city": "San Francisco",
     "state": "CA",
     "domain": "presidio.edu",
-    "alias": "PRESIDIO",
-    "population": null
+    "alias": "PRESIDIO"
   },
   {
     "id": "216649",
@@ -53104,8 +52857,7 @@
     "city": "Blue Bell",
     "state": "PA",
     "domain": "reseminary.edu",
-    "alias": "Reformed Episcopal Seminary",
-    "population": null
+    "alias": "Reformed Episcopal Seminary"
   },
   {
     "id": "217095",
@@ -53392,8 +53144,7 @@
     "city": "Portland",
     "state": "ME",
     "domain": "idsva.edu",
-    "alias": "IDSVA",
-    "population": null
+    "alias": "IDSVA"
   },
   {
     "id": "218186",
@@ -53802,8 +53553,7 @@
     "city": "La Jolla",
     "state": "CA",
     "domain": "sbpdiscovery.org",
-    "alias": "SBPDISCOVERY",
-    "population": null
+    "alias": "SBPDISCOVERY"
   },
   {
     "id": "219222",
@@ -54408,8 +54158,7 @@
     "city": "San Diego",
     "state": "CA",
     "domain": "hthgse.edu",
-    "alias": "HTHGSE",
-    "population": null
+    "alias": "HTHGSE"
   },
   {
     "id": "228778",
@@ -54425,8 +54174,7 @@
     "city": "Dothan",
     "state": "AL",
     "domain": "acom.edu",
-    "alias": "ACOM",
-    "population": null
+    "alias": "ACOM"
   },
   {
     "id": "228802",
@@ -54435,8 +54183,7 @@
     "city": "Parker",
     "state": "CO",
     "domain": "rvu.edu",
-    "alias": "RVU",
-    "population": null
+    "alias": "RVU"
   },
   {
     "id": "228811",
@@ -55157,8 +54904,7 @@
     "city": "Claremont",
     "state": "CA",
     "domain": "claremontlincoln.edu",
-    "alias": "CLAREMONTLINCOLN",
-    "population": null
+    "alias": "CLAREMONTLINCOLN"
   },
   {
     "id": "231518",
@@ -55338,8 +55084,7 @@
     "city": "Fairfax",
     "state": "VA",
     "domain": "vuim.edu",
-    "alias": "VUIM",
-    "population": null
+    "alias": "VUIM"
   },
   {
     "id": "232742",
@@ -55365,8 +55110,7 @@
     "city": "Orlando",
     "state": "FL",
     "domain": "agmvirtual.suagm.edu",
-    "alias": "UAGM Online",
-    "population": null
+    "alias": "UAGM Online"
   },
   {
     "id": "233073",
@@ -55444,8 +55188,7 @@
     "city": "Elkhorn",
     "state": "WI",
     "domain": "wrightgrad.edu",
-    "alias": "WRIGHTGRAD",
-    "population": null
+    "alias": "WRIGHTGRAD"
   },
   {
     "id": "233657",
@@ -55768,8 +55511,7 @@
     "city": "Roanoke",
     "state": "VA",
     "domain": "vtc.vt.edu",
-    "alias": "Virginia Polytechnic Institute & State University - VTCSOM",
-    "population": null
+    "alias": "Virginia Polytechnic Institute & State University - VTCSOM"
   },
   {
     "id": "235574",
@@ -55778,8 +55520,7 @@
     "city": "Tyler",
     "state": "TX",
     "domain": "uthct.edu",
-    "alias": "UT Health",
-    "population": null
+    "alias": "UT Health"
   },
   {
     "id": "235583",
@@ -55860,8 +55601,7 @@
     "city": "Las Vegas",
     "state": "NV",
     "domain": "wongu.org",
-    "alias": "Wongu University",
-    "population": null
+    "alias": "Wongu University"
   },
   {
     "id": "235909",
@@ -55940,8 +55680,7 @@
     "city": "Ventura",
     "state": "CA",
     "domain": "collegesoflaw.edu",
-    "alias": "COLLEGESOFLAW",
-    "population": null
+    "alias": "COLLEGESOFLAW"
   },
   {
     "id": "236489",
@@ -55997,8 +55736,7 @@
     "city": "Houston",
     "state": "TX",
     "domain": "bcm.edu",
-    "alias": "BCM",
-    "population": null
+    "alias": "BCM"
   },
   {
     "id": "236665",
@@ -56021,8 +55759,7 @@
     "city": "Alhambra",
     "state": "CA",
     "domain": "ciam.edu",
-    "alias": "CIAM",
-    "population": null
+    "alias": "CIAM"
   },
   {
     "id": "236717",
@@ -56355,8 +56092,7 @@
     "city": "Fort Smith",
     "state": "AR",
     "domain": "acheedu.org",
-    "alias": "Arkansas College of Osteopathic Medicine, ARCOM",
-    "population": null
+    "alias": "Arkansas College of Osteopathic Medicine, ARCOM"
   },
   {
     "id": "238333",
@@ -56434,8 +56170,7 @@
     "city": "Kalamazoo",
     "state": "MI",
     "domain": "med.wmich.edu",
-    "alias": "Western Michigan University School of Medicine",
-    "population": null
+    "alias": "Western Michigan University School of Medicine"
   },
   {
     "id": "238999",
@@ -57580,8 +57315,7 @@
     "city": "Scranton",
     "state": "PA",
     "domain": "geisinger.edu",
-    "alias": "GCSOM",
-    "population": null
+    "alias": "GCSOM"
   },
   {
     "id": "245999",
@@ -57811,8 +57545,7 @@
     "city": "Philadelphia",
     "state": "PA",
     "domain": "missio.edu",
-    "alias": "Missio Seminary",
-    "population": null
+    "alias": "Missio Seminary"
   },
   {
     "id": "248855",
@@ -57869,8 +57602,7 @@
     "city": "Albany",
     "state": "NY",
     "domain": "albanylaw.edu",
-    "alias": "ALBANYLAW",
-    "population": null
+    "alias": "ALBANYLAW"
   },
   {
     "id": "249371",
