@@ -75,7 +75,24 @@ async function main() {
         search : `${highschool.name} ${highschool.city}, ${highschool.state}`,
         scoreBoost : scoreBoost[highschool.id] || undefined,
       },
-    }, { upsert : true });
+    });
+  });
+
+  bulkHS.find({ eduId : 'homeschool', level : 'HS' }).upsert().updateOne({
+    $set : {
+      eduId : 'homeschool',
+      name : 'Home School',
+      agency : 'At Home',
+      alias : 'Homeschool',
+      city : 'Home',
+      subdivision : 'Anywhere',
+      country : 'US',
+      level : 'HS',
+      type : 'PRIVATE',
+      population : 30000,
+      scoreBoost : 100,
+      search : `homeschool home school`,
+    },
   });
   const { result : highschoolResult } = await bulkHS.execute();
   console.log(`${highschoolResult.nModified} highschools modified | ${highschoolResult.nUpserted} highschools added`);
