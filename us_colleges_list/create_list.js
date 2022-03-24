@@ -55,7 +55,8 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       return;
     }
 
-    let { url, alias, population } = collegeScorecard || {};
+    let { url, alias, population : collegeScorecardPopulation } = collegeScorecard || {};
+    let population;
 
     if (exception) {
       if (exception.name) {
@@ -63,6 +64,9 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       }
       if (exception.url) {
         ({ url } = exception);
+      }
+      if (exception.population) {
+        ({ population } = exception);
       }
     }
 
@@ -90,8 +94,8 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       alias = _.chain(domain).split('.').reverse().get(1).toUpper().value();
     }
 
-    if (population) {
-      population = population.total;
+    if (!population && collegeScorecardPopulation) {
+      population = collegeScorecardPopulation.total;
     }
 
     const entry = {
