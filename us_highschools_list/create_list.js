@@ -3,6 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
 
+const ADDITIONS = require('./additions');
+
 const PUBLIC_CSV_PATH = process.argv[2];
 const ELSI_EXPORT_CSV_PATH = process.argv[3];
 const PRIVATE_CSV_PATH = process.argv[4];
@@ -153,6 +155,13 @@ function processName(input) {
 
     schools.set(id, entry);
   });
+
+  _.each(ADDITIONS, (school) => {
+    if (!schools.has(school.id)) {
+      schools.set(school.id, school);
+    }
+  });
+
   console.log('Finished Private Schools');
   const totalPrivate = schools.size - totalPublic;
 
