@@ -11,7 +11,7 @@ US Centers of Academic Excellence in Cybersecurity: https://www.caecommunity.org
 ### Obtaining High School Data
 
 1. Download the latest year CCD directory data from https://nces.ed.gov/ccd/files.asp#Fiscal:2,LevelId:7,Page:1 
-2. Create a table on the ElSi tableGenerator to include total students column and school ID (e.g. for 2021 - https://nces.ed.gov/ccd/elsi/tableGenerator.aspx?savedTableID=382866)
+2. Create a table on the ElSi tableGenerator to include total students column and school ID (e.g. for 2021 - https://nces.ed.gov/ccd/elsi/tableGenerator.aspx?savedTableID=421908)
 3. Download as CSV
 4. Run the `create_list.js` script for high school with the CCD directory data, ElSi data, and PSS data
 
