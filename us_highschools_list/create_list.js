@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
 
-const ADDITIONS = require('./additions');
+const OVERRIDES = require('./overrides');
 
 const PUBLIC_CSV_PATH = process.argv[2];
 const ELSI_EXPORT_CSV_PATH = process.argv[3];
@@ -44,6 +44,7 @@ function processName(input) {
 
 (async function run() {
   const schools = new Map();
+  const overridesLookup = _.keyBy(OVERRIDES, 'id');
 
   console.log('Starting Public Schools');
 
@@ -86,9 +87,12 @@ function processName(input) {
 
     const population = publicPopulationLookup[id] || 0;
 
-    if (!_.includes([ g9, g10, g11, g12 ], 'Yes')) return;
-    if (status === 'Closed') return;
-    if (population < 10) return;
+    const override = overridesLookup[id];
+    if (!override) {
+      if (!_.includes([ g9, g10, g11, g12 ], 'Yes')) return;
+      if (status === 'Closed') return;
+      if (population < 10) return;
+    }
 
     const name = processName(SCH_NAME);
 
@@ -103,6 +107,10 @@ function processName(input) {
       population,
       type : 'PUBLIC',
     };
+
+    if (override) {
+      _.assign(entry, override);
+    }
 
     if (schools.has(id)) {
       console.log(`[DUP] School with duplicate ID exists: ${id} - ${name}`);
@@ -156,7 +164,7 @@ function processName(input) {
     schools.set(id, entry);
   });
 
-  _.each(ADDITIONS, (school) => {
+  _.each(OVERRIDES, (school) => {
     if (!schools.has(school.id)) {
       schools.set(school.id, school);
     }
