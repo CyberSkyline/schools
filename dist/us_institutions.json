@@ -24,7 +24,10 @@
     "state": "AL",
     "domain": "uab.edu",
     "alias": "UAB",
-    "population": 12866
+    "population": 12866,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "100043",
@@ -44,7 +47,11 @@
     "state": "AL",
     "domain": "uah.edu",
     "alias": "UAH University of Alabama Huntsville",
-    "population": 6917
+    "population": 6917,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "100061",
@@ -64,7 +71,10 @@
     "state": "AL",
     "domain": "ua.edu",
     "alias": "UA",
-    "population": 32387
+    "population": 32387,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "100098",
@@ -84,7 +94,10 @@
     "state": "AL",
     "domain": "athens.edu",
     "alias": "ATHENS",
-    "population": 2801
+    "population": 2801,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100113",
@@ -104,7 +117,12 @@
     "state": "AL",
     "domain": "auburn.edu",
     "alias": "AUBURN",
-    "population": 23391
+    "population": 23391,
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
   },
   {
     "id": "100140",
@@ -251,7 +269,10 @@
     "state": "AL",
     "domain": "jsu.edu",
     "alias": "JSU",
-    "population": 6622
+    "population": 6622,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100380",
@@ -281,7 +302,10 @@
     "state": "AL",
     "domain": "calhoun.edu",
     "alias": "Calhoun Community College",
-    "population": 8247
+    "population": 8247,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100423",
@@ -465,7 +489,10 @@
     "state": "AL",
     "domain": "snead.edu",
     "alias": "SNEAD",
-    "population": 1891
+    "population": 1891,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100636",
@@ -475,7 +502,10 @@
     "state": "AL",
     "domain": "southalabama.edu",
     "alias": "SOUTHALABAMA",
-    "population": 10712
+    "population": 10712,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100645",
@@ -549,7 +579,10 @@
     "state": "AL",
     "domain": "tuskegee.edu",
     "alias": "TUSKEGEE",
-    "population": 2833
+    "population": 2833,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100751",
@@ -707,7 +740,10 @@
     "state": "AZ",
     "domain": "asu.edu",
     "alias": "ASU Tempe, ASU Main",
-    "population": 42181
+    "population": 42181,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "101028",
@@ -727,7 +763,11 @@
     "state": "AZ",
     "domain": "arizona.edu",
     "alias": "UAU of AArizonaUofAThe University of ArizonaUniversity of ArizonaUniversity of AzAZUniv. of ArizonaUniv. of AzTucsonTucson, AZthe university of Arizonathe Univ. of Azthe U of AZthe U of AzAriz.Arizona UniversityAz+university85721AZ+univAZ university",
-    "population": 33428
+    "population": 33428,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "101046",
@@ -820,7 +860,10 @@
     "state": "AZ",
     "domain": "gcu.edu",
     "alias": "GCU",
-    "population": 48666
+    "population": 48666,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "101213",
@@ -1044,7 +1087,10 @@
     "state": "AR",
     "domain": "ualr.edu",
     "alias": "UA Little RockUniversity of Arkansas-Little RockArkansas Little Rock",
-    "population": 6677
+    "population": 6677,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "101639",
@@ -1091,7 +1137,10 @@
     "state": "AR",
     "domain": "uark.edu",
     "alias": "University of ArkansasArkansas",
-    "population": 22763
+    "population": 22763,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "101727",
@@ -1946,7 +1995,10 @@
     "state": "CA",
     "domain": "csusb.edu",
     "alias": "Cal State San Bernardino",
-    "population": 18088
+    "population": 18088,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "102915",
@@ -1956,7 +2008,10 @@
     "state": "CA",
     "domain": "cpp.edu",
     "alias": "CPP",
-    "population": 24205
+    "population": 24205,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "102924",
@@ -2046,7 +2101,10 @@
     "state": "CA",
     "domain": "csus.edu",
     "alias": "Sacramento State",
-    "population": 28410
+    "population": 28410,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "103015",
@@ -2066,7 +2124,11 @@
     "state": "CA",
     "domain": "ucdavis.edu",
     "alias": "UC Davis",
-    "population": 30046
+    "population": 30046,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "103033",
@@ -2076,7 +2138,10 @@
     "state": "CA",
     "domain": "uci.edu",
     "alias": "UCI UC Irvine",
-    "population": 29295
+    "population": 29295,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "103042",
@@ -2387,7 +2452,10 @@
     "state": "CA",
     "domain": "ccsf.edu",
     "alias": "CCSF",
-    "population": 23574
+    "population": 23574,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "103468",
@@ -2433,7 +2501,10 @@
     "state": "CA",
     "domain": "coastline.edu",
     "alias": "COASTLINE",
-    "population": 9764
+    "population": 9764,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "103538",
@@ -2540,7 +2611,10 @@
     "state": "CA",
     "domain": "crc.losrios.edu",
     "alias": "Cosumnes River  CRC",
-    "population": 13027
+    "population": 13027,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "103662",
@@ -2587,7 +2661,10 @@
     "state": "CA",
     "domain": "cypresscollege.edu",
     "alias": "CYPRESSCOLLEGE",
-    "population": 14434
+    "population": 14434,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "103732",
@@ -2881,7 +2958,10 @@
     "state": "CA",
     "domain": "fullcoll.edu",
     "alias": "FULLCOLL",
-    "population": 21969
+    "population": 21969,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "104151",
@@ -2932,7 +3012,10 @@
     "state": "CA",
     "domain": "glendale.edu",
     "alias": "GCC  Glendale College",
-    "population": 12996
+    "population": 12996,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "104221",
@@ -3264,7 +3347,10 @@
     "state": "CA",
     "domain": "lbcc.edu",
     "alias": "LBCC",
-    "population": 23312
+    "population": 23312,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "104762",
@@ -3747,7 +3833,10 @@
     "state": "CA",
     "domain": "nu.edu",
     "alias": "NU",
-    "population": 7360
+    "population": 7360,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "105525",
@@ -3756,7 +3845,11 @@
     "city": "Monterey",
     "state": "CA",
     "domain": "nps.edu",
-    "alias": "NPS"
+    "alias": "NPS",
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "105534",
@@ -3881,7 +3974,10 @@
     "state": "CA",
     "domain": "ohlone.edu",
     "alias": "OHLONE",
-    "population": 8026
+    "population": 8026,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "105686",
@@ -4324,7 +4420,10 @@
     "state": "CA",
     "domain": "sandiego.edu",
     "alias": "USD",
-    "population": 5677
+    "population": 5677,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "106263",
@@ -4573,7 +4672,10 @@
     "state": "CA",
     "domain": "sierracollege.edu",
     "alias": "SIERRACOLLEGE",
-    "population": 16383
+    "population": 16383,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "106573",
@@ -4958,7 +5060,10 @@
     "state": "MN",
     "domain": "waldenu.edu",
     "alias": "WALDENU",
-    "population": 6538
+    "population": 6538,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107053",
@@ -5130,7 +5235,10 @@
     "state": "CO",
     "domain": "arapahoe.edu",
     "alias": "ARAPAHOE",
-    "population": 8409
+    "population": 8409,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107309",
@@ -5157,7 +5265,10 @@
     "state": "CO",
     "domain": "uccs.edu",
     "alias": "UCCS",
-    "population": 10344
+    "population": 10344,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107354",
@@ -5237,7 +5348,10 @@
     "state": "CO",
     "domain": "mines.edu",
     "alias": "Mines",
-    "population": 4751
+    "population": 4751,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107442",
@@ -5267,7 +5381,10 @@
     "state": "CO",
     "domain": "coloradotech.edu",
     "alias": "Colorado Tech CTU",
-    "population": 22129
+    "population": 22129,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107488",
@@ -5336,7 +5453,10 @@
     "state": "CO",
     "domain": "du.edu",
     "alias": "DU",
-    "population": 5753
+    "population": 5753,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107576",
@@ -5412,7 +5532,10 @@
     "state": "CO",
     "domain": "coloradomesa.edu",
     "alias": "Colorado Mesa",
-    "population": 8494
+    "population": 8494,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107664",
@@ -5492,7 +5615,10 @@
     "state": "CO",
     "domain": "ppcc.edu",
     "alias": "PPCC",
-    "population": 10856
+    "population": 10856,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107770",
@@ -5509,7 +5635,10 @@
     "state": "CO",
     "domain": "pueblocc.edu",
     "alias": "PUEBLOCC",
-    "population": 3641
+    "population": 3641,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107798",
@@ -5519,7 +5648,10 @@
     "state": "CO",
     "domain": "rrcc.edu",
     "alias": "RRCC",
-    "population": 6150
+    "population": 6150,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107804",
@@ -5529,7 +5661,10 @@
     "state": "CO",
     "domain": "regis.edu",
     "alias": "Regis/Regis College/RU/Jesuit/Jesuit Denver Colorado/Regis Nursing/College of Computer & Information Science/College of Business & Economics/College of Contemporary Liberal Studies/RHCHP/Rangers/Regis U/Regis in Colorado/Rueckert-Hartman College for Health Professions/College of Computer & Information Sciences/College of Business & Economics/Anderson College of Business",
-    "population": 4016
+    "population": 4016,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107813",
@@ -5566,7 +5701,10 @@
     "state": "CO",
     "domain": "csupueblo.edu",
     "alias": "CSU-Pueblo",
-    "population": 3744
+    "population": 3744,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107859",
@@ -5707,7 +5845,10 @@
     "state": "CT",
     "domain": "uconn.edu",
     "alias": "UCONN",
-    "population": 18930
+    "population": 18930,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "108126",
@@ -5897,7 +6038,10 @@
     "state": "CT",
     "domain": "newhaven.edu",
     "alias": "UNH",
-    "population": 5147
+    "population": 5147,
+    "designations": [
+      "CAE-CO"
+    ]
   },
   {
     "id": "108375",
@@ -5981,7 +6125,10 @@
     "state": "CT",
     "domain": "sacredheart.edu",
     "alias": "SHU",
-    "population": 5496
+    "population": 5496,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "108506",
@@ -6142,7 +6289,10 @@
     "state": "DE",
     "domain": "udel.edu",
     "alias": "UD",
-    "population": 18948
+    "population": 18948,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "108764",
@@ -6182,7 +6332,10 @@
     "state": "DE",
     "domain": "wilmu.edu",
     "alias": "WILMU",
-    "population": 8346
+    "population": 8346,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "108816",
@@ -6255,7 +6408,10 @@
     "state": "DC",
     "domain": "gwu.edu",
     "alias": "GWUGW",
-    "population": 11718
+    "population": 11718,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "108898",
@@ -6265,7 +6421,10 @@
     "state": "DC",
     "domain": "georgetown.edu",
     "alias": "GeorgetownGU",
-    "population": 7128
+    "population": 7128,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "108904",
@@ -6459,7 +6618,11 @@
     "state": "FL",
     "domain": "ucf.edu",
     "alias": "UCF",
-    "population": 56366
+    "population": 56366,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "109183",
@@ -6553,7 +6716,10 @@
     "state": "FL",
     "domain": "daytonabeach.erau.edu",
     "alias": "Embry Riddle Aeronautical University-Daytona Beach",
-    "population": 5689
+    "population": 5689,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109299006",
@@ -6563,7 +6729,10 @@
     "state": "AZ",
     "domain": "prescott.erau.edu",
     "alias": "Embry Riddle Aeronautical University-Prescott",
-    "population": 2598
+    "population": 2598,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109305",
@@ -6573,7 +6742,10 @@
     "state": "FL",
     "domain": "famu.edu",
     "alias": "FAMUFlorida A&M UniversityFlorida A&M University RattlersFAMU Rattlers",
-    "population": 7552
+    "population": 7552,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109314",
@@ -6583,7 +6755,10 @@
     "state": "FL",
     "domain": "fau.edu",
     "alias": "FAU",
-    "population": 23748
+    "population": 23748,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "109323",
@@ -6593,7 +6768,10 @@
     "state": "FL",
     "domain": "fscj.edu",
     "alias": "FSCJ",
-    "population": 18789
+    "population": 18789,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109332",
@@ -6670,7 +6848,10 @@
     "state": "FL",
     "domain": "fit.edu",
     "alias": "Florida Tech",
-    "population": 3395
+    "population": 3395,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "109411",
@@ -6690,7 +6871,11 @@
     "state": "FL",
     "domain": "fiu.edu",
     "alias": "FIU",
-    "population": 41834
+    "population": 41834,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "109439",
@@ -6710,7 +6895,10 @@
     "state": "FL",
     "domain": "fmuniv.edu",
     "alias": "FMUNIV",
-    "population": 1173
+    "population": 1173,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109457",
@@ -6740,7 +6928,11 @@
     "state": "FL",
     "domain": "fsu.edu",
     "alias": "Florida StateF.S.U.FSUF. S. U.Fla. State UniversityFla. StateFl State UniversityFl StateFL State UniversityFL StateSeminolesNolesFlorida State SeminolesFlorida State University SeminolesFl. StateFl. State UniversityThe Florida State UniversityFloridia State UniversityFlorda State UniversityFlorida State UniverisityFlordia State UniversityFlorida State Unversity",
-    "population": 32614
+    "population": 32614,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "109493",
@@ -6767,7 +6959,10 @@
     "state": "FL",
     "domain": "ufl.edu",
     "alias": "UFL",
-    "population": 33655
+    "population": 33655,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "109545",
@@ -6837,7 +7032,10 @@
     "state": "FL",
     "domain": "irsc.edu",
     "alias": "IRSC",
-    "population": 13631
+    "population": 13631,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109660",
@@ -7022,7 +7220,10 @@
     "state": "FL",
     "domain": "mdc.edu",
     "alias": "MDCMDCCMiami-Dade Community CollegeMiami Dade",
-    "population": 51015
+    "population": 51015,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109925",
@@ -7117,7 +7318,10 @@
     "state": "FL",
     "domain": "unf.edu",
     "alias": "UNF",
-    "population": 13962
+    "population": 13962,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110097",
@@ -7127,7 +7331,10 @@
     "state": "FL",
     "domain": "nova.edu",
     "alias": "NOVA",
-    "population": 4417
+    "population": 4417,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110103",
@@ -7297,7 +7504,10 @@
     "state": "FL",
     "domain": "saintleo.edu",
     "alias": "St. Leo University St Leo University",
-    "population": 9404
+    "population": 9404,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110325",
@@ -7307,7 +7517,10 @@
     "state": "FL",
     "domain": "spcollege.edu",
     "alias": "SPC, Saint Petersburg College, St. Petersburg College",
-    "population": 24824
+    "population": 24824,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110334",
@@ -7397,7 +7610,11 @@
     "state": "FL",
     "domain": "usf.edu",
     "alias": "USF Main Campus USF Tampa Campus USF Tampa USF",
-    "population": 30918
+    "population": 30918,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "110459",
@@ -7538,7 +7755,10 @@
     "state": "FL",
     "domain": "valenciacollege.edu",
     "alias": "VALENCIACOLLEGE",
-    "population": 37954
+    "population": 37954,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110653",
@@ -7578,7 +7798,10 @@
     "state": "FL",
     "domain": "uwf.edu",
     "alias": "University of West Florida",
-    "population": 9602
+    "population": 9602,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110714",
@@ -7772,7 +7995,10 @@
     "state": "GA",
     "domain": "augustatech.edu",
     "alias": "AUGUSTATECH",
-    "population": 4162
+    "population": 4162,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "110954",
@@ -7919,7 +8145,10 @@
     "state": "GA",
     "domain": "columbusstate.edu",
     "alias": "CSU, Columbus State",
-    "population": 6474
+    "population": 6474,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "111124",
@@ -8036,7 +8265,10 @@
     "state": "GA",
     "domain": "gatech.edu",
     "alias": "Georgia Tech",
-    "population": 14810
+    "population": 14810,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "111267",
@@ -8107,7 +8339,11 @@
     "state": "GA",
     "domain": "gsu.edu",
     "alias": "GSU",
-    "population": 25031
+    "population": 25031,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "111346",
@@ -8117,7 +8353,10 @@
     "state": "GA",
     "domain": "uga.edu",
     "alias": "UGA",
-    "population": 28740
+    "population": 28740,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "111355",
@@ -8167,7 +8406,10 @@
     "state": "GA",
     "domain": "gwinnetttech.edu",
     "alias": "GTC Gwinnett Tech",
-    "population": 7091
+    "population": 7091,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "111416",
@@ -8193,7 +8435,10 @@
     "state": "GA",
     "domain": "kennesaw.edu",
     "alias": "KSU",
-    "population": 32309
+    "population": 32309,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "111443",
@@ -8608,7 +8853,10 @@
     "state": "HI",
     "domain": "manoa.hawaii.edu",
     "alias": "UH Manoa UHM",
-    "population": 12583
+    "population": 12583,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "111948",
@@ -8652,7 +8900,10 @@
     "state": "HI",
     "domain": "honolulu.hawaii.edu",
     "alias": "Honolulu CC HCC",
-    "population": 2790
+    "population": 2790,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "111993",
@@ -8689,7 +8940,10 @@
     "state": "HI",
     "domain": "leeward.hawaii.edu",
     "alias": "Leeward CC LCC",
-    "population": 4971
+    "population": 4971,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112039",
@@ -8699,7 +8953,10 @@
     "state": "HI",
     "domain": "maui.hawaii.edu",
     "alias": "UH Maui College Maui College",
-    "population": 2621
+    "population": 2621,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112057",
@@ -8716,7 +8973,10 @@
     "state": "HI",
     "domain": "westoahu.hawaii.edu",
     "alias": "UH West Oahu UHWO",
-    "population": 2747
+    "population": 2747,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112109",
@@ -8756,7 +9016,10 @@
     "state": "ID",
     "domain": "boisestate.edu",
     "alias": "Boise State",
-    "population": 16265
+    "population": 16265,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112145",
@@ -8773,7 +9036,10 @@
     "state": "ID",
     "domain": "cei.edu",
     "alias": "EITC, CEI",
-    "population": 698
+    "population": 698,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112163",
@@ -8783,7 +9049,10 @@
     "state": "ID",
     "domain": "isu.edu",
     "alias": "ISU",
-    "population": 7921
+    "population": 7921,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112172",
@@ -8793,7 +9062,10 @@
     "state": "ID",
     "domain": "uidaho.edu",
     "alias": "UIdaho",
-    "population": 7685
+    "population": 7685,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112181",
@@ -8823,7 +9095,10 @@
     "state": "ID",
     "domain": "nic.edu",
     "alias": "NIC",
-    "population": 3794
+    "population": 3794,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112242",
@@ -9245,7 +9520,10 @@
     "state": "IL",
     "domain": "depaul.edu",
     "alias": "DEPAUL",
-    "population": 14591
+    "population": 14591,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112899",
@@ -9262,7 +9540,10 @@
     "state": "IL",
     "domain": "cod.edu",
     "alias": "COD",
-    "population": 16628
+    "population": 16628,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112914",
@@ -9456,7 +9737,11 @@
     "state": "IL",
     "domain": "illinois.edu",
     "alias": "IllinoisIlliniosIlinoisIliniosUrbanaChampaignChampagneChampaign-UrbanaChampagne-UrbanaUrbana-ChampaignUrbana-ChampagneUniversity of Illinois at UrbanaUniversity of Illinois at ChampaignUniversity of Illinois at ChampagneUniversity of Illinois at Champaign-UrbanaUniversity of Illinois at Champagne-UrbanaUIUCUICUUniversity of Illinois at UCUniversity of Illinois at CU",
-    "population": 32884
+    "population": 32884,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "113175",
@@ -9496,7 +9781,10 @@
     "state": "IL",
     "domain": "web.iit.edu",
     "alias": "IIT",
-    "population": 2763
+    "population": 2763,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113245",
@@ -9506,7 +9794,10 @@
     "state": "IL",
     "domain": "illinoisstate.edu",
     "alias": "ILLINOISSTATE",
-    "population": 18264
+    "population": 18264,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113254",
@@ -9535,7 +9826,10 @@
     "state": "IL",
     "domain": "jalc.edu",
     "alias": "JALC",
-    "population": 3049
+    "population": 3049,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113306",
@@ -9693,7 +9987,10 @@
     "state": "IL",
     "domain": "lewisu.edu",
     "alias": "Lewis College Lewis College of Science and Technology Lewis School of Aeronautics Lewis Holy Name School of Aeronautics Lewis Holy Name Technical School Holy Name Technical School",
-    "population": 4372
+    "population": 4372,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113485",
@@ -9730,7 +10027,10 @@
     "state": "IL",
     "domain": "llcc.edu",
     "alias": "LLCC  Lincoln Land",
-    "population": 4530
+    "population": 4530,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113528",
@@ -9750,7 +10050,10 @@
     "state": "IL",
     "domain": "luc.edu",
     "alias": "LUC",
-    "population": 11193
+    "population": 11193,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113546",
@@ -9891,7 +10194,10 @@
     "state": "IL",
     "domain": "morainevalley.edu",
     "alias": "MVCC/Moraine/Moraine Valley/Moraine Valley CC",
-    "population": 11104
+    "population": 11104,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "113722",
@@ -10104,7 +10410,10 @@
     "state": "IL",
     "domain": "rockvalleycollege.edu",
     "alias": "ROCKVALLEYCOLLEGE",
-    "population": 5732
+    "population": 5732,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "114035",
@@ -10134,7 +10443,10 @@
     "state": "IL",
     "domain": "roosevelt.edu",
     "alias": "ROOSEVELT",
-    "population": 2485
+    "population": 2485,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "114071",
@@ -10194,7 +10506,10 @@
     "state": "IL",
     "domain": "uis.edu",
     "alias": "UIS",
-    "population": 2833
+    "population": 2833,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "114150",
@@ -10690,7 +11005,10 @@
     "state": "IN",
     "domain": "ivytech.edu",
     "alias": "IVYTECH",
-    "population": 61700
+    "population": 61700,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "114974",
@@ -10780,7 +11098,11 @@
     "state": "IN",
     "domain": "indiana.edu",
     "alias": "IUB  IU Bloomington",
-    "population": 33104
+    "population": 33104,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "115135",
@@ -10998,7 +11320,10 @@
     "state": "IN",
     "domain": "pnw.edu",
     "alias": "Purdue Northwest",
-    "population": 8665
+    "population": 8665,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "115481",
@@ -11111,7 +11436,10 @@
     "state": "IN",
     "domain": "vinu.edu",
     "alias": "VINU",
-    "population": 6797
+    "population": 6797,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "115676",
@@ -11419,7 +11747,11 @@
     "state": "IA",
     "domain": "iastate.edu",
     "alias": "ISU",
-    "population": 30116
+    "population": 30116,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "116086",
@@ -12020,7 +12352,10 @@
     "state": "KS",
     "domain": "fhsu.edu",
     "alias": "FHSU",
-    "population": 12174
+    "population": 12174,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "116837",
@@ -12120,7 +12455,10 @@
     "state": "KS",
     "domain": "jccc.edu",
     "alias": "JCCC",
-    "population": 11418
+    "population": 11418,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "116943",
@@ -12157,7 +12495,11 @@
     "state": "KS",
     "domain": "ku.edu",
     "alias": "University of Kansas  Univ of Kansas  Kansas University  KU  Kansas Jayhawks  Univ of KS University of KS  Kansas Univ  Kansas U, KUMC, University of Kansas Medical Center, KU Medical Center, Kansas University Medical Center",
-    "population": 18903
+    "population": 18903,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "116998",
@@ -12177,7 +12519,10 @@
     "state": "KS",
     "domain": "k-state.edu",
     "alias": "K-State",
-    "population": 18171
+    "population": 18171,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "117025",
@@ -12434,7 +12779,10 @@
     "state": "KS",
     "domain": "wichita.edu",
     "alias": "WSU",
-    "population": 10970
+    "population": 10970,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "117317",
@@ -12553,7 +12901,10 @@
     "state": "KY",
     "domain": "bluegrass.kctcs.edu",
     "alias": "KCTCS",
-    "population": 8017
+    "population": 8017,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "117450",
@@ -12610,7 +12961,10 @@
     "state": "KY",
     "domain": "ucumberlands.edu",
     "alias": "Cumberland College",
-    "population": 2085
+    "population": 2085,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "117511",
@@ -12840,7 +13194,10 @@
     "state": "KY",
     "domain": "louisville.edu",
     "alias": "LOUISVILLE",
-    "population": 14550
+    "population": 14550,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "117821",
@@ -12913,7 +13270,10 @@
     "state": "KY",
     "domain": "murraystate.edu",
     "alias": "MURRAYSTATE",
-    "population": 7218
+    "population": 7218,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "117919",
@@ -12933,7 +13293,10 @@
     "state": "KY",
     "domain": "nku.edu",
     "alias": "NKU",
-    "population": 10728
+    "population": 10728,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "117937",
@@ -13183,7 +13546,10 @@
     "state": "LA",
     "domain": "bpcc.edu",
     "alias": "BPCC",
-    "population": 5975
+    "population": 5975,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "118383",
@@ -13355,7 +13721,11 @@
     "state": "LA",
     "domain": "latech.edu",
     "alias": "LA Tech, Louisiana Tech, Tech",
-    "population": 8277
+    "population": 8277,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "118806",
@@ -13399,7 +13769,10 @@
     "state": "LA",
     "domain": "uno.edu",
     "alias": "UNO",
-    "population": 5917
+    "population": 5917,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "118879",
@@ -13773,7 +14146,10 @@
     "state": "ME",
     "domain": "uma.edu",
     "alias": "UMAUMA-BangorUniversity of Maine at Augusta - Bangor",
-    "population": 3244
+    "population": 3244,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119553",
@@ -13903,7 +14279,10 @@
     "state": "ME",
     "domain": "smccme.edu",
     "alias": "SMCC",
-    "population": 4961
+    "population": 4961,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119711",
@@ -13977,7 +14356,10 @@
     "state": "MD",
     "domain": "aacc.edu",
     "alias": "AACC",
-    "population": 11294
+    "population": 11294,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119827",
@@ -14021,7 +14403,10 @@
     "state": "MD",
     "domain": "bowiestate.edu",
     "alias": "BOWIESTATE",
-    "population": 5107
+    "population": 5107,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119881",
@@ -14038,7 +14423,10 @@
     "state": "MD",
     "domain": "captechu.edu",
     "alias": "CAPTECHU",
-    "population": 421
+    "population": 421,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119906",
@@ -14048,7 +14436,10 @@
     "state": "MD",
     "domain": "cecil.edu",
     "alias": "CECIL",
-    "population": 2112
+    "population": 2112,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119915",
@@ -14058,7 +14449,10 @@
     "state": "MD",
     "domain": "csmd.edu",
     "alias": "CSM",
-    "population": 6699
+    "population": 6699,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119924",
@@ -14155,7 +14549,10 @@
     "state": "MD",
     "domain": "hagerstowncc.edu",
     "alias": "HCC",
-    "population": 3181
+    "population": 3181,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120069",
@@ -14165,7 +14562,10 @@
     "state": "MD",
     "domain": "harford.edu",
     "alias": "HARFORD",
-    "population": 5018
+    "population": 5018,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120087",
@@ -14175,7 +14575,10 @@
     "state": "MD",
     "domain": "hood.edu",
     "alias": "Hood",
-    "population": 1108
+    "population": 1108,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120096",
@@ -14185,7 +14588,10 @@
     "state": "MD",
     "domain": "howardcc.edu",
     "alias": "HCCHoward County Community CollegeHowrad Community CollegeHCCCHoward County CollegeColumbia Community CollegeHoward College",
-    "population": 8943
+    "population": 8943,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120102",
@@ -14212,7 +14618,11 @@
     "state": "MD",
     "domain": "jhu.edu",
     "alias": "Johns Hopkins",
-    "population": 5663
+    "population": 5663,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "120139",
@@ -14256,7 +14666,10 @@
     "state": "MD",
     "domain": "umuc.edu",
     "alias": "UMUC",
-    "population": 42289
+    "population": 42289,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120193",
@@ -14276,7 +14689,11 @@
     "state": "MD",
     "domain": "umbc.edu",
     "alias": "UMBC",
-    "population": 11130
+    "population": 11130,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "120218",
@@ -14286,7 +14703,10 @@
     "state": "MD",
     "domain": "umd.edu",
     "alias": "UMD",
-    "population": 29273
+    "population": 29273,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "120227",
@@ -14326,7 +14746,10 @@
     "state": "MD",
     "domain": "montgomerycollege.edu",
     "alias": "Montgomery College - Rockville Montgomery College - Takoma Park Montgomery College - Germantown",
-    "population": 18915
+    "population": 18915,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120272",
@@ -14336,7 +14759,10 @@
     "state": "MD",
     "domain": "morgan.edu",
     "alias": "MORGAN",
-    "population": 6426
+    "population": 6426,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120281",
@@ -14376,7 +14802,10 @@
     "state": "MD",
     "domain": "pgcc.edu",
     "alias": "PGCCPGPG CollegePrince Georges Community CollegePrince Georges CollegePrince George'sPG Comm CollLargo",
-    "population": 10743
+    "population": 10743,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120360",
@@ -14430,7 +14859,11 @@
     "state": "MD",
     "domain": "towson.edu",
     "alias": "TOWSON",
-    "population": 19367
+    "population": 19367,
+    "designations": [
+      "CAE-CD",
+      "CAE-CO"
+    ]
   },
   {
     "id": "120430",
@@ -14463,7 +14896,10 @@
     "state": "MD",
     "domain": "usna.edu",
     "alias": "USNA, Navy, Annapolis",
-    "population": 4495
+    "population": 4495,
+    "designations": [
+      "CAE-CO"
+    ]
   },
   {
     "id": "120485",
@@ -14614,7 +15050,10 @@
     "state": "MA",
     "domain": "baypath.edu",
     "alias": "BAYPATH",
-    "population": 1944
+    "population": 1944,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120698",
@@ -14710,7 +15149,11 @@
     "state": "MA",
     "domain": "bu.edu",
     "alias": "BUBoston U",
-    "population": 16716
+    "population": 16716,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "120810",
@@ -15107,7 +15550,10 @@
     "state": "MA",
     "domain": "uml.edu",
     "alias": "UML",
-    "population": 13284
+    "population": 13284,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "121336",
@@ -15400,7 +15846,12 @@
     "state": "MA",
     "domain": "northeastern.edu",
     "alias": "NORTHEASTERN",
-    "population": 13666
+    "population": 13666,
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
   },
   {
     "id": "121725",
@@ -15566,7 +16017,10 @@
     "state": "MA",
     "domain": "umassd.edu",
     "alias": "UMass Dartmouth",
-    "population": 6559
+    "population": 6559,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "121929",
@@ -15683,7 +16137,10 @@
     "state": "MA",
     "domain": "wpi.edu",
     "alias": "WPI",
-    "population": 4337
+    "population": 4337,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "122056",
@@ -15780,7 +16237,10 @@
     "state": "MI",
     "domain": "baker.edu",
     "alias": "BAKER",
-    "population": 11431
+    "population": 11431,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122171",
@@ -15917,7 +16377,10 @@
     "state": "MI",
     "domain": "davenport.edu",
     "alias": "DAVENPORT",
-    "population": 5030
+    "population": 5030,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122348",
@@ -15927,7 +16390,10 @@
     "state": "MI",
     "domain": "delta.edu",
     "alias": "DELTA",
-    "population": 7291
+    "population": 7291,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122366",
@@ -15957,7 +16423,10 @@
     "state": "MI",
     "domain": "udmercy.edu",
     "alias": "Detroit Mercy, UDM, U of D, University of Detroit",
-    "population": 2674
+    "population": 2674,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122445",
@@ -15967,7 +16436,10 @@
     "state": "MI",
     "domain": "emich.edu",
     "alias": "EMICH",
-    "population": 16536
+    "population": 16536,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122463",
@@ -15977,7 +16449,10 @@
     "state": "MI",
     "domain": "ferris.edu",
     "alias": "FERRIS",
-    "population": 11549
+    "population": 11549,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122481",
@@ -16051,7 +16526,10 @@
     "state": "MI",
     "domain": "grcc.edu",
     "alias": "GRCC",
-    "population": 12597
+    "population": 12597,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122560",
@@ -16081,7 +16559,10 @@
     "state": "MI",
     "domain": "hfcc.edu",
     "alias": "HFCC",
-    "population": 10935
+    "population": 10935,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122603",
@@ -16185,7 +16666,10 @@
     "state": "MI",
     "domain": "lcc.edu",
     "alias": "LCC",
-    "population": 11764
+    "population": 11764,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122746",
@@ -16222,7 +16706,10 @@
     "state": "MI",
     "domain": "macomb.edu",
     "alias": "MACOMB",
-    "population": 16146
+    "population": 16146,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122782",
@@ -16386,7 +16873,10 @@
     "state": "MI",
     "domain": "nmu.edu",
     "alias": "NMU",
-    "population": 6635
+    "population": 6635,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122986",
@@ -16436,7 +16926,10 @@
     "state": "MI",
     "domain": "oakland.edu",
     "alias": "OaklandOUO.U.",
-    "population": 15562
+    "population": 15562,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "123031",
@@ -16650,7 +17143,10 @@
     "state": "MI",
     "domain": "wccnet.edu",
     "alias": "WCCNET",
-    "population": 10209
+    "population": 10209,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "123314",
@@ -16903,7 +17399,10 @@
     "state": "MN",
     "domain": "lsc.edu",
     "alias": "LSC",
-    "population": 3285
+    "population": 3285,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "123606",
@@ -17099,7 +17598,10 @@
     "state": "MN",
     "domain": "metrostate.edu",
     "alias": "METROSTATE",
-    "population": 7080
+    "population": 7080,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "123855",
@@ -17351,7 +17853,10 @@
     "state": "MN",
     "domain": "stcloudstate.edu",
     "alias": "St. Cloud State University; St. Cloud State; SCSU",
-    "population": 9676
+    "population": 9676,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "124265",
@@ -17811,7 +18316,12 @@
     "state": "MS",
     "domain": "msstate.edu",
     "alias": "MSSTATE",
-    "population": 17723
+    "population": 17723,
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
   },
   {
     "id": "124858",
@@ -18445,7 +18955,10 @@
     "state": "MO",
     "domain": "mcckc.edu",
     "alias": "MCC-KC",
-    "population": 14276
+    "population": 14276,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "125709",
@@ -18536,7 +19049,10 @@
     "state": "MO",
     "domain": "missouri.edu",
     "alias": "MISSOURI",
-    "population": 23455
+    "population": 23455,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "125842",
@@ -18556,7 +19072,10 @@
     "state": "MO",
     "domain": "mst.edu",
     "alias": "MST",
-    "population": 6872
+    "population": 6872,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "125860",
@@ -18566,7 +19085,10 @@
     "state": "MO",
     "domain": "umsl.edu",
     "alias": "UMSL",
-    "population": 7362
+    "population": 7362,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "125888",
@@ -18827,7 +19349,10 @@
     "state": "MO",
     "domain": "semo.edu",
     "alias": "SEMO",
-    "population": 8910
+    "population": 8910,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "126313",
@@ -18900,7 +19425,10 @@
     "state": "MO",
     "domain": "webster.edu",
     "alias": "WEBSTER",
-    "population": 2954
+    "population": 2954,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "126395",
@@ -19041,7 +19569,10 @@
     "state": "MT",
     "domain": "gfcmsu.edu",
     "alias": "GFC MSU",
-    "population": 1228
+    "population": 1228,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "126599",
@@ -19118,7 +19649,10 @@
     "state": "MT",
     "domain": "umt.edu",
     "alias": "University of Montana",
-    "population": 8958
+    "population": 8958,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "126687",
@@ -19185,7 +19719,10 @@
     "state": "NE",
     "domain": "bellevue.edu",
     "alias": "BELLEVUE",
-    "population": 5665
+    "population": 5665,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "126766",
@@ -19359,7 +19896,11 @@
     "state": "NE",
     "domain": "unomaha.edu",
     "alias": "UNOMAHA",
-    "population": 12424
+    "population": 12424,
+    "designations": [
+      "CAE-CO",
+      "CAE-CD"
+    ]
   },
   {
     "id": "127042",
@@ -19416,7 +19957,10 @@
     "state": "NE",
     "domain": "northeast.edu",
     "alias": "Northeast",
-    "population": 2693
+    "population": 2693,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127112",
@@ -19530,7 +20074,10 @@
     "state": "NV",
     "domain": "csn.edu",
     "alias": "CSN",
-    "population": 28959
+    "population": 28959,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127273",
@@ -19557,7 +20104,10 @@
     "state": "NV",
     "domain": "unlv.edu",
     "alias": "UNLV",
-    "population": 24783
+    "population": 24783,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127307",
@@ -19567,7 +20117,10 @@
     "state": "NV",
     "domain": "unr.edu",
     "alias": "UNR",
-    "population": 17930
+    "population": 17930,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127316",
@@ -19641,7 +20194,10 @@
     "state": "NH",
     "domain": "dartmouth.edu",
     "alias": "Dartmouth, Big Green",
-    "population": 4315
+    "population": 4315,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "127440",
@@ -19756,7 +20312,10 @@
     "state": "NH",
     "domain": "unh.edu",
     "alias": "UNH",
-    "population": 12847
+    "population": 12847,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127592",
@@ -19980,7 +20539,10 @@
     "state": "NJ",
     "domain": "brookdalecc.edu",
     "alias": "BROOKDALECC",
-    "population": 10843
+    "population": 10843,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127866",
@@ -19990,7 +20552,10 @@
     "state": "NJ",
     "domain": "rcbc.edu",
     "alias": "RCBC",
-    "population": 8176
+    "population": 8176,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "127875",
@@ -20078,7 +20643,10 @@
     "state": "NJ",
     "domain": "ccm.edu",
     "alias": "CCM",
-    "population": 7017
+    "population": 7017,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128009",
@@ -20152,7 +20720,10 @@
     "state": "NJ",
     "domain": "fdu.edu",
     "alias": "FDU",
-    "population": 3391
+    "population": 3391,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128124",
@@ -20249,7 +20820,10 @@
     "state": "NJ",
     "domain": "njcu.edu",
     "alias": "NJCU",
-    "population": 6359
+    "population": 6359,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128267",
@@ -20283,7 +20857,10 @@
     "state": "NJ",
     "domain": "kean.edu",
     "alias": "Kean",
-    "population": 11761
+    "population": 11761,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128300",
@@ -20382,7 +20959,10 @@
     "state": "NJ",
     "domain": "njit.edu",
     "alias": "NJIT",
-    "population": 7489
+    "population": 7489,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128452",
@@ -20505,7 +21085,11 @@
     "state": "NJ",
     "domain": "newbrunswick.rutgers.edu",
     "alias": "Rutgers, The State University of New JerseyRutgers, The State UniversityRutgers UniversityRutgers, New Brunswick Rutgers University-New BrunswickRutgers-New JerseyRutgers, The State University New Brunswick/PiscatawayRutgers, New BrunswickRutgersRURutgers, New Jersey",
-    "population": 35296
+    "population": 35296,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "128647",
@@ -20616,7 +21200,11 @@
     "state": "NJ",
     "domain": "stevens.edu",
     "alias": "Stevens",
-    "population": 3114
+    "population": 3114,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "128771",
@@ -20683,7 +21271,10 @@
     "state": "NM",
     "domain": "cnm.edu",
     "alias": "CNM",
-    "population": 19840
+    "population": 19840,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128911",
@@ -20730,7 +21321,10 @@
     "state": "NM",
     "domain": "ruidoso.enmu.edu",
     "alias": "ENMU - Ruidoso Branch Community College",
-    "population": 398
+    "population": 398,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128975",
@@ -20804,7 +21398,10 @@
     "state": "NM",
     "domain": "nmt.edu",
     "alias": "New Mexico Tech New Mexico School of Mines",
-    "population": 1358
+    "population": 1358,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "129084",
@@ -20814,7 +21411,11 @@
     "state": "NM",
     "domain": "unm.edu",
     "alias": "UNM",
-    "population": 18912
+    "population": 18912,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "129127",
@@ -21760,7 +22361,10 @@
     "state": "NY",
     "domain": "fordham.edu",
     "alias": "FORDHAM",
-    "population": 9403
+    "population": 9403,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "130466",
@@ -22213,7 +22817,10 @@
     "state": "NY",
     "domain": "mercy.edu",
     "alias": "Mercy",
-    "population": 6029
+    "population": 6029,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "131089",
@@ -22280,7 +22887,10 @@
     "state": "NY",
     "domain": "mvcc.edu",
     "alias": "MVCC",
-    "population": 4171
+    "population": 4171,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "131195",
@@ -22453,7 +23063,12 @@
     "state": "NY",
     "domain": "nyu.edu",
     "alias": "NYU",
-    "population": 26055
+    "population": 26055,
+    "designations": [
+      "CAE-R",
+      "CAE-CO",
+      "CAE-CD"
+    ]
   },
   {
     "id": "131432",
@@ -22512,7 +23127,10 @@
     "state": "NY",
     "domain": "nyit.edu",
     "alias": "NYIT",
-    "population": 3619
+    "population": 3619,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "131502",
@@ -22569,7 +23187,10 @@
     "state": "NY",
     "domain": "pace.edu",
     "alias": "Pace University",
-    "population": 8456
+    "population": 8456,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "131593",
@@ -22737,7 +23358,11 @@
     "state": "NY",
     "domain": "rit.edu",
     "alias": "RIT R.I.T.",
-    "population": 12858
+    "population": 12858,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "131830",
@@ -22766,7 +23391,10 @@
     "state": "NY",
     "domain": "sunyrockland.edu",
     "alias": "SUNYROCKLAND",
-    "population": 5595
+    "population": 5595,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "131867",
@@ -23121,7 +23749,11 @@
     "state": "NY",
     "domain": "albany.edu",
     "alias": "University at Albany, SUNY",
-    "population": 13320
+    "population": 13320,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "132347",
@@ -23131,7 +23763,10 @@
     "state": "NY",
     "domain": "binghamton.edu",
     "alias": "Binghamton University",
-    "population": 13702
+    "population": 13702,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "132356",
@@ -23141,7 +23776,11 @@
     "state": "NY",
     "domain": "buffalo.edu",
     "alias": "University at BuffaloUBState University of New York at BuffaloSUNY BuffaloUniversity of Buffalo",
-    "population": 20735
+    "population": 20735,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "132365",
@@ -23350,7 +23989,11 @@
     "state": "NY",
     "domain": "syracuse.edu",
     "alias": "SYRACUSE",
-    "population": 14788
+    "population": 14788,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "132587",
@@ -23447,7 +24090,10 @@
     "state": "NY",
     "domain": "excelsior.edu",
     "alias": "EXCELSIOR",
-    "population": 31039
+    "population": 31039,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "132718",
@@ -23513,7 +24159,10 @@
     "state": "NY",
     "domain": "utica.edu",
     "alias": "UTICA",
-    "population": 3595
+    "population": 3595,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "132790",
@@ -23590,7 +24239,10 @@
     "state": "NY",
     "domain": "cw.edu",
     "alias": "CW",
-    "population": 832
+    "population": 832,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "132897",
@@ -23600,7 +24252,10 @@
     "state": "NY",
     "domain": "sunywcc.edu",
     "alias": "SUNYWCC",
-    "population": 11223
+    "population": 11223,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "132912",
@@ -23896,7 +24551,10 @@
     "state": "NC",
     "domain": "cpcc.edu",
     "alias": "CPCC",
-    "population": 17538
+    "population": 17538,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133298",
@@ -23993,7 +24651,10 @@
     "state": "NC",
     "domain": "ecu.edu",
     "alias": "ECU",
-    "population": 22598
+    "population": 22598,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133395",
@@ -24040,7 +24701,10 @@
     "state": "NC",
     "domain": "faytechcc.edu",
     "alias": "FTCC",
-    "population": 9690
+    "population": 9690,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133447",
@@ -24060,7 +24724,10 @@
     "state": "NC",
     "domain": "forsythtech.edu",
     "alias": "Forsyth Tech",
-    "population": 6602
+    "population": 6602,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133465",
@@ -24117,7 +24784,10 @@
     "state": "NC",
     "domain": "gtcc.edu",
     "alias": "GTCC",
-    "population": 9821
+    "population": 9821,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133526",
@@ -24368,7 +25038,10 @@
     "state": "NC",
     "domain": "montreat.edu",
     "alias": "Montreat College",
-    "population": 695
+    "population": 695,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133827",
@@ -24408,7 +25081,11 @@
     "state": "NC",
     "domain": "ncat.edu",
     "alias": "NCAT",
-    "population": 10011
+    "population": 10011,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "133863",
@@ -24438,7 +25115,11 @@
     "state": "NC",
     "domain": "uncc.edu",
     "alias": "UNC Charlotte",
-    "population": 23622
+    "population": 23622,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "133890",
@@ -24478,7 +25159,10 @@
     "state": "NC",
     "domain": "ncsu.edu",
     "alias": "NC State University  NC State  N C State University  N C State  NCSU",
-    "population": 22801
+    "population": 22801,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "133942",
@@ -24498,7 +25182,10 @@
     "state": "NC",
     "domain": "uncw.edu",
     "alias": "UNCWUniversity of North Carolina at WilmingtonUNC WilmingtonUNC WUniversity of NC at WilmingtonUniv of NC-WilmingtonUNC-WUniversity of North Carolina Wilmington",
-    "population": 14183
+    "population": 14183,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133960",
@@ -24568,7 +25255,10 @@
     "state": "NC",
     "domain": "pittcc.edu",
     "alias": "PITTCC",
-    "population": 6528
+    "population": 6528,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134051",
@@ -24678,7 +25368,10 @@
     "state": "NC",
     "domain": "sampsoncc.edu",
     "alias": "SAMPSONCC",
-    "population": 1411
+    "population": 1411,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134167",
@@ -24768,7 +25461,10 @@
     "state": "NC",
     "domain": "alamancecc.edu",
     "alias": "ACC  Technical Institute of Alamance  Alamance College ",
-    "population": 3328
+    "population": 3328,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134273",
@@ -24808,7 +25504,10 @@
     "state": "NC",
     "domain": "waketech.edu",
     "alias": "WAKETECH",
-    "population": 20351
+    "population": 20351,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134316",
@@ -24925,7 +25624,10 @@
     "state": "ND",
     "domain": "bismarckstate.edu",
     "alias": "BSC",
-    "population": 2892
+    "population": 2892,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134459",
@@ -25012,7 +25714,10 @@
     "state": "ND",
     "domain": "minotstateu.edu",
     "alias": "MSU",
-    "population": 2466
+    "population": 2466,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134583",
@@ -25052,7 +25757,10 @@
     "state": "ND",
     "domain": "ndsu.edu",
     "alias": "North Dakota State University, NDSU",
-    "population": 11687
+    "population": 11687,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "134626",
@@ -25148,7 +25856,10 @@
     "city": "Wright-Patterson AFB",
     "state": "OH",
     "domain": "afit.edu",
-    "alias": "AFIT"
+    "alias": "AFIT",
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "134750",
@@ -25374,7 +26085,11 @@
     "state": "OH",
     "domain": "cedarville.edu",
     "alias": "Contacts as of 9/02/11 are Mandy Nolt(937) 766 3435 (Accreditation Specialist) and Michael Kane (937) 766-7941 (Assistant VP Educational Resources)... fax (937) 766 4129.",
-    "population": 3132
+    "population": 3132,
+    "designations": [
+      "CAE-CD",
+      "CAE-CO"
+    ]
   },
   {
     "id": "135124",
@@ -25444,7 +26159,10 @@
     "state": "OH",
     "domain": "uc.edu",
     "alias": "UC",
-    "population": 25523
+    "population": 25523,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135221",
@@ -25494,7 +26212,10 @@
     "state": "OH",
     "domain": "clarkstate.edu",
     "alias": "CLARKSTATE",
-    "population": 4119
+    "population": 4119,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135276",
@@ -25602,7 +26323,10 @@
     "state": "OH",
     "domain": "cscc.edu",
     "alias": "Columbus StateCSCCC-State",
-    "population": 19559
+    "population": 19559,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135425",
@@ -25642,7 +26366,10 @@
     "state": "OH",
     "domain": "udayton.edu",
     "alias": "UDAYTON",
-    "population": 8422
+    "population": 8422,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135470",
@@ -25723,7 +26450,10 @@
     "state": "OH",
     "domain": "franklin.edu",
     "alias": "FRANKLIN",
-    "population": 3433
+    "population": 3433,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135595",
@@ -25859,7 +26589,10 @@
     "state": "OH",
     "domain": "kent.edu",
     "alias": "KENT",
-    "population": 22403
+    "population": 22403,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135887",
@@ -26262,7 +26995,10 @@
     "state": "OH",
     "domain": "osu.edu",
     "alias": "OSU",
-    "population": 44853
+    "population": 44853,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "136552",
@@ -26435,7 +27171,10 @@
     "state": "OH",
     "domain": "sinclair.edu",
     "alias": "SINCLAIR",
-    "population": 14902
+    "population": 14902,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "136808",
@@ -26506,7 +27245,10 @@
     "state": "OH",
     "domain": "terra.edu",
     "alias": "Terra Community CollegeTerra Technical College",
-    "population": 1341
+    "population": 1341,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "136987",
@@ -26516,7 +27258,10 @@
     "state": "OH",
     "domain": "tiffin.edu",
     "alias": "TIFFIN",
-    "population": 2095
+    "population": 2095,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "136996",
@@ -26649,7 +27394,10 @@
     "state": "OH",
     "domain": "walsh.edu",
     "alias": "Walsh College",
-    "population": 1929
+    "population": 1929,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "137166",
@@ -26725,7 +27473,10 @@
     "state": "OH",
     "domain": "wright.edu",
     "alias": "WRIGHT",
-    "population": 11251
+    "population": 11251,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "137254",
@@ -26735,7 +27486,10 @@
     "state": "OH",
     "domain": "xavier.edu",
     "alias": "XU  X",
-    "population": 4571
+    "population": 4571,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "137272",
@@ -26969,7 +27723,10 @@
     "state": "OK",
     "domain": "oc.edu",
     "alias": "OC, Oklahoma Christian, OCUSA, Oklahoma Christian University of Science and Arts, OCC, Oklahoma Christian College",
-    "population": 1883
+    "population": 1883,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "137607",
@@ -26989,7 +27746,10 @@
     "state": "OK",
     "domain": "okstate.edu",
     "alias": "OKSTATE",
-    "population": 20743
+    "population": 20743,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "137625",
@@ -27019,7 +27779,10 @@
     "state": "OK",
     "domain": "occc.edu",
     "alias": "OCCC, O Triple C, O Trip, O Trip C,",
-    "population": 11203
+    "population": 11203,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "137652",
@@ -27100,7 +27863,10 @@
     "state": "OK",
     "domain": "rose.edu",
     "alias": "RSC/Rose/Oscar Rose Junior College/ORJC",
-    "population": 5982
+    "population": 5982,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "137759",
@@ -27194,7 +27960,11 @@
     "state": "OK",
     "domain": "utulsa.edu",
     "alias": "Tulsa University",
-    "population": 3316
+    "population": 3316,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "137892",
@@ -27271,7 +28041,10 @@
     "state": "OR",
     "domain": "chemeketa.edu",
     "alias": "CHEMEKETA",
-    "population": 8474
+    "population": 8474,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "138008",
@@ -27431,7 +28204,10 @@
     "state": "OR",
     "domain": "mhcc.edu",
     "alias": "MHCC",
-    "population": 7168
+    "population": 7168,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "138239",
@@ -27545,7 +28321,10 @@
     "state": "OR",
     "domain": "pcc.edu",
     "alias": "PCC",
-    "population": 25658
+    "population": 25658,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "138424",
@@ -27555,7 +28334,10 @@
     "state": "OR",
     "domain": "pdx.edu",
     "alias": "PDX",
-    "population": 18585
+    "population": 18585,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "138433",
@@ -27902,7 +28684,10 @@
     "state": "PA",
     "domain": "bloomu.edu",
     "alias": "BLOOMU",
-    "population": 8276
+    "population": 8276,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "138929",
@@ -27976,7 +28761,10 @@
     "state": "PA",
     "domain": "bc3.edu",
     "alias": "BC3",
-    "population": 2803
+    "population": 2803,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "139029",
@@ -28030,7 +28818,12 @@
     "state": "PA",
     "domain": "cmu.edu",
     "alias": "Carnegie Mellon; CMU",
-    "population": 6434
+    "population": 6434,
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
   },
   {
     "id": "139083",
@@ -28197,7 +28990,10 @@
     "state": "PA",
     "domain": "drexel.edu",
     "alias": "Drexel",
-    "population": 15335
+    "population": 15335,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "139320",
@@ -28231,7 +29027,10 @@
     "state": "PA",
     "domain": "www4.esu.edu",
     "alias": "East Stroudsburg University",
-    "population": 5972
+    "population": 5972,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "139366",
@@ -28516,7 +29315,10 @@
     "state": "PA",
     "domain": "iup.edu",
     "alias": "IUP",
-    "population": 9965
+    "population": 9965,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "139861",
@@ -28682,7 +29484,10 @@
     "state": "PA",
     "domain": "lccc.edu",
     "alias": "LCCC",
-    "population": 5588
+    "population": 5588,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "140100",
@@ -28891,7 +29696,10 @@
     "state": "PA",
     "domain": "mtaloy.edu",
     "alias": "MTALOY",
-    "population": 1185
+    "population": 1185,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "140401",
@@ -28945,7 +29753,10 @@
     "state": "PA",
     "domain": "northampton.edu",
     "alias": "Northampton Community College",
-    "population": 9203
+    "population": 9203,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "140508",
@@ -28991,7 +29802,10 @@
     "state": "PA",
     "domain": "psu.edu",
     "alias": "Penn State",
-    "population": 8108
+    "population": 8108,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "140775",
@@ -29178,7 +29992,11 @@
     "state": "PA",
     "domain": "pitt.edu",
     "alias": "PITT",
-    "population": 19134
+    "population": 19134,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "141006",
@@ -29218,7 +30036,10 @@
     "state": "PA",
     "domain": "ptcollege.edu",
     "alias": "PTCOLLEGE",
-    "population": 1828
+    "population": 1828,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141051",
@@ -29299,7 +30120,10 @@
     "state": "PA",
     "domain": "rmu.edu",
     "alias": "RMU",
-    "population": 4213
+    "population": 4213,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141194",
@@ -29363,7 +30187,10 @@
     "state": "PA",
     "domain": "stvincent.edu",
     "alias": "STVINCENT",
-    "population": 1616
+    "population": 1616,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141282",
@@ -29623,7 +30450,10 @@
     "state": "PA",
     "domain": "vfmac.edu",
     "alias": "VFMAC",
-    "population": 265
+    "population": 265,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141644",
@@ -29673,7 +30503,10 @@
     "state": "PA",
     "domain": "wcupa.edu",
     "alias": "WCU",
-    "population": 14223
+    "population": 14223,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141732",
@@ -29813,7 +30646,10 @@
     "state": "RI",
     "domain": "neit.edu",
     "alias": "New England Tech",
-    "population": 2658
+    "population": 2658,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141936",
@@ -29857,7 +30693,10 @@
     "state": "RI",
     "domain": "ccri.edu",
     "alias": "CCRI",
-    "population": 14013
+    "population": 14013,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141990",
@@ -29867,7 +30706,10 @@
     "state": "RI",
     "domain": "web.uri.edu",
     "alias": "URI",
-    "population": 14008
+    "population": 14008,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "142009",
@@ -30014,7 +30856,10 @@
     "state": "SC",
     "domain": "citadel.edu",
     "alias": "CITADEL",
-    "population": 2814
+    "population": 2814,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "142212",
@@ -30034,7 +30879,11 @@
     "state": "SC",
     "domain": "clemson.edu",
     "alias": "CLEMSON",
-    "population": 19172
+    "population": 19172,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "142230",
@@ -30308,7 +31157,11 @@
     "state": "SC",
     "domain": "sc.edu",
     "alias": "SC",
-    "population": 25550
+    "population": 25550,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "142610",
@@ -30328,7 +31181,10 @@
     "state": "SC",
     "domain": "scsu.edu",
     "alias": "SCSU",
-    "population": 2489
+    "population": 2489,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "142647",
@@ -30387,7 +31243,10 @@
     "state": "SC",
     "domain": "tridenttech.edu",
     "alias": "TRIDENTTECH",
-    "population": 10905
+    "population": 10905,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "142717",
@@ -30474,7 +31333,12 @@
     "state": "SD",
     "domain": "dsu.edu",
     "alias": "Dakota State",
-    "population": 2024
+    "population": 2024,
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
   },
   {
     "id": "142823",
@@ -30998,7 +31862,10 @@
     "state": "TN",
     "domain": "jscc.edu",
     "alias": "JSCC",
-    "population": 3208
+    "population": 3208,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "143437",
@@ -31065,7 +31932,10 @@
     "state": "TN",
     "domain": "loc.edu",
     "alias": "LOC",
-    "population": 862
+    "population": 862,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "143516",
@@ -31181,7 +32051,11 @@
     "state": "TN",
     "domain": "memphis.edu",
     "alias": "MEMPHIS",
-    "population": 15901
+    "population": 15901,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "143631",
@@ -31364,7 +32238,10 @@
     "state": "TN",
     "domain": "roanestate.edu",
     "alias": "ROANESTATE",
-    "population": 4272
+    "population": 4272,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "143871",
@@ -31503,7 +32380,10 @@
     "state": "TN",
     "domain": "utc.edu",
     "alias": "UTC",
-    "population": 10097
+    "population": 10097,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144032",
@@ -31543,7 +32423,10 @@
     "state": "TN",
     "domain": "tntech.edu",
     "alias": "Tennessee Tech UniversityTennessee TechTTUTenn TechTN TechTech",
-    "population": 9084
+    "population": 9084,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144096",
@@ -31617,7 +32500,10 @@
     "state": "TN",
     "domain": "volstate.edu",
     "alias": "VSCC",
-    "population": 6976
+    "population": 6976,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144175",
@@ -31995,7 +32881,10 @@
     "state": "TX",
     "domain": "tamucc.edu",
     "alias": "TAMUCC",
-    "population": 10170
+    "population": 10170,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144713",
@@ -32064,7 +32953,10 @@
     "state": "TX",
     "domain": "udallas.edu",
     "alias": "UDALLAS",
-    "population": 1440
+    "population": 1440,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144801",
@@ -32148,7 +33040,10 @@
     "state": "TX",
     "domain": "epcc.edu",
     "alias": "EPCC",
-    "population": 27172
+    "population": 27172,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144908",
@@ -32261,7 +33156,10 @@
     "state": "TX",
     "domain": "hillcollege.edu",
     "alias": "HILLCOLLEGE",
-    "population": 2641
+    "population": 2641,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145062",
@@ -32291,7 +33189,10 @@
     "state": "TX",
     "domain": "hccs.edu",
     "alias": "Houston Community College",
-    "population": 56976
+    "population": 56976,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145099",
@@ -32328,7 +33229,11 @@
     "state": "TX",
     "domain": "uh.edu",
     "alias": "UH",
-    "population": 35985
+    "population": 35985,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "145132",
@@ -32469,7 +33374,10 @@
     "state": "TX",
     "domain": "laredo.edu",
     "alias": "LAREDO",
-    "population": 9198
+    "population": 9198,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145354",
@@ -32563,7 +33471,10 @@
     "state": "TX",
     "domain": "mclennan.edu",
     "alias": "MCC",
-    "population": 6913
+    "population": 6913,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145460",
@@ -32701,7 +33612,11 @@
     "state": "TX",
     "domain": "unt.edu",
     "alias": "UNTNorth TexasMean Grean",
-    "population": 31448
+    "population": 31448,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "145673",
@@ -32760,7 +33675,10 @@
     "state": "TX",
     "domain": "ollusa.edu",
     "alias": "OLLU",
-    "population": 1320
+    "population": 1320,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145752",
@@ -32870,7 +33788,10 @@
     "state": "TX",
     "domain": "alamo.edu",
     "alias": "ALAMO",
-    "population": 8023
+    "population": 8023,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145886",
@@ -32897,7 +33818,10 @@
     "state": "TX",
     "domain": "shsu.edu",
     "alias": "SHSU",
-    "population": 18416
+    "population": 18416,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145910",
@@ -32907,7 +33831,10 @@
     "state": "TX",
     "domain": "alamo.edu",
     "alias": "ALAMO",
-    "population": 15917
+    "population": 15917,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145938",
@@ -32993,7 +33920,10 @@
     "state": "TX",
     "domain": "smu.edu",
     "alias": "SMU",
-    "population": 6427
+    "population": 6427,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "146056",
@@ -33196,7 +34126,12 @@
     "state": "TX",
     "domain": "tamu.edu",
     "alias": "Texas A&M  TAMU",
-    "population": 52568
+    "population": 52568,
+    "designations": [
+      "CAE-CD",
+      "CAE-CO",
+      "CAE-R"
+    ]
   },
   {
     "id": "146296",
@@ -33216,7 +34151,10 @@
     "state": "TX",
     "domain": "utexas.edu",
     "alias": "UT Austin",
-    "population": 39965
+    "population": 39965,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "146311",
@@ -33226,7 +34164,12 @@
     "state": "TX",
     "domain": "utdallas.edu",
     "alias": "UT Dallas",
-    "population": 18375
+    "population": 18375,
+    "designations": [
+      "CAE-CD",
+      "CAE-CO",
+      "CAE-R"
+    ]
   },
   {
     "id": "146320",
@@ -33236,7 +34179,11 @@
     "state": "TX",
     "domain": "utep.edu",
     "alias": "UTEP",
-    "population": 21216
+    "population": 21216,
+    "designations": [
+      "CAE-CO",
+      "CAE-CD"
+    ]
   },
   {
     "id": "146339",
@@ -33324,7 +34271,12 @@
     "state": "TX",
     "domain": "utsa.edu",
     "alias": "UTSA",
-    "population": 25709
+    "population": 25709,
+    "designations": [
+      "CAE-CD",
+      "CAE-R",
+      "CAE-CO"
+    ]
   },
   {
     "id": "146445",
@@ -33412,7 +34364,10 @@
     "name": "Texas State Technical College - Harlingen",
     "street": "1902 North Loop 499",
     "city": "Harlingen",
-    "state": "TX"
+    "state": "TX",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "146551",
@@ -33563,7 +34518,10 @@
     "state": "UT",
     "domain": "byu.edu",
     "alias": "BYU",
-    "population": 31233
+    "population": 31233,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "146755",
@@ -33698,7 +34656,10 @@
     "state": "UT",
     "domain": "suu.edu",
     "alias": "SUU",
-    "population": 6849
+    "population": 6849,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "146977",
@@ -33815,7 +34776,10 @@
     "state": "VT",
     "domain": "champlain.edu",
     "alias": "CHAMPLAIN",
-    "population": 3771
+    "population": 3771,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147101",
@@ -33885,7 +34849,10 @@
     "state": "VT",
     "domain": "norwich.edu",
     "alias": "NORWICH",
-    "population": 3160
+    "population": 3160,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147192",
@@ -34061,7 +35028,10 @@
     "state": "VA",
     "domain": "regent.edu",
     "alias": "REGENT",
-    "population": 4087
+    "population": 4087,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147439",
@@ -34128,7 +35098,10 @@
     "state": "VA",
     "domain": "dcc.vccs.edu",
     "alias": "VCCS",
-    "population": 1612
+    "population": 1612,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147527",
@@ -34197,7 +35170,11 @@
     "state": "VA",
     "domain": "www2.gmu.edu",
     "alias": "Mason",
-    "population": 24395
+    "population": 24395,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "147590",
@@ -34207,7 +35184,10 @@
     "state": "VA",
     "domain": "germanna.edu",
     "alias": "GERMANNA",
-    "population": 5020
+    "population": 5020,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147606",
@@ -34227,7 +35207,10 @@
     "state": "VA",
     "domain": "hamptonu.edu",
     "alias": "HAMPTONU",
-    "population": 3786
+    "population": 3786,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147624",
@@ -34271,7 +35254,10 @@
     "state": "VA",
     "domain": "jmu.edu",
     "alias": "JMU",
-    "population": 19666
+    "population": 19666,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147679",
@@ -34291,7 +35277,10 @@
     "state": "VA",
     "domain": "liberty.edu",
     "alias": "LIBERTY",
-    "population": 45364
+    "population": 45364,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147712",
@@ -34311,7 +35300,10 @@
     "state": "VA",
     "domain": "lfcc.edu",
     "alias": "LFCC",
-    "population": 3947
+    "population": 3947,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147730",
@@ -34351,7 +35343,10 @@
     "state": "VA",
     "domain": "marymount.edu",
     "alias": "MARYMOUNT",
-    "population": 2241
+    "population": 2241,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147794",
@@ -34361,7 +35356,10 @@
     "state": "VA",
     "domain": "mecc.edu",
     "alias": "MECC, Mountain Empire",
-    "population": 1543
+    "population": 1543,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147800",
@@ -34381,7 +35379,10 @@
     "state": "VA",
     "domain": "nr.edu",
     "alias": "NRCC",
-    "population": 2444
+    "population": 2444,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147828",
@@ -34411,7 +35412,10 @@
     "state": "VA",
     "domain": "nsu.edu",
     "alias": "Norfolk State; NSU",
-    "population": 4641
+    "population": 4641,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147855",
@@ -34421,7 +35425,10 @@
     "state": "VA",
     "domain": "nvcc.edu",
     "alias": "NVCC",
-    "population": 40119
+    "population": 40119,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147864",
@@ -34431,7 +35438,10 @@
     "state": "VA",
     "domain": "odu.edu",
     "alias": "ODU, Old Dominion",
-    "population": 19364
+    "population": 19364,
+    "designations": [
+      "CAE-CO"
+    ]
   },
   {
     "id": "147873",
@@ -34485,7 +35495,10 @@
     "state": "VA",
     "domain": "radford.edu",
     "alias": "RU",
-    "population": 8376
+    "population": 8376,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147952",
@@ -34632,7 +35645,10 @@
     "state": "VA",
     "domain": "sw.edu",
     "alias": "Southwest VirginiaSouthwestSVCCSWVCCSwVCCSWCC",
-    "population": 1621
+    "population": 1621,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148131",
@@ -34659,7 +35675,10 @@
     "state": "VA",
     "domain": "tncc.edu",
     "alias": "TNCC",
-    "population": 6693
+    "population": 6693,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148177",
@@ -34669,7 +35688,10 @@
     "state": "VA",
     "domain": "tcc.edu",
     "alias": "TCC",
-    "population": 19516
+    "population": 19516,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148186",
@@ -34715,7 +35737,10 @@
     "state": "VA",
     "domain": "vt.edu",
     "alias": "Virginia Tech",
-    "population": 27120
+    "population": 27120,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "148238",
@@ -34725,7 +35750,10 @@
     "state": "VA",
     "domain": "virginiawestern.edu",
     "alias": "VIRGINIAWESTERN",
-    "population": 4312
+    "population": 4312,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148247",
@@ -34735,7 +35763,10 @@
     "state": "VA",
     "domain": "vcu.edu",
     "alias": "VCU",
-    "population": 22393
+    "population": 22393,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148256",
@@ -34745,7 +35776,11 @@
     "state": "VA",
     "domain": "virginia.edu",
     "alias": "University of Virginia UVa UVA",
-    "population": 16207
+    "population": 16207,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "148265",
@@ -34927,7 +35962,10 @@
     "state": "WA",
     "domain": "cityu.edu",
     "alias": "CityU",
-    "population": 767
+    "population": 767,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148520",
@@ -34974,7 +36012,10 @@
     "state": "WA",
     "domain": "columbiabasin.edu",
     "alias": "CBC",
-    "population": 5731
+    "population": 5731,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148575",
@@ -35004,7 +36045,10 @@
     "state": "WA",
     "domain": "ewu.edu",
     "alias": "EWU",
-    "population": 10500
+    "population": 10500,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148609",
@@ -35014,7 +36058,10 @@
     "state": "WA",
     "domain": "edcc.edu",
     "alias": "EDCC",
-    "population": 3661
+    "population": 3661,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148618",
@@ -35081,7 +36128,10 @@
     "state": "WA",
     "domain": "greenriver.edu",
     "alias": "GRC",
-    "population": 5667
+    "population": 5667,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148706",
@@ -35111,7 +36161,10 @@
     "state": "WA",
     "domain": "highline.edu",
     "alias": "Highline",
-    "population": 4860
+    "population": 4860,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "148733",
@@ -35403,7 +36456,10 @@
     "state": "WA",
     "domain": "sfcc.spokane.edu",
     "alias": "SPOKANE",
-    "population": 5444
+    "population": 5444,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "149091",
@@ -35463,7 +36519,11 @@
     "state": "WA",
     "domain": "washington.edu",
     "alias": "UW-Seattle, UDub, UW, Washington",
-    "population": 30295
+    "population": 30295,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "149152",
@@ -35483,7 +36543,10 @@
     "state": "WA",
     "domain": "wwu.edu",
     "alias": "Western Washington State CollegeWestern Washington College of Education",
-    "population": 14876
+    "population": 14876,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "149189",
@@ -35493,7 +36556,10 @@
     "state": "WA",
     "domain": "whatcom.edu",
     "alias": "WHATCOM",
-    "population": 2709
+    "population": 2709,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "149198",
@@ -35888,7 +36954,11 @@
     "state": "WV",
     "domain": "wvu.edu",
     "alias": "WVU",
-    "population": 21703
+    "population": 21703,
+    "designations": [
+      "CAE-CD",
+      "CAE-R"
+    ]
   },
   {
     "id": "149763",
@@ -35918,7 +36988,10 @@
     "state": "WI",
     "domain": "madisoncollege.edu",
     "alias": "Madison College",
-    "population": 10917
+    "population": 10917,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "149833",
@@ -36140,7 +37213,10 @@
     "state": "WI",
     "domain": "marquette.edu",
     "alias": "MARQUETTE",
-    "population": 8093
+    "population": 8093,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "150127",
@@ -36379,7 +37455,10 @@
     "state": "WI",
     "domain": "cvtc.edu",
     "alias": "CVTC",
-    "population": 4232
+    "population": 4232,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "150428",
@@ -36389,7 +37468,10 @@
     "state": "WI",
     "domain": "wctc.edu",
     "alias": "WCTC",
-    "population": 4715
+    "population": 4715,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "150437",
@@ -36409,7 +37491,10 @@
     "state": "WI",
     "domain": "uww.edu",
     "alias": "UWW",
-    "population": 10543
+    "population": 10543,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "150455",
@@ -36498,7 +37583,10 @@
     "state": "WI",
     "domain": "uwstout.edu",
     "alias": "UWSTOUT",
-    "population": 7955
+    "population": 7955,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "150561",
@@ -37247,7 +38335,10 @@
     "state": "PR",
     "domain": "pupr.edu",
     "alias": "PUPR",
-    "population": 3459
+    "population": 3459,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "151582",
@@ -37307,7 +38398,10 @@
     "state": "IN",
     "domain": "purdue.edu",
     "alias": "Purdue-West LafayettePurduePUPurdue-WL",
-    "population": 31887
+    "population": 31887,
+    "designations": [
+      "CAE-R"
+    ]
   },
   {
     "id": "151661",
@@ -37659,7 +38753,10 @@
     "state": "TX",
     "domain": "collin.edu",
     "alias": "Collin County Community College DistrictCollin County Community CollegeColin County Community College DistrictColin County Community CollegeCollin CollegeColin CollegeCollinColinCCCCDCCCCQuad C",
-    "population": 25701
+    "population": 25701,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "152415",
@@ -37676,7 +38773,10 @@
     "state": "KY",
     "domain": "owensboro.kctcs.edu",
     "alias": "KCTCS",
-    "population": 2461
+    "population": 2461,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "152442",
@@ -37784,7 +38884,10 @@
     "state": "VA",
     "domain": "ecpi.edu",
     "alias": "ECPI",
-    "population": 11512
+    "population": 11512,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "152619014",
@@ -38307,7 +39410,10 @@
     "state": "AZ",
     "domain": "uat.edu",
     "alias": "UAT",
-    "population": 772
+    "population": 772,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "153719",
@@ -38711,7 +39817,10 @@
     "state": "CA",
     "domain": "csusm.edu",
     "alias": "CSUSM",
-    "population": 14516
+    "population": 14516,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "154484",
@@ -40523,7 +41632,10 @@
     "state": "AZ",
     "domain": "estrellamountain.edu",
     "alias": "ESTRELLAMOUNTAIN",
-    "population": 7709
+    "population": 7709,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "158167",
@@ -41440,7 +42552,10 @@
     "state": "TX",
     "domain": "southtexascollege.edu",
     "alias": "South Texas Community College",
-    "population": 19452
+    "population": 19452,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "160542",
@@ -41596,7 +42711,10 @@
     "state": "MN",
     "domain": "capella.edu",
     "alias": "CAPELLA",
-    "population": 9193
+    "population": 9193,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "160968",
@@ -41755,7 +42873,10 @@
     "state": "PA",
     "domain": "pennhighlands.edu",
     "alias": "Pennsylvania Highlands",
-    "population": 1014
+    "population": 1014,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "161448",
@@ -43721,7 +44842,10 @@
     "state": "UT",
     "domain": "wgu.edu",
     "alias": "WGU Western Governors",
-    "population": 72385
+    "population": 72385,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "165918",
@@ -43928,7 +45052,10 @@
     "state": "MD",
     "domain": "ccbcmd.edu",
     "alias": "CCBCCommunity College of Baltimore CountyCatonsville Community CollegeDundalk Community CollegeEssex Community College",
-    "population": 17614
+    "population": 17614,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "166346",
@@ -44353,7 +45480,10 @@
     "name": "Metropolitan Community College",
     "street": "2550 Belle Chasse Hwy.",
     "city": "Gretna",
-    "state": "LA"
+    "state": "LA",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "167312",
@@ -46962,7 +48092,10 @@
     "state": "CO",
     "domain": "usafa.edu",
     "alias": "USAFA",
-    "population": 4276
+    "population": 4276,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "174464",
@@ -47638,7 +48771,10 @@
     "state": "WV",
     "domain": "apus.edu",
     "alias": "American Military University American Public University",
-    "population": 36097
+    "population": 36097,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "183008",
@@ -49141,7 +50277,10 @@
     "state": "WV",
     "domain": "blueridgectc.edu",
     "alias": "BLUERIDGECTC",
-    "population": 1871
+    "population": 1871,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "189149",
@@ -52168,7 +53307,10 @@
     "state": "PR",
     "domain": "centurycollege.edu",
     "alias": "CENTURYCOLLEGE",
-    "population": 281
+    "population": 281,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "215044",
@@ -54961,7 +56103,10 @@
     "state": "GA",
     "domain": "augusta.edu",
     "alias": "AUGUSTA",
-    "population": 4978
+    "population": 4978,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "231934",
@@ -55306,7 +56451,10 @@
     "state": "GA",
     "domain": "mga.edu",
     "alias": "MGA",
-    "population": 6609
+    "population": 6609,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "234483",
@@ -55323,7 +56471,10 @@
     "state": "GA",
     "domain": "ung.edu",
     "alias": "UNG",
-    "population": 17067
+    "population": 17067,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "234508",
@@ -56938,7 +58089,10 @@
     "state": "IN",
     "domain": "purdueglobal.edu",
     "alias": "PURDUEGLOBAL",
-    "population": 522
+    "population": 522,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "243726",
@@ -57042,7 +58196,10 @@
     "state": "MO",
     "domain": "stlcc.edu",
     "alias": "STLCC",
-    "population": 16785
+    "population": 16785,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "244437",
@@ -57339,7 +58496,10 @@
     "state": "TX",
     "domain": "tamusa.edu",
     "alias": "A&M-SA",
-    "population": 5376
+    "population": 5376,
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "246150",

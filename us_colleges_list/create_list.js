@@ -4,6 +4,8 @@ const path = require('path');
 const _ = require('lodash');
 const Url = require('url');
 
+const CAE = require('../dist/cae_designations');
+
 const EXCEPTIONS = require('./exceptions');
 const ADDITIONS = require('./additions');
 
@@ -27,6 +29,7 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
   const parentInstitutionLookup = _.countBy(json, 'ParentDapipId');
 
   const schools = new Map();
+  const nameLookup = new Map();
 
   json.forEach((object) => {
     const id = object.DapipId;
@@ -110,11 +113,21 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
     };
 
     schools.set(id, entry);
+    nameLookup.set(name, entry);
   });
 
   _.each(ADDITIONS, (school) => {
     if (!schools.has(school.id)) {
       schools.set(school.id, school);
+    }
+  });
+
+  _.each(CAE, ({ school, designations }) => {
+    const entry = nameLookup.get(school);
+    if (!entry) {
+      console.error(`[ERROR] CAE school: ${school} does not have a matching entry.`);
+    } else {
+      entry.designations = designations;
     }
   });
 

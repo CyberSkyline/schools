@@ -33,6 +33,7 @@ async function main() {
         population : college.population,
         search : `${college.name} ${college.alias || ''} ${college.domain || ''}`.trim(),
         scoreBoost : scoreBoost[college.id] || undefined,
+        designations : college.designations,
       },
     });
   });
