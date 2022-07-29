@@ -58,7 +58,7 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       return;
     }
 
-    let { url, alias, population : collegeScorecardPopulation } = collegeScorecard || {};
+    let { url, alias, population : collegeScorecardPopulation, degree } = collegeScorecard || {};
     let population;
 
     if (exception) {
@@ -110,6 +110,7 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       domain : domain || undefined,
       alias : alias || undefined,
       population : population || undefined,
+      predominantDegree : _.get(degree, 'predominant') || 'N/A',
     };
 
     schools.set(id, entry);

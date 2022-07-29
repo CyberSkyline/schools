@@ -6,6 +6,7 @@
     "city": "Edmonton",
     "province": "AB",
     "domain": "macewan.ca",
-    "population": 19000
+    "population": 19000,
+    "predominantDegree": "Bachelor"
   }
 ]

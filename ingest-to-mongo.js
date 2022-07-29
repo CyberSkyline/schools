@@ -16,7 +16,7 @@ async function main() {
   await collection.createIndex({ name : 1, level : 1 });
   await collection.createIndex({ domain : 1 });
 
-  console.log(`Processing ${colleges.length} colleges`);
+  console.log(`Processing ${colleges.length + canadaColleges.length} colleges`);
   const bulkCollege = collection.initializeUnorderedBulkOp();
   _.each(colleges, (college) => {
     bulkCollege.find({ eduId : college.id, level : 'UC' }).upsert().updateOne({
@@ -34,6 +34,7 @@ async function main() {
         search : `${college.name} ${college.alias || ''} ${college.domain || ''}`.trim(),
         scoreBoost : scoreBoost[college.id] || undefined,
         designations : college.designations,
+        predominantDegree : college.predominantDegree,
       },
     });
   });
@@ -52,6 +53,7 @@ async function main() {
         population : college.population,
         search : `${college.name} ${college.alias || ''} ${college.domain || ''}`.trim(),
         scoreBoost : scoreBoost[college.id] || undefined,
+        predominantDegree : college.predominantDegree,
       },
     });
   });
