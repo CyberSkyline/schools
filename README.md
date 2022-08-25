@@ -15,9 +15,17 @@ US Centers of Academic Excellence in Cybersecurity: https://www.caecommunity.org
 3. Download as CSV
 4. Run the `create_list.js` script for high school with the CCD directory data, ElSi data, and PSS data
 
+### Adding Exceptions
+
+In each directory, there's an `exceptions.json` which you can add in additional schools. Run `create_list.js` again to create the list. The final list should be in the `dist` directory.
+
 ### Boosting search ranking
 
 The default ranking is based on the school's population, but some times large population schools may not necessarily be participating in our events, so we can boost their score by adding their school ID and the boost value (some value less than 10 should suffice, adjust to taste) to the `score_boost.json` file.
+
+### Deploy
+
+Run `ingest-to-mongo.js` to deploy into the production MongoDB server.
 
 ### Altas Search Index
 
