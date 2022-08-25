@@ -42891,6 +42891,16 @@
     ]
   },
   {
+    "id": "152619010",
+    "name": "ECPI University - Columbia",
+    "street": "250 Berryhill Rd Suite 300",
+    "city": "Columbia",
+    "state": "SC",
+    "domain": "ecpi.edu",
+    "alias": "ECPI",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "152619014",
     "name": "ECPI University - Richmond South (Moorefield)",
     "street": "800 Moorefield Pk Dr",
