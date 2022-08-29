@@ -137,6 +137,7 @@ function processName(input) {
       P285 : g11,
       P295 : g12,
       NUMSTUDS : numStudents,
+      alias,
     } = object;
 
     const population = parseInt(numStudents, 10) || 0;
@@ -155,6 +156,7 @@ function processName(input) {
       zip,
       population,
       type : 'PRIVATE',
+      alias,
     };
 
     if (schools.has(id)) {

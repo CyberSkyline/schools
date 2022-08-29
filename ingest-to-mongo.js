@@ -68,6 +68,7 @@ async function main() {
         eduId : highschool.id,
         name : highschool.name,
         agency : highschool.agency,
+        alias : highschool.alias,
         street : highschool.street,
         city : highschool.city,
         subdivision : highschool.state,
