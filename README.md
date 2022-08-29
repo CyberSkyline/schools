@@ -8,8 +8,17 @@ College & University: https://ope.ed.gov/dapip/#/download-data-files & https://c
 
 US Centers of Academic Excellence in Cybersecurity: https://www.caecommunity.org/cae-map
 
+### Obtaining College Data
+
+Inside the `us_colleges_list` directory:
+1. Run `node download_college_scorecard_database.js` to get College Scorecard Data
+2. Run `./download_dapip_data.sh` to get all Institution Campuses data
+3. Navigate to the CAE Community website above to retrieve list of CAE designated schools
+4. Run the `create_list.js` script with the InstitutionCampus.csv data from step 2
+
 ### Obtaining High School Data
 
+Inside the `us_highschools_list` directory:
 1. Download the latest year CCD directory data from https://nces.ed.gov/ccd/files.asp#Fiscal:2,LevelId:7,Page:1 
 2. Create a table on the ElSi tableGenerator to include total students column and school ID (e.g. for 2021 - https://nces.ed.gov/ccd/elsi/tableGenerator.aspx?savedTableID=421908)
 3. Download as CSV
