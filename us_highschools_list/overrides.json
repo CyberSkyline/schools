@@ -49,5 +49,21 @@
   {
     "id": "240006000905",
     "population": 50
+  },
+  {
+    "id": "292358001379",
+    "name": "Parkway Central High"
+  },
+  {
+    "id": "292358001393",
+    "name": "Parkway North High"
+  },
+  {
+    "id": "292358001394",
+    "name": "Parkway South High"
+  },
+  {
+    "id": "292358001404",
+    "name": "Parkway West High"
   }
 ]
