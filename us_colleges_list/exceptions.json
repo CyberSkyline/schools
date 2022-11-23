@@ -1,8 +1,12 @@
 [
   {
     "id": "109299006",
-    "name": "Embry-Riddle Aeronautical University - Prescott Campus",
+    "name": "Embry-Riddle Aeronautical University - Prescott",
     "url": "prescott.erau.edu"
+  },
+  {
+    "id": "109299",
+    "name": "Embry-Riddle Aeronautical University - Daytona Beach"
   },
   {
     "id": "192280",
