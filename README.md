@@ -13,7 +13,7 @@ US Centers of Academic Excellence in Cybersecurity: https://www.caecommunity.org
 Inside the `us_colleges_list` directory:
 1. Run `node download_college_scorecard_database.js` to get College Scorecard Data
 2. Run `./download_dapip_data.sh` to get all Institution Campuses data
-3. Navigate to the CAE Community website above to retrieve list of CAE designated schools
+3. Run `node download_cae_schools.js` to get all CAE designation data
 4. Run the `create_list.js` script with the InstitutionCampus.csv data from step 2
 
 ### Obtaining High School Data

@@ -81,6 +81,8 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       name = _.replace(name, /\s\?\s/, ' - '); // fix question mark hyphens
     }
 
+    name = _.replace(name, / {2,}/g, ' ');
+
     let domain = Url.parse(/^http/.test(url) ? url : `http://${url || ''}`).hostname || undefined;
 
     if (/\.com$/.test(domain)) {

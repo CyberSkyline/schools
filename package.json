@@ -8,9 +8,12 @@
   "private": true,
   "dependencies": {
     "csvtojson": "^2.0.10",
+    "jquery": "^3.6.1",
+    "jsdom": "^20.0.3",
     "lodash": "^4.17.21",
     "mongodb": "^4.4.0",
     "progress": "^2.0.3",
+    "states-us": "^1.0.2",
     "superagent": "^7.1.1"
   }
 }

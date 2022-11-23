@@ -230,14 +230,17 @@
   },
   {
     "id": "100283",
-    "name": "Wallace State Community College  - Hanceville",
+    "name": "Wallace State Community College - Hanceville",
     "street": "801 Main St. P. O. Box 2000",
     "city": "Hanceville",
     "state": "AL",
     "domain": "wallacestate.edu",
     "alias": "Wallace State Community College Wallace State - Hanceville",
     "population": 4211,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100292",
@@ -594,7 +597,10 @@
     "domain": "talladega.edu",
     "alias": "TALLADEGA",
     "population": 1142,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100690",
@@ -835,7 +841,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD",
-      "CAE-R"
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -3276,7 +3283,7 @@
   },
   {
     "id": "104054",
-    "name": "Five Branches University:  Graduate School of Traditional Chinese Medicine - Santa Cruz, CA",
+    "name": "Five Branches University: Graduate School of Traditional Chinese Medicine - Santa Cruz, CA",
     "street": "200 7th Avenue",
     "city": "Santa Cruz",
     "state": "CA",
@@ -4377,7 +4384,8 @@
     "predominantDegree": "Graduate",
     "designations": [
       "CAE-CD",
-      "CAE-R"
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -6081,7 +6089,10 @@
     "domain": "colostate.edu",
     "alias": "COLOSTATE",
     "population": 23332,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107460",
@@ -7361,7 +7372,10 @@
     "domain": "strayer.edu",
     "alias": "STRAYER",
     "population": 610,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "108977",
@@ -7502,7 +7516,10 @@
     "domain": "easternflorida.edu",
     "alias": "EFSC",
     "population": 10590,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109129",
@@ -9166,7 +9183,10 @@
     "domain": "ccga.edu",
     "alias": "CCGA",
     "population": 2976,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "111072",
@@ -13095,7 +13115,10 @@
     "domain": "dmacc.edu",
     "alias": "DMACC",
     "population": 10734,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "115843",
@@ -13364,7 +13387,7 @@
   },
   {
     "id": "116156",
-    "name": "La' James College of  Cosmetology",
+    "name": "La' James College of Cosmetology",
     "street": "24 Second Street NE",
     "city": "Mason City",
     "state": "IA",
@@ -15170,7 +15193,7 @@
   },
   {
     "id": "118170",
-    "name": "Trend Setters'  Academy of Beauty Culture, Inc.",
+    "name": "Trend Setters' Academy of Beauty Culture, Inc.",
     "street": "7283 Dixie Hwy",
     "city": "Louisville",
     "state": "KY",
@@ -15460,7 +15483,10 @@
     "domain": "lsu.edu",
     "alias": "Louisiana State UniversityLSU",
     "population": 25203,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CO"
+    ]
   },
   {
     "id": "118684",
@@ -16214,7 +16240,10 @@
     "domain": "usm.maine.edu",
     "alias": "MAINE",
     "population": 5018,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "119720",
@@ -16971,7 +17000,7 @@
   },
   {
     "id": "120573",
-    "name": "American International  College",
+    "name": "American International College",
     "street": "1000 State Street",
     "city": "Springfield",
     "state": "MA",
@@ -17978,7 +18007,6 @@
     "population": 15130,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD",
       "CAE-R",
       "CAE-CO"
     ]
@@ -18489,7 +18517,10 @@
     "domain": "cmich.edu",
     "alias": "CMICH",
     "population": 12909,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122241",
@@ -18650,7 +18681,7 @@
   },
   {
     "id": "122481",
-    "name": "Focus:  HOPE Machinist Training Institute",
+    "name": "Focus: HOPE Machinist Training Institute",
     "street": "1200 Oakman Boulevard",
     "city": "Detroit",
     "state": "MI",
@@ -19505,7 +19536,10 @@
     "domain": "alextech.edu",
     "alias": "ATCC",
     "population": 1303,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "123420",
@@ -20964,7 +20998,10 @@
     "domain": "ucmo.edu",
     "alias": "Central",
     "population": 6877,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "125143",
@@ -23453,7 +23490,10 @@
     "domain": "hccc.edu",
     "alias": "HCCC",
     "population": 6522,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128258",
@@ -26123,7 +26163,7 @@
   },
   {
     "id": "131575",
-    "name": "Otsego  Northern Catskills  BOCES",
+    "name": "Otsego Northern Catskills BOCES",
     "street": "Suite O, 50 Dietz Street",
     "city": "Oneonta",
     "state": "NY",
@@ -26227,7 +26267,7 @@
   },
   {
     "id": "131672",
-    "name": "Professional Business  College",
+    "name": "Professional Business College",
     "street": "408 Broadway",
     "city": "New York",
     "state": "NY",
@@ -26655,7 +26695,10 @@
     "domain": "stjohns.edu",
     "alias": "St. John's University-New York",
     "population": 10350,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "132222",
@@ -27875,7 +27918,10 @@
     "domain": "gaston.edu",
     "alias": "GASTON",
     "population": 5254,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133483",
@@ -29480,7 +29526,8 @@
     "population": 27425,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -29790,7 +29837,10 @@
     "domain": "findlay.edu",
     "alias": "FINDLAY",
     "population": 2222,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135577",
@@ -30012,7 +30062,10 @@
     "domain": "lakelandcc.edu",
     "alias": "LakelandLakeland CollegeLCC",
     "population": 3908,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "135920",
@@ -34615,7 +34668,10 @@
     "domain": "online.jwu.edu",
     "alias": "JWU",
     "population": 1314,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141918",
@@ -34692,10 +34748,7 @@
     "domain": "web.uri.edu",
     "alias": "URI",
     "population": 13971,
-    "predominantDegree": "Bachelor",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Bachelor"
   },
   {
     "id": "142009",
@@ -38239,7 +38292,10 @@
     "domain": "stmarytx.edu",
     "alias": "STMARYTX",
     "population": 2125,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "145992",
@@ -38520,8 +38576,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD",
-      "CAE-CO",
-      "CAE-R"
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -38544,10 +38600,7 @@
     "domain": "utexas.edu",
     "alias": "UT Austin",
     "population": 39624,
-    "predominantDegree": "Bachelor",
-    "designations": [
-      "CAE-R"
-    ]
+    "predominantDegree": "Bachelor"
   },
   {
     "id": "146311",
@@ -38576,8 +38629,8 @@
     "population": 21070,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CO",
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -39186,7 +39239,10 @@
     "domain": "weber.edu",
     "alias": "WSU",
     "population": 16664,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147059",
@@ -39474,7 +39530,10 @@
     "domain": "brcc.edu",
     "alias": "BRCCBlue Ridge",
     "population": 2575,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "147369",
@@ -40310,7 +40369,8 @@
     "population": 29893,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-R"
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -40338,7 +40398,8 @@
     "population": 21334,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-R"
     ]
   },
   {
@@ -44781,7 +44842,10 @@
     "domain": "sunysuffolk.edu",
     "alias": "SUNYSUFFOLK",
     "population": 16683,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "154299",
@@ -46620,7 +46684,7 @@
   },
   {
     "id": "157580",
-    "name": "Mt. Diablo  Adult Education",
+    "name": "Mt. Diablo Adult Education",
     "street": "1266 San Carlos Avenue",
     "city": "Concord",
     "state": "CA",
@@ -46690,7 +46754,7 @@
   },
   {
     "id": "157720",
-    "name": "Brightwood College  - Dallas",
+    "name": "Brightwood College - Dallas",
     "street": "Suite 100, 12005 Ford Road",
     "city": "Dallas",
     "state": "TX",
@@ -47290,7 +47354,7 @@
   },
   {
     "id": "158705",
-    "name": "Center for Employment Training - Santa  Ana",
+    "name": "Center for Employment Training - Santa Ana",
     "street": "120 W Fifth St Ste 120",
     "city": "Santa Ana",
     "state": "CA",
@@ -52452,7 +52516,7 @@
   },
   {
     "id": "169442",
-    "name": "Texas Barber College and Hairstyling School  - Houston",
+    "name": "Texas Barber College and Hairstyling School - Houston",
     "street": "8201 South Gessner Road",
     "city": "Houston",
     "state": "TX",
@@ -54522,7 +54586,8 @@
     "population": 4307,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -57294,7 +57359,7 @@
   },
   {
     "id": "190220",
-    "name": "Warrensburg  Area Voc-Technical School",
+    "name": "Warrensburg Area Voc-Technical School",
     "street": "205 South Ridgeview Drive",
     "city": "Warrensburg",
     "state": "MO",
@@ -60657,7 +60722,10 @@
     "domain": "sans.edu",
     "alias": "SANS",
     "population": 122,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "214704",

@@ -12,6 +12,12 @@
     ]
   },
   {
+    "school": "Alexandria Technical and Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "American Public University System",
     "designations": [
       "CAE-CD"
@@ -99,6 +105,12 @@
   },
   {
     "school": "Blue Ridge Community and Technical College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Blue Ridge Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -216,6 +228,12 @@
     ]
   },
   {
+    "school": "Central Michigan University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Central New Mexico Community College",
     "designations": [
       "CAE-CD"
@@ -283,6 +301,12 @@
     ]
   },
   {
+    "school": "College of Coastal Georgia",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "College of DuPage",
     "designations": [
       "CAE-CD"
@@ -320,6 +344,12 @@
   },
   {
     "school": "Colorado School of Mines",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Colorado State University",
     "designations": [
       "CAE-CD"
     ]
@@ -417,6 +447,12 @@
     ]
   },
   {
+    "school": "Des Moines Area Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Drexel University",
     "designations": [
       "CAE-CD"
@@ -430,6 +466,12 @@
   },
   {
     "school": "East Stroudsburg University of Pennsylvania",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Eastern Florida State College",
     "designations": [
       "CAE-CD"
     ]
@@ -587,6 +629,12 @@
     ]
   },
   {
+    "school": "Gaston College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "George Mason University",
     "designations": [
       "CAE-CD",
@@ -721,6 +769,12 @@
     ]
   },
   {
+    "school": "Hudson County Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Idaho State University",
     "designations": [
       "CAE-CD"
@@ -795,6 +849,12 @@
     ]
   },
   {
+    "school": "Johnson & Wales University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Johnson County Community College",
     "designations": [
       "CAE-CD"
@@ -831,6 +891,12 @@
     ]
   },
   {
+    "school": "Lakeland Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Lansing Community College",
     "designations": [
       "CAE-CD"
@@ -838,6 +904,12 @@
   },
   {
     "school": "Laredo College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Laurel Ridge Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -885,9 +957,9 @@
     ]
   },
   {
-    "school": "Laurel Ridge Community College",
+    "school": "Louisiana State University and A&M College",
     "designations": [
-      "CAE-CD"
+      "CAE-CO"
     ]
   },
   {
@@ -935,6 +1007,12 @@
   },
   {
     "school": "Mercy College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Metropolitan State University",
     "designations": [
       "CAE-CD"
     ]
@@ -1058,14 +1136,9 @@
   {
     "school": "Naval Postgraduate School",
     "designations": [
-      "CAE-CO"
-    ]
-  },
-  {
-    "school": "Naval Postgraduate School",
-    "designations": [
       "CAE-CD",
-      "CAE-R"
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -1158,7 +1231,6 @@
   {
     "school": "Northeastern University",
     "designations": [
-      "CAE-CD",
       "CAE-R",
       "CAE-CO"
     ]
@@ -1442,6 +1514,12 @@
     ]
   },
   {
+    "school": "The SANS Technology Institute",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Sierra College",
     "designations": [
       "CAE-CD"
@@ -1514,7 +1592,19 @@
     ]
   },
   {
+    "school": "St. John's University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Saint Louis Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "St. Mary's University",
     "designations": [
       "CAE-CD"
     ]
@@ -1539,10 +1629,28 @@
     ]
   },
   {
+    "school": "Strayer University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Suffolk County Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Syracuse University",
     "designations": [
       "CAE-CD",
       "CAE-R"
+    ]
+  },
+  {
+    "school": "Talladega College",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
@@ -1567,8 +1675,8 @@
     "school": "Texas A&M University",
     "designations": [
       "CAE-CD",
-      "CAE-CO",
-      "CAE-R"
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -1642,6 +1750,8 @@
   {
     "school": "University of Arizona",
     "designations": [
+      "CAE-CD",
+      "CAE-R",
       "CAE-CO"
     ]
   },
@@ -1649,12 +1759,6 @@
     "school": "The University of Tennessee - Chattanooga",
     "designations": [
       "CAE-CD"
-    ]
-  },
-  {
-    "school": "University of Texas at Austin",
-    "designations": [
-      "CAE-R"
     ]
   },
   {
@@ -1705,13 +1809,8 @@
   {
     "school": "United States Air Force Academy",
     "designations": [
+      "CAE-CD",
       "CAE-CO"
-    ]
-  },
-  {
-    "school": "United States Air Force Academy",
-    "designations": [
-      "CAE-CD"
     ]
   },
   {
@@ -1738,13 +1837,6 @@
     "school": "University of Advancing Technology",
     "designations": [
       "CAE-CD"
-    ]
-  },
-  {
-    "school": "University of Arizona",
-    "designations": [
-      "CAE-CD",
-      "CAE-R"
     ]
   },
   {
@@ -1780,15 +1872,16 @@
     ]
   },
   {
-    "school": "University of Cincinnati",
+    "school": "University of Central Missouri",
     "designations": [
-      "CAE-CO"
+      "CAE-CD"
     ]
   },
   {
     "school": "University of Cincinnati",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -1829,6 +1922,12 @@
   },
   {
     "school": "University of Detroit Mercy",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "The University of Findlay",
     "designations": [
       "CAE-CD"
     ]
@@ -2042,12 +2141,6 @@
     ]
   },
   {
-    "school": "University of Rhode Island",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "University of San Diego",
     "designations": [
       "CAE-CD"
@@ -2074,6 +2167,12 @@
     ]
   },
   {
+    "school": "University of Southern Maine",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "The University of Texas at Dallas",
     "designations": [
       "CAE-CD",
@@ -2084,8 +2183,8 @@
   {
     "school": "The University of Texas at El Paso",
     "designations": [
-      "CAE-CO",
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -2160,19 +2259,15 @@
   {
     "school": "Virginia Commonwealth University",
     "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
-    "school": "Virginia Polytechnic Institute and State University",
-    "designations": [
-      "CAE-CO"
-    ]
-  },
-  {
-    "school": "Virginia Polytechnic Institute and State University",
-    "designations": [
+      "CAE-CD",
       "CAE-R"
+    ]
+  },
+  {
+    "school": "Virginia Polytechnic Institute and State University",
+    "designations": [
+      "CAE-R",
+      "CAE-CO"
     ]
   },
   {
@@ -2200,6 +2295,12 @@
     ]
   },
   {
+    "school": "Wallace State Community College - Hanceville",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Walsh University",
     "designations": [
       "CAE-CD"
@@ -2213,6 +2314,12 @@
   },
   {
     "school": "Waukesha County Technical College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Weber State University",
     "designations": [
       "CAE-CD"
     ]
@@ -2262,12 +2369,6 @@
   },
   {
     "school": "Wichita State University",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
-    "school": "Wilmington University",
     "designations": [
       "CAE-CD"
     ]
