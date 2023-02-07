@@ -50310,6 +50310,18 @@
     ]
   },
   {
+    "id": "152619008",
+    "name": "ECPI University - Raleigh",
+    "street": "4101 Doie Cope Road",
+    "city": "Raleigh",
+    "state": "NC",
+    "lon": null,
+    "lat": null,
+    "domain": "ecpi.edu",
+    "alias": "ECPI",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "152619010",
     "name": "ECPI University - Columbia",
     "street": "250 Berryhill Rd Suite 300",
