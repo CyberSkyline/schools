@@ -71,6 +71,9 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       if (exception.population) {
         ({ population } = exception);
       }
+      if (exception.alias) {
+        ({ alias } = exception);
+      }
     }
 
     if (/\S\?\S/.test(name)) {
@@ -109,8 +112,8 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       street,
       city,
       state,
-      lon,
-      lat,
+      lon : lon || undefined,
+      lat : lat || undefined,
       domain : domain || undefined,
       alias : alias || undefined,
       population : population || undefined,

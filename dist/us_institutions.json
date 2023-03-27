@@ -16528,8 +16528,6 @@
     "street": "1500 SW 10th",
     "city": "Topeka",
     "state": "KS",
-    "lon": null,
-    "lat": null,
     "domain": "bakeru.edu",
     "alias": "BAKERU",
     "predominantDegree": "N/A"
@@ -23940,8 +23938,6 @@
     "street": "1435 N Glenstone Ave",
     "city": "Springfield",
     "state": "MO",
-    "lon": null,
-    "lat": null,
     "domain": "agts.edu",
     "alias": "AGTS",
     "predominantDegree": "N/A"
@@ -36210,8 +36206,6 @@
     "street": "240 Vo-Tech Road",
     "city": "Tahlequah",
     "state": "OK",
-    "lon": null,
-    "lat": null,
     "domain": "ictech.edu",
     "alias": "ICTECH",
     "predominantDegree": "N/A"
@@ -37589,8 +37583,6 @@
     "street": "150 South College St",
     "city": "Carlisle",
     "state": "PA",
-    "lon": null,
-    "lat": null,
     "domain": "law.psu.edu",
     "alias": "PSU",
     "predominantDegree": "N/A"
@@ -38675,6 +38667,16 @@
     "designations": [
       "CAE-CD"
     ]
+  },
+  {
+    "id": "140711023",
+    "name": "Pennsylvania State University - York",
+    "street": "1031 Edgecomb Avenue",
+    "city": "York",
+    "state": "PA",
+    "domain": "york.psu.edu",
+    "alias": "Penn State York",
+    "predominantDegree": "N/A"
   },
   {
     "id": "140775",
@@ -42462,8 +42464,6 @@
     "street": "7th Floor, 301 Tarrow",
     "city": "College Station",
     "state": "TX",
-    "lon": null,
-    "lat": null,
     "domain": "tamhsc.edu",
     "alias": "TAMHSC",
     "predominantDegree": "N/A"
@@ -50315,8 +50315,6 @@
     "street": "4101 Doie Cope Road",
     "city": "Raleigh",
     "state": "NC",
-    "lon": null,
-    "lat": null,
     "domain": "ecpi.edu",
     "alias": "ECPI",
     "predominantDegree": "N/A"
@@ -54741,8 +54739,6 @@
     "street": "801 Tech Dr",
     "city": "Fairview",
     "state": "OK",
-    "lon": null,
-    "lat": null,
     "domain": "nwtech.edu",
     "alias": "NWTECH",
     "predominantDegree": "N/A"
@@ -56713,8 +56709,6 @@
     "street": "Hwy 59 & Maryetta Rd, Rt. 6 - Box 3320",
     "city": "Stilwell",
     "state": "OK",
-    "lon": null,
-    "lat": null,
     "domain": "ictech.edu",
     "alias": "ICTECH",
     "predominantDegree": "N/A"
@@ -58782,8 +58776,6 @@
     "street": "12520 Pines Blvd.",
     "city": "Pembroke Pines",
     "state": "FL",
-    "lon": null,
-    "lat": null,
     "domain": "sec.edu",
     "alias": "SEC",
     "predominantDegree": "N/A"
@@ -66966,8 +66958,6 @@
     "street": "8550 Hudson Blvd., Eagle Point Office Center II",
     "city": "Lake Elmo",
     "state": "MN",
-    "lon": null,
-    "lat": null,
     "domain": "rasmussen.edu",
     "alias": "RASMUSSEN",
     "predominantDegree": "N/A"
@@ -73331,8 +73321,6 @@
     "street": "33 Palomba Drive",
     "city": "Enfield",
     "state": "CT",
-    "lon": null,
-    "lat": null,
     "domain": "porterchester.edu",
     "alias": "PORTERCHESTER",
     "predominantDegree": "N/A"
@@ -73343,8 +73331,6 @@
     "street": "30 Waterchase Drive",
     "city": "Rocky Hill",
     "state": "CT",
-    "lon": null,
-    "lat": null,
     "domain": "porterchester.edu",
     "alias": "PORTERCHESTER",
     "predominantDegree": "N/A"
@@ -73363,8 +73349,6 @@
     "street": "881 Wolcott Street",
     "city": "Waterbury",
     "state": "CT",
-    "lon": null,
-    "lat": null,
     "domain": "porterchester.edu",
     "alias": "PORTERCHESTER",
     "predominantDegree": "N/A"
