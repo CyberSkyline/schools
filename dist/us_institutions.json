@@ -613,10 +613,7 @@
     "domain": "snead.edu",
     "alias": "SNEAD",
     "population": 1489,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "100636",
@@ -5582,7 +5579,10 @@
     "domain": "rcc.edu",
     "alias": "RCC",
     "population": 17813,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "106102",
@@ -6819,7 +6819,10 @@
     "domain": "ucdenver.edu",
     "alias": "University of Colorado Denver University of Colorado Anschutz Medical Campus UCD",
     "population": 11392,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "107345",
@@ -8728,7 +8731,10 @@
     "domain": "daytonastate.edu",
     "alias": "DSC",
     "population": 9821,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "109253",
@@ -11546,10 +11552,7 @@
     "domain": "honolulu.hawaii.edu",
     "alias": "Honolulu CC / HCC",
     "population": 2287,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "111993",
@@ -11570,7 +11573,10 @@
     "domain": "kapiolani.hawaii.edu",
     "alias": "Kapiolani CC / KCC",
     "population": 4318,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "112011",
@@ -12970,10 +12976,7 @@
     "domain": "lewisu.edu",
     "alias": "Lewis College Lewis College of Science and Technology Lewis School of Aeronautics Lewis Holy Name School of Aeronautics Lewis Holy Name Technical School Holy Name Technical School",
     "population": 4099,
-    "predominantDegree": "Bachelor",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Bachelor"
   },
   {
     "id": "113485",
@@ -13953,7 +13956,10 @@
     "domain": "wiu.edu",
     "alias": "WIU",
     "population": 5854,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "114488",
@@ -14335,7 +14341,10 @@
     "domain": "indianatech.edu",
     "alias": "Indiana Tech, IIT",
     "population": 1499,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "115083",
@@ -14361,7 +14370,10 @@
     "domain": "indstate.edu",
     "alias": "Indiana State ISU",
     "population": 8897,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "115108",
@@ -20754,7 +20766,10 @@
     "domain": "simmons.edu",
     "alias": "SIMMONS",
     "population": 1731,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "121868",
@@ -21793,7 +21808,10 @@
     "domain": "mtu.edu",
     "alias": "Michigan TechMTUMichigan Tech UniversityMich TechMichigan Technological UnivMichigan Tech UnivMT",
     "population": 5574,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "122861",
@@ -22567,10 +22585,7 @@
     "domain": "lsc.edu",
     "alias": "LSC",
     "population": 2934,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "123606",
@@ -23575,7 +23590,10 @@
     "domain": "hindscc.edu",
     "alias": "HINDSCC",
     "population": 8006,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "124681",
@@ -24541,7 +24559,10 @@
     "domain": "maryville.edu",
     "alias": "MARYVILLE",
     "population": 5463,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "125666",
@@ -26049,7 +26070,7 @@
   },
   {
     "id": "127307",
-    "name": "University of Nevada - Reno",
+    "name": "University of Nevada, Reno",
     "street": "1664 North Virginia Street",
     "city": "Reno",
     "state": "NV",
@@ -26857,7 +26878,10 @@
     "domain": "rcsj.edu",
     "alias": "RCSJ",
     "population": 5300,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "128197",
@@ -27491,10 +27515,7 @@
     "domain": "cnm.edu",
     "alias": "CNM",
     "population": 17215,
-    "predominantDegree": "Certificate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Certificate"
   },
   {
     "id": "128911",
@@ -27677,7 +27698,6 @@
     "population": 15776,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD",
       "CAE-R"
     ]
   },
@@ -30648,7 +30668,10 @@
     "domain": "canton.edu",
     "alias": "SUNY Canton",
     "population": 3033,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "132295",
@@ -31748,10 +31771,7 @@
     "domain": "cpcc.edu",
     "alias": "CPCC",
     "population": 13691,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "133298",
@@ -32606,7 +32626,10 @@
     "domain": "uncp.edu",
     "alias": "UNCP",
     "population": 6347,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133997",
@@ -34945,10 +34968,7 @@
     "domain": "osu.edu",
     "alias": "OSU",
     "population": 45862,
-    "predominantDegree": "Bachelor",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Bachelor"
   },
   {
     "id": "136552",
@@ -39132,7 +39152,10 @@
     "domain": "francis.edu",
     "alias": "FRANCIS",
     "population": 1657,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "141228",
@@ -39839,7 +39862,10 @@
     "domain": "web.uri.edu",
     "alias": "URI",
     "population": 13971,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "142009",
@@ -40393,7 +40419,10 @@
     "domain": "usca.edu",
     "alias": "University of South Carolina Aiken, USC Aiken, USCA, USC Aiken, University of South Carolina at Aiken, UofSC Aiken",
     "population": 2975,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "142559",
@@ -42479,7 +42508,10 @@
     "domain": "baylor.edu",
     "alias": "BAYLOR",
     "population": 14329,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "144500",
@@ -45483,10 +45515,7 @@
     "domain": "danville.edu",
     "alias": "DANVILLE",
     "population": 1332,
-    "predominantDegree": "Certificate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Certificate"
   },
   {
     "id": "147527",
@@ -45914,7 +45943,8 @@
     "population": 19391,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CO"
+      "CAE-CO",
+      "CAE-CD"
     ]
   },
   {
@@ -49489,7 +49519,10 @@
     "domain": "upr.edu",
     "alias": "UPR",
     "population": 3049,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "151449",
@@ -71381,7 +71414,10 @@
     "domain": "cwi.edu",
     "alias": "CWI",
     "population": 6604,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "228219",
@@ -75007,7 +75043,10 @@
     "street": "901 North Colombo Avenue",
     "city": "Sierra Vista",
     "state": "AZ",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "242185",

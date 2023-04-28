@@ -80,6 +80,12 @@
     ]
   },
   {
+    "school": "Baylor University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Bellevue University",
     "designations": [
       "CAE-CD"
@@ -234,18 +240,6 @@
     ]
   },
   {
-    "school": "Central New Mexico Community College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
-    "school": "Central Piedmont Community College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "Century College",
     "designations": [
       "CAE-CD"
@@ -301,6 +295,12 @@
     ]
   },
   {
+    "school": "Cochise College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "College of Coastal Georgia",
     "designations": [
       "CAE-CD"
@@ -326,6 +326,12 @@
   },
   {
     "school": "College of Southern Nevada",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "College of Western Idaho",
     "designations": [
       "CAE-CD"
     ]
@@ -417,12 +423,6 @@
     ]
   },
   {
-    "school": "Danville Community College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "Dartmouth College",
     "designations": [
       "CAE-R"
@@ -430,6 +430,12 @@
   },
   {
     "school": "Davenport University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Daytona State College",
     "designations": [
       "CAE-CD"
     ]
@@ -745,7 +751,7 @@
     ]
   },
   {
-    "school": "Honolulu Community College",
+    "school": "Hinds Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -794,6 +800,18 @@
   },
   {
     "school": "Indian River State College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Indiana Institute of Technology",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Indiana State University",
     "designations": [
       "CAE-CD"
     ]
@@ -885,12 +903,6 @@
     ]
   },
   {
-    "school": "Lake Superior College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "Lakeland Community College",
     "designations": [
       "CAE-CD"
@@ -928,12 +940,6 @@
   },
   {
     "school": "LeMoyne-Owen College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
-    "school": "Lewis University",
     "designations": [
       "CAE-CD"
     ]
@@ -1000,6 +1006,12 @@
     ]
   },
   {
+    "school": "Maryville University of Saint Louis",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "McLennan Community College",
     "designations": [
       "CAE-CD"
@@ -1037,6 +1049,12 @@
   },
   {
     "school": "Miami Dade College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Michigan Technological University",
     "designations": [
       "CAE-CD"
     ]
@@ -1298,7 +1316,8 @@
   {
     "school": "Old Dominion University",
     "designations": [
-      "CAE-CO"
+      "CAE-CO",
+      "CAE-CD"
     ]
   },
   {
@@ -1422,6 +1441,12 @@
     ]
   },
   {
+    "school": "Riverside City College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Roane State Community College",
     "designations": [
       "CAE-CD"
@@ -1471,6 +1496,12 @@
     ]
   },
   {
+    "school": "Rowan College of South Jersey",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Rutgers, The State University of New Jersey",
     "designations": [
       "CAE-CD",
@@ -1479,6 +1510,12 @@
   },
   {
     "school": "Sacred Heart University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Saint Francis University",
     "designations": [
       "CAE-CD"
     ]
@@ -1526,13 +1563,13 @@
     ]
   },
   {
-    "school": "Sinclair Community College",
+    "school": "Simmons University",
     "designations": [
       "CAE-CD"
     ]
   },
   {
-    "school": "Snead State Community College",
+    "school": "Sinclair Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -1723,7 +1760,7 @@
     ]
   },
   {
-    "school": "Ohio State University",
+    "school": "SUNY College of Technology at Canton",
     "designations": [
       "CAE-CD"
     ]
@@ -1885,6 +1922,12 @@
     ]
   },
   {
+    "school": "University of Colorado Denver",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "University of Colorado at Colorado Springs",
     "designations": [
       "CAE-CD"
@@ -1954,6 +1997,12 @@
     "school": "University of Hawaii at Manoa",
     "designations": [
       "CAE-R"
+    ]
+  },
+  {
+    "school": "Kapi'olani Community College",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
@@ -2071,7 +2120,7 @@
     ]
   },
   {
-    "school": "University of Nevada - Reno",
+    "school": "University of Nevada, Reno",
     "designations": [
       "CAE-CD"
     ]
@@ -2091,7 +2140,6 @@
   {
     "school": "University of New Mexico",
     "designations": [
-      "CAE-CD",
       "CAE-R"
     ]
   },
@@ -2106,6 +2154,12 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
+    ]
+  },
+  {
+    "school": "University of North Carolina at Pembroke",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
@@ -2141,6 +2195,18 @@
     ]
   },
   {
+    "school": "University of Puerto Rico - Humacao",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Rhode Island",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "University of San Diego",
     "designations": [
       "CAE-CD"
@@ -2157,6 +2223,12 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
+    ]
+  },
+  {
+    "school": "University of South Carolina Aiken",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
@@ -2351,6 +2423,12 @@
   },
   {
     "school": "Western Governors University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Western Illinois University",
     "designations": [
       "CAE-CD"
     ]
