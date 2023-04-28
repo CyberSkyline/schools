@@ -5,8 +5,18 @@
     "street": "14301 Fairgrove Avenue",
     "city": "La Puente",
     "state": "CA",
-    "zip": 91746,
+    "zip": "91746",
     "population": 1340,
+    "type": "PRIVATE"
+  },
+  {
+    "id": "19 64659 6934822",
+    "name": "Flintridge Preparatory School",
+    "street": "4543 Crown Avenue",
+    "city": "La Canada Flintridge",
+    "state": "CA",
+    "zip": "91011",
+    "population": 530,
     "type": "PRIVATE"
   },
   {
