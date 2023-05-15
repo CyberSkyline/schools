@@ -42,7 +42,7 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
     let name = locationName;
 
     const [ stateAndZip, city, ...rest ] = _.chain(address).split(/, */).reverse().value();
-    const street = rest.join(', ');
+    let street = rest.join(', ');
     const [ state ] = stateAndZip.split(' ');
 
     const ope8Id = _.padStart(opeId, 8, '0');
@@ -73,6 +73,9 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       }
       if (exception.alias) {
         ({ alias } = exception);
+      }
+      if (exception.street) {
+        ({ street } = exception);
       }
     }
 
