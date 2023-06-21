@@ -16,6 +16,12 @@ Inside the `us_colleges_list` directory:
 3. Run `node download_cae_schools.js` to get all CAE designation data
 4. Run the `create_list.js` script with the InstitutionCampus.csv data from step 2
 
+### Contributing College Logos
+
+All logos should be placed in the `us_colleges_list/logos/` directory in the filename format: `id_school_name.svg`. For example, `112093_university_of_hawaii_west_oahu.svg` is an acceptable filename where `112093` is the Department of Education DAPIP ID for the University of Hawaii West Oahu. SVG file format is highly encouraged, if no SVG file is available, a high quality PNG is also acceptable. For PNG files, please make sure it is no larger than 1000px in width or height and make sure to compress the PNG via tools such as https://compresspng.com
+
+Logos files are for reference and are solely owned by their respective owners. If the copyright owner does not wish for their logo file to be included in this repository, you may open an issue to request for removal.
+
 ### Obtaining High School Data
 
 Inside the `us_highschools_list` directory:
@@ -34,7 +40,9 @@ The default ranking is based on the school's population, but some times large po
 
 ### Deploy
 
-Run `ingest-to-mongo.js` to deploy into the production MongoDB server.
+On push to the `main` branch, GitHub Actions will automatically run and deploy it to the MongoDB server.
+
+To deploy manually, run `ingest-to-mongo.js` to deploy into the production MongoDB server with the `MONGO_URI` environmental variable.
 
 ### Altas Search Index
 

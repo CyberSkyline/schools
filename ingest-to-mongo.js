@@ -110,7 +110,7 @@ async function main() {
   const { result : highschoolResult } = await bulkHS.execute();
   console.log(`${highschoolResult.nModified} highschools modified | ${highschoolResult.nUpserted} highschools added`);
 
-  console.log('done');
+  console.log('Done');
   client.close();
 }
 
