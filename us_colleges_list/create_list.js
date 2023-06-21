@@ -11,13 +11,21 @@ const ADDITIONS = require('./additions');
 
 const COLLEGE_SCORECARD = require('../dist/college_scorecard_database');
 
-const INSTITUTION_CAMPUS_CSV_PATH = process.argv[2];
+let INSTITUTION_CAMPUS_CSV_PATH = process.argv[2];
 
 if (!INSTITUTION_CAMPUS_CSV_PATH) {
-  console.error(`usage: node ${path.basename(process.argv[1])} <InstitutionCampus.csv>`);
-  console.error('Obtain data from Department of Education DAPIP website');
-  process.exit(1);
+  try {
+    const fileInCurrentDirectory = path.join(__dirname, './InstitutionCampus.csv');
+    fs.statSync(fileInCurrentDirectory);
+    INSTITUTION_CAMPUS_CSV_PATH = fileInCurrentDirectory;
+  } catch (err) {
+    console.error(`usage: node ${path.basename(process.argv[1])} <InstitutionCampus.csv>`);
+    console.error('Obtain data from Department of Education DAPIP website');
+    process.exit(1);
+  }
 }
+
+const logoFiles = fs.readdirSync(path.join(__dirname, 'logos'));
 
 const exceptionsLookup = _.keyBy(EXCEPTIONS, 'id');
 
@@ -139,6 +147,17 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
       console.error(`[ERROR] CAE school: ${school} does not have a matching entry.`);
     } else {
       entry.designations = designations;
+    }
+  });
+
+  _.each(logoFiles, (filename) => {
+    const { name } = path.parse(filename);
+    const [ id ] = name.split('_');
+    const school = schools.get(id);
+    if (school) {
+      school.logo = filename;
+    } else {
+      console.error(`[ERROR] No matching school for the logo file: ${filename}`);
     }
   });
 

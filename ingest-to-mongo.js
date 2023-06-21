@@ -37,6 +37,7 @@ async function main() {
         scoreBoost : scoreBoost[college.id] || undefined,
         designations : college.designations,
         predominantDegree : college.predominantDegree,
+        logo : college.logo,
       },
     });
   });
@@ -58,6 +59,7 @@ async function main() {
         search : `${college.name} ${college.alias || ''} ${college.domain || ''}`.trim(),
         scoreBoost : scoreBoost[college.id] || undefined,
         predominantDegree : college.predominantDegree,
+        logo : college.logo,
       },
     });
   });
@@ -84,6 +86,7 @@ async function main() {
         population : highschool.population,
         search : `${highschool.name} ${highschool.city}, ${highschool.state}`,
         scoreBoost : scoreBoost[highschool.id] || undefined,
+        logo : highschool.logo,
       },
     });
   });

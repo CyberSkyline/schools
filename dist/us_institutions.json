@@ -5,7 +5,8 @@
     "street": "130 W Maxwell Blvd",
     "city": "Montgomery",
     "state": "AL",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "100016_community_college_of_the_air_force.png"
   },
   {
     "id": "100025",
@@ -93,7 +94,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "100089_the_university_of_alabama.svg"
   },
   {
     "id": "100098",
@@ -153,7 +155,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "100122_auburn_university_main_campus.svg"
   },
   {
     "id": "100140",
@@ -629,7 +632,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "100636_university_of_south_alabama.svg"
   },
   {
     "id": "100645",
@@ -687,7 +691,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "100681_talladega_college.jpg"
   },
   {
     "id": "100690",
@@ -713,7 +718,8 @@
     "domain": "troy.edu",
     "alias": "TROY",
     "population": 12294,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "100733_troy_university.png"
   },
   {
     "id": "100742",
@@ -768,7 +774,8 @@
     "domain": "uaa.alaska.edu",
     "alias": "UAA",
     "population": 8257,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "100779_university_of_alaska_anchorage.svg"
   },
   {
     "id": "100788",
@@ -931,7 +938,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "101019_arizona_state_university.svg"
   },
   {
     "id": "101028",
@@ -962,7 +970,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "101037_university_of_arizona.svg"
   },
   {
     "id": "101046",
@@ -1071,7 +1080,8 @@
     "domain": "gccaz.edu",
     "alias": "GCCAZ",
     "population": 11506,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "101198_maricopa_community_colleges_glendale_community_college.svg"
   },
   {
     "id": "101204",
@@ -1087,7 +1097,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "101204_grand_canyon_university.svg"
   },
   {
     "id": "101213",
@@ -1161,7 +1172,8 @@
     "domain": "mesacc.edu",
     "alias": "MESACC",
     "population": 13485,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "101295_maricopa_community_colleges_mesa_community_college.svg"
   },
   {
     "id": "101329",
@@ -1221,7 +1233,8 @@
     "domain": "nau.edu",
     "alias": "NAU",
     "population": 24880,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "101365_northern_arizona_university.png"
   },
   {
     "id": "101374",
@@ -1271,7 +1284,8 @@
     "domain": "phoenix.edu",
     "alias": "PHOENIX",
     "population": 66294,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "101435_university_of_phoenix.svg"
   },
   {
     "id": "101444",
@@ -1284,7 +1298,8 @@
     "domain": "pima.edu",
     "alias": "Pima County Community College District",
     "population": 13606,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "101444_pima_community_college.jpg"
   },
   {
     "id": "101453",
@@ -1389,7 +1404,8 @@
     "domain": "yc.edu",
     "alias": "YC",
     "population": 3951,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "101611_yavapai_college.svg"
   },
   {
     "id": "101620",
@@ -1405,7 +1421,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "101620_university_of_arkansas_at_little_rock.svg"
   },
   {
     "id": "101639",
@@ -1507,7 +1524,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "101718_university_of_arkansas_fayetteville.svg"
   },
   {
     "id": "101727",
@@ -1559,7 +1577,8 @@
     "domain": "atu.edu",
     "alias": "ATUTechArkansas Tech",
     "population": 7384,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "101754_arkansas_tech_university.svg"
   },
   {
     "id": "101763",
@@ -1619,7 +1638,8 @@
     "domain": "uca.edu",
     "alias": "UCA",
     "population": 8237,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "101815_university_of_central_arkansas.svg"
   },
   {
     "id": "101824",
@@ -1760,7 +1780,8 @@
     "domain": "harding.edu",
     "alias": "HARDING",
     "population": 3492,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "101949_harding_university.svg"
   },
   {
     "id": "101958",
@@ -2285,7 +2306,8 @@
     "domain": "arc.losrios.edu",
     "alias": "American River  ARC",
     "population": 22433,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "102535_american_river_college.svg"
   },
   {
     "id": "102544",
@@ -2439,7 +2461,8 @@
     "domain": "biola.edu",
     "alias": "BIOLA",
     "population": 3683,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102669_biola_university.png"
   },
   {
     "id": "102678",
@@ -2473,7 +2496,8 @@
     "domain": "butte.edu",
     "alias": "BUTTE",
     "population": 8843,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "102711_butte_college.png"
   },
   {
     "id": "102720",
@@ -2507,7 +2531,8 @@
     "domain": "cabrillo.edu",
     "alias": "CABRILLO",
     "population": 8667,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "102757_cabrillo_college.svg"
   },
   {
     "id": "102766",
@@ -2571,7 +2596,8 @@
     "domain": "calpoly.edu",
     "alias": "Cal Poly",
     "population": 21451,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102818_california_polytechnic_state_university_san_luis_obispo.svg"
   },
   {
     "id": "102854",
@@ -2626,7 +2652,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "102906_california_state_university_san_bernardino.svg"
   },
   {
     "id": "102915",
@@ -2642,7 +2669,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "102915_california_state_polytechnic_university_pomona.svg"
   },
   {
     "id": "102924",
@@ -2655,7 +2683,8 @@
     "domain": "csuchico.edu",
     "alias": "CSUCHICO",
     "population": 15689,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102924_california_state_university_chico.svg"
   },
   {
     "id": "102933",
@@ -2668,7 +2697,8 @@
     "domain": "csudh.edu",
     "alias": "CSUDH",
     "population": 16013,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102933_california_state_university_dominguez_hills.svg"
   },
   {
     "id": "102942",
@@ -2694,7 +2724,8 @@
     "domain": "fullerton.edu",
     "alias": "Cal State Fullerton",
     "population": 36874,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102951_california_state_university_fullerton.svg"
   },
   {
     "id": "102960",
@@ -2707,7 +2738,8 @@
     "domain": "csueastbay.edu",
     "alias": "Cal State East Bay",
     "population": 13041,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102960_california_state_university_east_bay.svg"
   },
   {
     "id": "102979",
@@ -2720,7 +2752,8 @@
     "domain": "csulb.edu",
     "alias": "Cal State Long Beach",
     "population": 34188,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102979_california_state_university_long_beach.svg"
   },
   {
     "id": "102988",
@@ -2733,7 +2766,8 @@
     "domain": "calstatela.edu",
     "alias": "Cal State LA",
     "population": 22820,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102988_california_state_university_los_angeles.svg"
   },
   {
     "id": "102997",
@@ -2746,7 +2780,8 @@
     "domain": "csun.edu",
     "alias": "CSUN",
     "population": 34881,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102997_california_state_university_northridge.svg"
   },
   {
     "id": "103006",
@@ -2762,7 +2797,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "103006_california_state_university_sacramento.svg"
   },
   {
     "id": "103015",
@@ -2792,7 +2828,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "103024_university_of_california_davis.svg"
   },
   {
     "id": "103033",
@@ -2808,7 +2845,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "103033_university_of_california_irvine.svg"
   },
   {
     "id": "103042",
@@ -2821,7 +2859,8 @@
     "domain": "ucla.edu",
     "alias": "UCLA",
     "population": 31636,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "103042_university_of_california_los_angeles.svg"
   },
   {
     "id": "103051",
@@ -2834,7 +2873,8 @@
     "domain": "ucr.edu",
     "alias": "UC Riverside",
     "population": 22609,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "103051_university_of_california_riverside.svg"
   },
   {
     "id": "103060",
@@ -2847,7 +2887,8 @@
     "domain": "ucsd.edu",
     "alias": "UCSD UC San Diego",
     "population": 31827,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "103060_university_of_california_san_diego.svg"
   },
   {
     "id": "103079",
@@ -2885,7 +2926,8 @@
     "domain": "ucsc.edu",
     "alias": "UC Santa Cruz",
     "population": 17207,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "103097_university_of_california_santa_cruz.svg"
   },
   {
     "id": "103103",
@@ -3069,7 +3111,8 @@
     "domain": "cerritos.edu",
     "alias": "CERRITOS",
     "population": 19574,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "103334_cerritos_college.png"
   },
   {
     "id": "103343",
@@ -3108,7 +3151,8 @@
     "domain": "chaffey.edu",
     "alias": "CHAFFEY",
     "population": 16568,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "103361_chaffey_college.svg"
   },
   {
     "id": "103370",
@@ -3201,7 +3245,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "103440_city_college_of_san_francisco.svg"
   },
   {
     "id": "103468",
@@ -3213,7 +3258,8 @@
     "lat": 34.103585,
     "domain": "cgu.edu",
     "alias": "CGU",
-    "predominantDegree": "Graduate"
+    "predominantDegree": "Graduate",
+    "logo": "103468_claremont_graduate_university.png"
   },
   {
     "id": "103477",
@@ -3263,7 +3309,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "103529_coastline_community_college.svg"
   },
   {
     "id": "103538",
@@ -3409,7 +3456,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "103653_cosumnes_river_college.svg"
   },
   {
     "id": "103662",
@@ -3456,7 +3504,8 @@
     "domain": "cuyamaca.edu",
     "alias": "CUYAMACA",
     "population": 7398,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "103699_cuyamaca_college.svg"
   },
   {
     "id": "103714",
@@ -3472,7 +3521,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "103714_cypress_college.png"
   },
   {
     "id": "103732",
@@ -3514,7 +3564,8 @@
     "domain": "collegeofthedesert.edu",
     "alias": "Desert Community College District",
     "population": 9670,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "103778_college_of_the_desert.jpg"
   },
   {
     "id": "103787",
@@ -3631,7 +3682,8 @@
     "domain": "elcamino.edu",
     "alias": "ECC",
     "population": 17979,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "103893_el_camino_college.png"
   },
   {
     "id": "103909",
@@ -3851,7 +3903,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "104142_fullerton_college.svg"
   },
   {
     "id": "104151",
@@ -3917,7 +3970,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "104203_glendale_community_college.svg"
   },
   {
     "id": "104221",
@@ -3984,7 +4038,8 @@
     "domain": "grossmont.edu",
     "alias": "GROSSMONT",
     "population": 13518,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "104285_grossmont_college.svg"
   },
   {
     "id": "104300",
@@ -4005,7 +4060,8 @@
     "domain": "hartnell.edu",
     "alias": "HARTNELL",
     "population": 7509,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "104319_hartnell_college.svg"
   },
   {
     "id": "104328",
@@ -4150,7 +4206,8 @@
     "domain": "ivc.edu",
     "alias": "IVC",
     "population": 10255,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "104522_irvine_valley_college.svg"
   },
   {
     "id": "104568",
@@ -4342,7 +4399,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "104753_long_beach_city_college.svg"
   },
   {
     "id": "104762",
@@ -4381,7 +4439,8 @@
     "domain": "piercecollege.edu",
     "alias": "Pierce College LA Pierce College",
     "population": 15248,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "104799_los_angeles_pierce_college.svg"
   },
   {
     "id": "104805",
@@ -4472,7 +4531,8 @@
     "domain": "lamission.edu",
     "alias": "LAMISSION",
     "population": 7274,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "104878_los_angeles_mission_college.svg"
   },
   {
     "id": "104887",
@@ -4593,7 +4653,8 @@
     "domain": "marin.edu",
     "alias": "MARIN",
     "population": 3394,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105039_college_of_marin.png"
   },
   {
     "id": "105048",
@@ -4635,7 +4696,8 @@
     "domain": "mendocino.edu",
     "alias": "MENDOCINO",
     "population": 2392,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105163_mendocino_college.png"
   },
   {
     "id": "105172",
@@ -4674,7 +4736,8 @@
     "domain": "merritt.edu",
     "alias": "MERRITT",
     "population": 4913,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "105206_merritt_college.svg"
   },
   {
     "id": "105215",
@@ -4700,7 +4763,8 @@
     "domain": "miracosta.edu",
     "alias": "MIRACOSTA",
     "population": 11825,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105224_miracosta_college.svg"
   },
   {
     "id": "105233",
@@ -4781,7 +4845,8 @@
     "domain": "mpc.edu",
     "alias": "MPC",
     "population": 6106,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105303_monterey_peninsula_college.png"
   },
   {
     "id": "105312",
@@ -4818,7 +4883,8 @@
     "domain": "moorparkcollege.edu",
     "alias": "MOORPARKCOLLEGE",
     "population": 12583,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105349_moorpark_college.png"
   },
   {
     "id": "105358",
@@ -4839,7 +4905,8 @@
     "domain": "mtsac.edu",
     "alias": "Mt. SAC",
     "population": 26037,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105367_mt_san_antonio_college.jpg"
   },
   {
     "id": "105376",
@@ -4865,7 +4932,8 @@
     "domain": "msjc.edu",
     "alias": "Mt. San Jacinto CCD",
     "population": 12507,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105385_mt_san_jacinto_college.svg"
   },
   {
     "id": "105394",
@@ -4992,7 +5060,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "105516_national_university.svg"
   },
   {
     "id": "105525",
@@ -5009,7 +5078,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "105525_naval_postgraduate_school.svg"
   },
   {
     "id": "105534",
@@ -5358,7 +5428,8 @@
     "domain": "www2.palomar.edu",
     "alias": "PALOMAR",
     "population": 18018,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "105844_palomar_college.svg"
   },
   {
     "id": "105862",
@@ -5515,7 +5586,8 @@
     "domain": "sac.edu",
     "alias": "SAC",
     "population": 18076,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "106014_santa_ana_college.svg"
   },
   {
     "id": "106023",
@@ -5553,7 +5625,8 @@
     "domain": "redwoods.edu",
     "alias": "REDWOODS",
     "population": 3297,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "106041_college_of_the_redwoods.png"
   },
   {
     "id": "106078",
@@ -5566,7 +5639,8 @@
     "domain": "riohondo.edu",
     "alias": "RHCCDRHC",
     "population": 14152,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "106078_rio_hondo_college.png"
   },
   {
     "id": "106087",
@@ -5582,7 +5656,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "106087_riverside_city_college.svg"
   },
   {
     "id": "106102",
@@ -5621,7 +5696,8 @@
     "domain": "scc.losrios.edu",
     "alias": "Sacramento City  Sac City  SCC",
     "population": 18310,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "106120_sacramento_city_college.svg"
   },
   {
     "id": "106139",
@@ -5634,7 +5710,8 @@
     "domain": "saddleback.edu",
     "alias": "SADDLEBACK",
     "population": 16871,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "106139_saddleback_college.svg"
   },
   {
     "id": "106148",
@@ -5743,7 +5820,8 @@
     "domain": "sdsu.edu",
     "alias": "SDSU",
     "population": 31293,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "106245_san_diego_state_university.svg"
   },
   {
     "id": "106254",
@@ -5759,7 +5837,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "106254_university_of_san_diego.svg"
   },
   {
     "id": "106263",
@@ -5836,7 +5915,8 @@
     "domain": "deltacollege.edu",
     "alias": "DeltaDelta CollegeSan JoaquinSan Joaquin DeltaSan Joaquin Delta Community College District",
     "population": 15456,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "106324_san_joaquin_delta_college.jpg"
   },
   {
     "id": "106342",
@@ -5943,7 +6023,8 @@
     "domain": "sbcc.edu",
     "alias": "SBCC",
     "population": 11245,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "106458_santa_barbara_city_college.svg"
   },
   {
     "id": "106467",
@@ -5982,7 +6063,8 @@
     "domain": "santarosa.edu",
     "alias": "SRJC",
     "population": 14197,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "106485_santa_rosa_junior_college.jpg"
   },
   {
     "id": "106494",
@@ -6070,7 +6152,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "106564_sierra_college.svg"
   },
   {
     "id": "106573",
@@ -6156,7 +6239,8 @@
     "domain": "valleycollege.edu",
     "alias": "VALLEYCOLLEGE",
     "population": 10623,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "106643_san_bernardino_valley_college.png"
   },
   {
     "id": "106652",
@@ -6345,7 +6429,8 @@
     "domain": "usc.edu",
     "alias": "USC",
     "population": 19521,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "106801_university_of_southern_california.svg"
   },
   {
     "id": "106810",
@@ -6408,7 +6493,8 @@
     "domain": "thomasaquinas.edu",
     "alias": "THOMASAQUINAS",
     "population": 462,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "106856_thomas_aquinas_college.png"
   },
   {
     "id": "106865",
@@ -6563,7 +6649,8 @@
     "domain": "wlac.edu",
     "alias": "West LA College, West L.A. College, West LA, West L.A., WLAC, WestLA",
     "population": 9579,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "107071_west_los_angeles_college.svg"
   },
   {
     "id": "107080",
@@ -6777,7 +6864,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107275_arapahoe_community_college.svg"
   },
   {
     "id": "107284",
@@ -6822,7 +6910,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107327_university_of_colorado_denver.svg"
   },
   {
     "id": "107345",
@@ -6838,7 +6927,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107345_university_of_colorado_at_colorado_springs.svg"
   },
   {
     "id": "107354",
@@ -6953,7 +7043,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107433_colorado_school_of_mines.svg"
   },
   {
     "id": "107442",
@@ -6982,7 +7073,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107451_colorado_state_university.svg"
   },
   {
     "id": "107460",
@@ -6998,7 +7090,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107460_colorado_technical_university.svg"
   },
   {
     "id": "107488",
@@ -7045,7 +7138,8 @@
     "domain": "ccd.edu",
     "alias": "CCD",
     "population": 5761,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "107521_community_college_of_denver.png"
   },
   {
     "id": "107530",
@@ -7182,7 +7276,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107655_colorado_mesa_university.png"
   },
   {
     "id": "107664",
@@ -7195,7 +7290,8 @@
     "domain": "msudenver.edu",
     "alias": "MSUDENVER",
     "population": 17255,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "107664_metropolitan_state_university_of_denver.svg"
   },
   {
     "id": "107673",
@@ -7297,7 +7393,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107761_pikes_peak_community_college.svg"
   },
   {
     "id": "107770",
@@ -7321,7 +7418,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107789_pueblo_community_college.png"
   },
   {
     "id": "107798",
@@ -7353,7 +7451,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107804_regis_university.png"
   },
   {
     "id": "107813",
@@ -7403,7 +7502,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107840_colorado_state_university_pueblo.svg"
   },
   {
     "id": "107859",
@@ -7416,7 +7516,8 @@
     "domain": "pickenstech.org",
     "alias": "T.H.Pickens Technical Center",
     "population": 903,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "107859_pickens_technical_college.png"
   },
   {
     "id": "107868",
@@ -7883,7 +7984,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CO"
-    ]
+    ],
+    "logo": "108366_university_of_new_haven.png"
   },
   {
     "id": "108375",
@@ -8006,7 +8108,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "108481_sacred_heart_university.svg"
   },
   {
     "id": "108506",
@@ -8053,7 +8156,8 @@
     "domain": "southernct.edu",
     "alias": "SCSU",
     "population": 7239,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "108560_southern_connecticut_state_university.svg"
   },
   {
     "id": "108579",
@@ -8113,7 +8217,8 @@
     "domain": "uscga.edu",
     "alias": "USCGA",
     "population": 1056,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "108612_united_states_coast_guard_academy.svg"
   },
   {
     "id": "108630",
@@ -8194,7 +8299,8 @@
     "domain": "dtcc.edu",
     "alias": "Delaware Tech",
     "population": 11209,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "108728_delaware_technical_community_college.png"
   },
   {
     "id": "108737",
@@ -8215,7 +8321,8 @@
     "domain": "desu.edu",
     "alias": "DESU",
     "population": 3881,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "108746_delaware_state_university.svg"
   },
   {
     "id": "108755",
@@ -8231,7 +8338,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "108755_university_of_delaware.svg"
   },
   {
     "id": "108764",
@@ -8286,7 +8394,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "108807_wilmington_university.png"
   },
   {
     "id": "108816",
@@ -8299,7 +8408,8 @@
     "domain": "american.edu",
     "alias": "AMERICAN",
     "population": 7510,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "108816_american_university.svg"
   },
   {
     "id": "108825",
@@ -8382,7 +8492,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "108889_george_washington_university_the.svg"
   },
   {
     "id": "108898",
@@ -8398,7 +8509,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "108898_georgetown_university.svg"
   },
   {
     "id": "108904",
@@ -8419,7 +8531,8 @@
     "domain": "howard.edu",
     "alias": "HU",
     "population": 7784,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "108913_howard_university.svg"
   },
   {
     "id": "108922",
@@ -8451,7 +8564,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "108968_strayer_university.svg"
   },
   {
     "id": "108977",
@@ -8578,7 +8692,8 @@
     "domain": "lynn.edu",
     "alias": "Lynn University",
     "population": 2452,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "109086_lynn_university.svg"
   },
   {
     "id": "109095",
@@ -8615,7 +8730,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109110_eastern_florida_state_college.svg"
   },
   {
     "id": "109129",
@@ -8628,7 +8744,8 @@
     "domain": "broward.edu",
     "alias": "BC",
     "population": 27128,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "109129_broward_college.png"
   },
   {
     "id": "109156",
@@ -8671,7 +8788,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "109174_university_of_central_florida.svg"
   },
   {
     "id": "109183",
@@ -8797,7 +8915,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109299_embry_riddle_aeronautical_university_daytona_beach.svg"
   },
   {
     "id": "109299006",
@@ -8813,7 +8932,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109299006_embry_riddle_aeronautical_university_prescott_campus.png"
   },
   {
     "id": "109305",
@@ -8861,7 +8981,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109323_florida_state_college_at_jacksonville.svg"
   },
   {
     "id": "109332",
@@ -8963,7 +9084,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "109402_florida_institute_of_technology.svg"
   },
   {
     "id": "109411",
@@ -8993,7 +9115,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "109420_florida_international_university.svg"
   },
   {
     "id": "109439",
@@ -9065,7 +9188,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "109484_florida_state_university.svg"
   },
   {
     "id": "109493",
@@ -9162,7 +9286,8 @@
     "domain": "hccfl.edu",
     "alias": "HCC",
     "population": 19523,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "109590_hillsborough_community_college.svg"
   },
   {
     "id": "109606",
@@ -9204,7 +9329,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109633_indian_river_state_college.svg"
   },
   {
     "id": "109660",
@@ -9442,7 +9568,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109916_miami_dade_college.svg"
   },
   {
     "id": "109925",
@@ -9566,7 +9693,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110097_nova_southeastern_university.png"
   },
   {
     "id": "110103",
@@ -9618,7 +9746,8 @@
     "domain": "palmbeachstate.edu",
     "alias": "PALMBEACHSTATE",
     "population": 22815,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "110149_palm_beach_state_college.jpg"
   },
   {
     "id": "110158",
@@ -9644,7 +9773,8 @@
     "domain": "pensacolastate.edu",
     "alias": "Pensacola State",
     "population": 7030,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "110167_pensacola_state_college.png"
   },
   {
     "id": "110176",
@@ -9795,7 +9925,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110316_saint_leo_university.svg"
   },
   {
     "id": "110325",
@@ -9811,7 +9942,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110325_st_petersburg_college.svg"
   },
   {
     "id": "110334",
@@ -9837,7 +9969,8 @@
     "domain": "sfcollege.edu",
     "alias": "SFCOLLEGE",
     "population": 11043,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "110343_santa_fe_college.svg"
   },
   {
     "id": "110352",
@@ -9932,7 +10065,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "110422_university_of_south_florida.svg"
   },
   {
     "id": "110459",
@@ -10026,7 +10160,8 @@
     "domain": "tcc.fl.edu",
     "alias": "FL",
     "population": 9888,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "110529_tallahassee_community_college.svg"
   },
   {
     "id": "110538",
@@ -10052,7 +10187,8 @@
     "domain": "ut.edu",
     "alias": "UT",
     "population": 8645,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "110565_the_university_of_tampa.png"
   },
   {
     "id": "110574",
@@ -10136,7 +10272,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110644_valencia_college.svg"
   },
   {
     "id": "110653",
@@ -10191,7 +10328,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110705_the_university_of_west_florida.svg"
   },
   {
     "id": "110723",
@@ -10413,7 +10551,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110945_augusta_technical_college.svg"
   },
   {
     "id": "110954",
@@ -10421,7 +10560,8 @@
     "street": "2500 Walton Way",
     "city": "Augusta",
     "state": "GA",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "110954_augusta_state_university.svg"
   },
   {
     "id": "110963",
@@ -10529,7 +10669,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "111063_college_of_coastal_georgia.svg"
   },
   {
     "id": "111072",
@@ -10596,7 +10737,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "111115_columbus_state_university.png"
   },
   {
     "id": "111124",
@@ -10750,7 +10892,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "111258_georgia_institute_of_technology_main_campus.svg"
   },
   {
     "id": "111267",
@@ -10826,7 +10969,8 @@
     "domain": "georgiasouthern.edu",
     "alias": "GEORGIASOUTHERN",
     "population": 22275,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "111328_georgia_southern_university.svg"
   },
   {
     "id": "111337",
@@ -10843,7 +10987,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "111337_georgia_state_university.svg"
   },
   {
     "id": "111346",
@@ -10859,7 +11004,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "111346_university_of_georgia.svg"
   },
   {
     "id": "111355",
@@ -10927,7 +11073,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "111391_gwinnett_technical_college.jpg"
   },
   {
     "id": "111416",
@@ -10963,7 +11110,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "111434_kennesaw_state_university.svg"
   },
   {
     "id": "111443",
@@ -11078,7 +11226,8 @@
     "street": "1100 Second Street SE",
     "city": "Cochran",
     "state": "GA",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "111559_middle_georgia_college.png"
   },
   {
     "id": "111568",
@@ -11497,7 +11646,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "111939_university_of_hawaii_at_manoa.svg"
   },
   {
     "id": "111948",
@@ -11552,7 +11702,8 @@
     "domain": "honolulu.hawaii.edu",
     "alias": "Honolulu CC / HCC",
     "population": 2287,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "111984_honolulu_community_college.svg"
   },
   {
     "id": "111993",
@@ -11576,7 +11727,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112002_kapiolani_community_college.svg"
   },
   {
     "id": "112011",
@@ -11605,7 +11757,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112020_leeward_community_college.svg"
   },
   {
     "id": "112039",
@@ -11621,7 +11774,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112039_university_of_hawaii_maui_college.svg"
   },
   {
     "id": "112048",
@@ -11669,7 +11823,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112093_university_of_hawaii_west_oahu.svg"
   },
   {
     "id": "112109",
@@ -11780,7 +11935,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112172_university_of_idaho.svg"
   },
   {
     "id": "112181",
@@ -11822,7 +11978,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112233_north_idaho_college.svg"
   },
   {
     "id": "112242",
@@ -11848,7 +12005,8 @@
     "domain": "byui.edu",
     "alias": "BYU-I",
     "population": 43660,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "112260_brigham_young_university_idaho.svg"
   },
   {
     "id": "112279",
@@ -12042,7 +12200,8 @@
     "domain": "bradley.edu",
     "alias": "BRADLEY",
     "population": 4570,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "112473_bradley_university.svg"
   },
   {
     "id": "112482",
@@ -12282,7 +12441,8 @@
     "domain": "ccc.edu",
     "alias": "CCC",
     "population": 4897,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "112756_city_colleges_of_chicago_wilbur_wright_college.jpg"
   },
   {
     "id": "112765",
@@ -12295,7 +12455,8 @@
     "domain": "colum.edu",
     "alias": "COLUM",
     "population": 6524,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "112765_columbia_college_chicago.png"
   },
   {
     "id": "112774",
@@ -12353,7 +12514,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112844_de_paul_university.svg"
   },
   {
     "id": "112871",
@@ -12390,7 +12552,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112905_college_of_du_page.svg"
   },
   {
     "id": "112914",
@@ -12506,7 +12669,8 @@
     "domain": "govst.edu",
     "alias": "GSU",
     "population": 3000,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "113023_governors_state_university.png"
   },
   {
     "id": "113041",
@@ -12625,7 +12789,8 @@
     "domain": "uic.edu",
     "alias": "UICU of I-ChicagoIllinois-ChicagoU of I-Medical CenterUniversity of Illinois-Medical Center",
     "population": 21702,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "113139_university_of_illinois_at_chicago.svg"
   },
   {
     "id": "113148",
@@ -12667,7 +12832,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "113166_university_of_illinois_at_urbana_champaign.svg"
   },
   {
     "id": "113175",
@@ -12722,7 +12888,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "113218_illinois_institute_of_technology.svg"
   },
   {
     "id": "113245",
@@ -12738,7 +12905,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "113245_illinois_state_university.svg"
   },
   {
     "id": "113254",
@@ -12779,7 +12947,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "113281_john_a_logan_college.png"
   },
   {
     "id": "113306",
@@ -12813,7 +12982,8 @@
     "domain": "jjc.edu",
     "alias": "JJC",
     "population": 9417,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "113324_joliet_junior_college.svg"
   },
   {
     "id": "113333",
@@ -12852,7 +13022,8 @@
     "domain": "kaskaskia.edu",
     "alias": "KASKASKIA",
     "population": 1651,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "113351_kaskaskia_college.png"
   },
   {
     "id": "113360",
@@ -13042,7 +13213,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "113537_loyola_university_of_chicago.svg"
   },
   {
     "id": "113546",
@@ -13230,7 +13402,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "113713_moraine_valley_community_college.svg"
   },
   {
     "id": "113722",
@@ -13256,7 +13429,8 @@
     "domain": "morton.edu",
     "alias": "MORTON",
     "population": 2862,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "113731_morton_college.svg"
   },
   {
     "id": "113740",
@@ -13409,7 +13583,8 @@
     "domain": "olivet.edu",
     "alias": "OLIVET",
     "population": 2757,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "113908_olivet_nazarene_university.svg"
   },
   {
     "id": "113917",
@@ -13435,7 +13610,8 @@
     "domain": "prairiestate.edu",
     "alias": "PRAIRIESTATE",
     "population": 2300,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "113935_prairie_state_college.svg"
   },
   {
     "id": "113944",
@@ -13564,7 +13740,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "114062_roosevelt_university.svg"
   },
   {
     "id": "114071",
@@ -13645,7 +13822,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "114141_university_of_illinois_at_springfield.png"
   },
   {
     "id": "114150",
@@ -13813,7 +13991,8 @@
     "domain": "siu.edu",
     "alias": "SIU",
     "population": 8115,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "114318_southern_illinois_university_carbondale.svg"
   },
   {
     "id": "114327",
@@ -13904,7 +14083,8 @@
     "domain": "triton.edu",
     "alias": "TRITON",
     "population": 6395,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "114415_triton_college.svg"
   },
   {
     "id": "114442",
@@ -13930,7 +14110,8 @@
     "domain": "waubonsee.edu",
     "alias": "Waubonsee",
     "population": 5603,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "114451_waubonsee_community_college.png"
   },
   {
     "id": "114460",
@@ -14019,7 +14200,8 @@
     "domain": "bsu.edu",
     "alias": "BSUBall U",
     "population": 15171,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "114558_ball_state_university.svg"
   },
   {
     "id": "114567",
@@ -14281,7 +14463,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "114859_ivy_tech_community_college_of_indiana.svg"
   },
   {
     "id": "114974",
@@ -14294,7 +14477,8 @@
     "domain": "pfw.edu",
     "alias": "IPFWIUPUFWPurdue University-Fort WaynePurdue-Fort WaynePurdue Fort Wayne",
     "population": 6304,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "114974_purdue_university_fort_wayne.svg"
   },
   {
     "id": "114983",
@@ -14307,7 +14491,8 @@
     "domain": "iupui.edu",
     "alias": "IUPUI",
     "population": 20441,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "114983_indiana_university_purdue_university_indianapolis.svg"
   },
   {
     "id": "115001",
@@ -14344,7 +14529,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "115074_indiana_institute_of_technology.svg"
   },
   {
     "id": "115083",
@@ -14386,7 +14572,8 @@
     "domain": "iuk.edu",
     "alias": "IU Kokomo  IUK  IU KO",
     "population": 2830,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "115108_indiana_university_kokomo.svg"
   },
   {
     "id": "115117",
@@ -14416,7 +14603,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "115126_indiana_university_bloomington.svg"
   },
   {
     "id": "115135",
@@ -14442,7 +14630,8 @@
     "domain": "ius.edu",
     "alias": "IUSE  IU SE  IU Southeast",
     "population": 3993,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "115144_indiana_university_southeast.svg"
   },
   {
     "id": "115153",
@@ -14695,7 +14884,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "115472_purdue_university_northwest.svg"
   },
   {
     "id": "115481",
@@ -14703,7 +14893,8 @@
     "street": "1401 S US Hwy 421",
     "city": "Westville",
     "state": "IN",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "115481_purdue_university_north_central.svg"
   },
   {
     "id": "115524",
@@ -14843,7 +15034,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "115667_vincennes_university.svg"
   },
   {
     "id": "115676",
@@ -15029,7 +15221,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "115834_des_moines_area_community_college.jpg"
   },
   {
     "id": "115843",
@@ -15107,7 +15300,8 @@
     "domain": "eicc.edu",
     "alias": "Eastern Iowa Community Colleges",
     "population": 3371,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "115904_eastern_iowa_community_college_district.jpg"
   },
   {
     "id": "115913",
@@ -15301,7 +15495,8 @@
     "domain": "uiowa.edu",
     "alias": "Iowa",
     "population": 21909,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "116101_university_of_iowa.svg"
   },
   {
     "id": "116129",
@@ -15483,7 +15678,8 @@
     "domain": "uni.edu",
     "alias": "UNI Panthers Northern Iowa",
     "population": 8204,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "116262_university_of_northern_iowa.svg"
   },
   {
     "id": "116271",
@@ -16186,7 +16382,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "116934_johnson_county_community_college.svg"
   },
   {
     "id": "116943",
@@ -16237,7 +16434,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "116970_university_of_kansas.svg"
   },
   {
     "id": "116998",
@@ -16597,7 +16795,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "117308_wichita_state_university.svg"
   },
   {
     "id": "117317",
@@ -16742,7 +16941,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "117441_bluegrass_community_and_technical_college.svg"
   },
   {
     "id": "117450",
@@ -16818,7 +17018,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "117502_university_of_the_cumberlands.svg"
   },
   {
     "id": "117511",
@@ -17109,7 +17310,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "117812_university_of_louisville.svg"
   },
   {
     "id": "117821",
@@ -17218,7 +17420,8 @@
     "domain": "gateway.kctcs.edu",
     "alias": "Northern Kentucky State Vocational Technical School Northern Kentucky Tech Northern Kentucky Technical College Northern Kentucky Health Occupational Center Northern Campbell Tech Northern Kentucky Health Technology Center",
     "population": 2708,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "117919_gateway_community_and_technical_college.svg"
   },
   {
     "id": "117928",
@@ -17234,7 +17437,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "117928_northern_kentucky_university.svg"
   },
   {
     "id": "117937",
@@ -17738,7 +17942,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CO"
-    ]
+    ],
+    "logo": "118675_louisiana_state_university_and_a_m_college.svg"
   },
   {
     "id": "118684",
@@ -17844,7 +18049,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "118790_louisiana_tech_university.svg"
   },
   {
     "id": "118806",
@@ -18213,7 +18419,8 @@
     "domain": "tulane.edu",
     "alias": "TULANE",
     "population": 8537,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "119331_tulane_university.svg"
   },
   {
     "id": "119340",
@@ -18336,7 +18543,8 @@
     "domain": "cmcc.edu",
     "alias": "Central Maine Technical CollegeCMCCCMTCCMVTICM",
     "population": 2178,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "119483_central_maine_community_college.svg"
   },
   {
     "id": "119492",
@@ -18417,7 +18625,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119544_university_of_maine_at_augusta.svg"
   },
   {
     "id": "119553",
@@ -18589,7 +18798,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119702_southern_maine_community_college.svg"
   },
   {
     "id": "119711",
@@ -18605,7 +18815,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119711_university_of_southern_maine.svg"
   },
   {
     "id": "119720",
@@ -18697,7 +18908,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119793_anne_arundel_community_college.png"
   },
   {
     "id": "119827",
@@ -18718,7 +18930,8 @@
     "domain": "bccc.edu",
     "alias": "BCCC",
     "population": 3539,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "119845_baltimore_city_community_college.svg"
   },
   {
     "id": "119854",
@@ -18731,7 +18944,8 @@
     "domain": "ubalt.edu",
     "alias": "UBalt",
     "population": 1856,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "119854_university_of_baltimore.svg"
   },
   {
     "id": "119863",
@@ -18755,7 +18969,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119872_bowie_state_university.svg"
   },
   {
     "id": "119881",
@@ -18779,7 +18994,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119890_capitol_technology_university.png"
   },
   {
     "id": "119906",
@@ -18811,7 +19027,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "119915_college_of_southern_maryland.jpg"
   },
   {
     "id": "119924",
@@ -18876,7 +19093,8 @@
     "domain": "frederick.edu",
     "alias": "FREDERICK",
     "population": 3988,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "119988_frederick_community_college.png"
   },
   {
     "id": "119997",
@@ -18889,7 +19107,8 @@
     "domain": "frostburg.edu",
     "alias": "FROSTBURG",
     "population": 3749,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "119997_frostburg_state_university.svg"
   },
   {
     "id": "120005",
@@ -18971,7 +19190,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120087_hood_college.svg"
   },
   {
     "id": "120096",
@@ -18987,7 +19207,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120096_howard_community_college.png"
   },
   {
     "id": "120102",
@@ -19025,7 +19246,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "120120_johns_hopkins_university.svg"
   },
   {
     "id": "120139",
@@ -19083,7 +19305,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120184_university_of_maryland_global_campus.svg"
   },
   {
     "id": "120193",
@@ -19113,7 +19336,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "120209_university_of_maryland_baltimore_county.svg"
   },
   {
     "id": "120218",
@@ -19129,7 +19353,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "120218_university_of_maryland_college_park.svg"
   },
   {
     "id": "120227",
@@ -19184,7 +19409,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120263_montgomery_college.svg"
   },
   {
     "id": "120272",
@@ -19200,7 +19426,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120272_morgan_state_university.svg"
   },
   {
     "id": "120281",
@@ -19213,7 +19440,8 @@
     "domain": "msmary.edu",
     "alias": "Mount St. Mary's  The Mount  Mount Saint Mary's University  Mount Saint Mary's",
     "population": 2009,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "120281_mount_st_marys_university.svg"
   },
   {
     "id": "120290",
@@ -19255,7 +19483,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120324_prince_georges_community_college.svg"
   },
   {
     "id": "120360",
@@ -19327,7 +19556,8 @@
     "designations": [
       "CAE-CD",
       "CAE-CO"
-    ]
+    ],
+    "logo": "120421_towson_university.png"
   },
   {
     "id": "120430",
@@ -19583,7 +19813,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "120689_bay_path_university.svg"
   },
   {
     "id": "120698",
@@ -19706,7 +19937,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "120801_boston_university.svg"
   },
   {
     "id": "120810",
@@ -20079,7 +20311,8 @@
     "domain": "harvard.edu",
     "alias": "HARVARD",
     "population": 6099,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "121150_harvard_university.svg"
   },
   {
     "id": "121169",
@@ -20288,7 +20521,8 @@
     "domain": "massbay.edu",
     "alias": "MassBay Community College",
     "population": 2919,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "121372_massachusetts_bay_community_college.svg"
   },
   {
     "id": "121381",
@@ -20621,7 +20855,8 @@
     "designations": [
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "121716_northeastern_university.svg"
   },
   {
     "id": "121725",
@@ -20986,7 +21221,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "122047_worcester_polytechnic_institute.svg"
   },
   {
     "id": "122056",
@@ -21114,7 +21350,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122162_baker_college.svg"
   },
   {
     "id": "122171",
@@ -21299,7 +21536,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122302_davenport_university.svg"
   },
   {
     "id": "122348",
@@ -21315,7 +21553,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122348_delta_college.svg"
   },
   {
     "id": "122366",
@@ -21357,7 +21596,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122418_university_of_detroit_mercy.svg"
   },
   {
     "id": "122445",
@@ -21389,7 +21629,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122463_ferris_state_university.svg"
   },
   {
     "id": "122481",
@@ -21486,7 +21727,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122551_grand_rapids_community_college.svg"
   },
   {
     "id": "122560",
@@ -21499,7 +21741,8 @@
     "domain": "gvsu.edu",
     "alias": "Grand ValleyGVSUGrand Valley State",
     "population": 20265,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "122560_grand_valley_state_university.svg"
   },
   {
     "id": "122579",
@@ -21528,7 +21771,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122588_henry_ford_college.svg"
   },
   {
     "id": "122603",
@@ -21664,7 +21908,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122737_lansing_community_college.svg"
   },
   {
     "id": "122746",
@@ -21714,7 +21959,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122773_macomb_community_college.svg"
   },
   {
     "id": "122782",
@@ -21769,7 +22015,8 @@
     "domain": "umich.edu",
     "alias": "U of MichiganU of MUniv of MichiganU Michigan Ann ArborUniversity of Michigan Ann Arbor",
     "population": 31189,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "122825_university_of_michigan_ann_arbor.svg"
   },
   {
     "id": "122834",
@@ -21811,7 +22058,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122852_michigan_technological_university.svg"
   },
   {
     "id": "122861",
@@ -21824,7 +22072,8 @@
     "domain": "umdearborn.edu",
     "alias": "UM-Dearborn",
     "population": 6542,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "122861_university_of_michigan_dearborn.svg"
   },
   {
     "id": "122870",
@@ -22148,7 +22397,8 @@
     "domain": "sc4.edu",
     "alias": "SC4",
     "population": 2150,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "123156_st_clair_county_community_college.jpg"
   },
   {
     "id": "123165",
@@ -22273,7 +22523,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "123305_washtenaw_community_college.svg"
   },
   {
     "id": "123314",
@@ -22382,7 +22633,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "123402_alexandria_technical_and_community_college.png"
   },
   {
     "id": "123420",
@@ -22408,7 +22660,8 @@
     "domain": "anokaramsey.edu",
     "alias": "Anoka-Ramsey Community College-Coon Rapids CampusAnoka-Ramsey Community College-Cambridge CampusARCCARAnoka RamseyAnoka-RamseyAnoka Ramsey Community College",
     "population": 4698,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "123439_anoka_ramsey_community_college.svg"
   },
   {
     "id": "123457",
@@ -22585,7 +22838,8 @@
     "domain": "lsc.edu",
     "alias": "LSC",
     "population": 2934,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "123590_lake_superior_college.jpg"
   },
   {
     "id": "123606",
@@ -22861,7 +23115,8 @@
     "domain": "twin-cities.umn.edu",
     "alias": "UMN",
     "population": 30907,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "123855_university_of_minnesota_twin_cities.svg"
   },
   {
     "id": "123864",
@@ -23091,7 +23346,8 @@
     "domain": "pine.edu",
     "alias": "PINE",
     "population": 559,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "124140_pine_technical_and_community_college.png"
   },
   {
     "id": "124159",
@@ -23167,7 +23423,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "124256_saint_cloud_state_university.svg"
   },
   {
     "id": "124265",
@@ -23193,7 +23450,8 @@
     "domain": "smumn.edu",
     "alias": "SMUMN",
     "population": 1315,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "124274_saint_marys_university_of_minnesota.svg"
   },
   {
     "id": "124283",
@@ -23279,7 +23537,8 @@
     "domain": "saintpaul.edu",
     "alias": "Saint Paul College-A Community and Technical College",
     "population": 4324,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "124371_saint_paul_college_a_community_and_technical_college.png"
   },
   {
     "id": "124380",
@@ -23509,7 +23768,8 @@
     "domain": "colin.edu",
     "alias": "COLIN",
     "population": 2150,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "124584_copiah_lincoln_community_college.png"
   },
   {
     "id": "124593",
@@ -23731,7 +23991,8 @@
     "domain": "mvsu.edu",
     "alias": "MVSU",
     "population": 1376,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "124803_mississippi_valley_state_university.png"
   },
   {
     "id": "124812",
@@ -24068,7 +24329,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "125134_university_of_central_missouri.svg"
   },
   {
     "id": "125143",
@@ -24233,7 +24495,8 @@
     "domain": "drury.edu",
     "alias": "DRURY",
     "population": 1404,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "125295_drury_university.svg"
   },
   {
     "id": "125301",
@@ -24305,7 +24568,8 @@
     "domain": "fontbonne.edu",
     "alias": "FONTBONNE",
     "population": 810,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "125356_fontbonne_university.png"
   },
   {
     "id": "125365",
@@ -24562,7 +24826,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "125657_maryville_university_of_saint_louis.svg"
   },
   {
     "id": "125666",
@@ -24599,7 +24864,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "125684_metropolitan_community_college_kansas_city.png"
   },
   {
     "id": "125709",
@@ -24762,7 +25028,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "125860_university_of_missouri_st_louis.svg"
   },
   {
     "id": "125888",
@@ -24845,7 +25112,8 @@
     "domain": "nwmissouri.edu",
     "alias": "Northwest",
     "population": 5151,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "125976_northwest_missouri_state_university.svg"
   },
   {
     "id": "125985",
@@ -25122,7 +25390,8 @@
     "domain": "missouristate.edu",
     "alias": "MISSOURISTATE",
     "population": 15343,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "126313_missouri_state_university.svg"
   },
   {
     "id": "126322",
@@ -25278,7 +25547,8 @@
     "domain": "carroll.edu",
     "alias": "Carroll Montana CC",
     "population": 1093,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "126492_carroll_college.svg"
   },
   {
     "id": "126508",
@@ -25387,7 +25657,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "126580_montana_state_university_great_falls_college_of_technology.png"
   },
   {
     "id": "126599",
@@ -25473,7 +25744,8 @@
     "domain": "montana.edu",
     "alias": "MSU",
     "population": 14132,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "126650_montana_state_university_bozeman.svg"
   },
   {
     "id": "126678",
@@ -25573,7 +25845,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "126757_bellevue_university.png"
   },
   {
     "id": "126766",
@@ -25727,7 +26000,8 @@
     "domain": "unk.edu",
     "alias": "UNKUniversity of Nebraska - KearneyNebraska - KearneyNebraska Kearney",
     "population": 4302,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "126942_university_of_nebraska_kearney.svg"
   },
   {
     "id": "126979",
@@ -25856,7 +26130,8 @@
     "domain": "unl.edu",
     "alias": "UNL",
     "population": 20128,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "127079_university_of_nebraska_lincoln.svg"
   },
   {
     "id": "127097",
@@ -26029,7 +26304,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "127255_college_of_southern_nevada.svg"
   },
   {
     "id": "127273",
@@ -26066,7 +26342,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "127291_university_of_nevada_las_vegas.svg"
   },
   {
     "id": "127307",
@@ -26082,7 +26359,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "127307_university_of_nevada_reno.svg"
   },
   {
     "id": "127316",
@@ -26129,7 +26407,8 @@
     "domain": "tmcc.edu",
     "alias": "TMCC",
     "population": 6653,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "127352_truckee_meadows_community_college.svg"
   },
   {
     "id": "127370",
@@ -26179,7 +26458,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "127413_dartmouth_college.svg"
   },
   {
     "id": "127440",
@@ -26284,7 +26564,8 @@
     "domain": "snhu.edu",
     "alias": "SNHU",
     "population": 109233,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "127565_southern_new_hampshire_university.svg"
   },
   {
     "id": "127583",
@@ -26300,7 +26581,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "127583_university_of_new_hampshire.svg"
   },
   {
     "id": "127592",
@@ -26592,7 +26874,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "127857_brookdale_community_college.svg"
   },
   {
     "id": "127866",
@@ -26729,7 +27012,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "127990_county_college_of_morris.svg"
   },
   {
     "id": "128009",
@@ -26865,7 +27149,8 @@
     "domain": "rowan.edu",
     "alias": "Rowan College of New Jersey Glassboro State College",
     "population": 15708,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "128160_rowan_university.svg"
   },
   {
     "id": "128179",
@@ -27114,7 +27399,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "128443_new_jersey_institute_of_technology.svg"
   },
   {
     "id": "128452",
@@ -27284,7 +27570,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "128629_rutgers_the_state_university_of_new_jersey.svg"
   },
   {
     "id": "128647",
@@ -27455,7 +27742,8 @@
     "domain": "tesu.edu",
     "alias": "TESU, Thomas Edison State University, (old name:Thomas Edison State College), (old abbreviation:TESC)",
     "population": 9357,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "128814_thomas_edison_state_university.jpg"
   },
   {
     "id": "128823",
@@ -27515,7 +27803,8 @@
     "domain": "cnm.edu",
     "alias": "CNM",
     "population": 17215,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "128902_central_new_mexico_community_college.svg"
   },
   {
     "id": "128911",
@@ -27570,7 +27859,8 @@
     "domain": "enmu.edu",
     "alias": "ENMU-Portales",
     "population": 3129,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "128966_eastern_new_mexico_university.svg"
   },
   {
     "id": "128966002",
@@ -27586,7 +27876,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "128966002_eastern_new_mexico_university_ruidoso.svg"
   },
   {
     "id": "128975",
@@ -27641,7 +27932,8 @@
     "domain": "nmhu.edu",
     "alias": "NMHU",
     "population": 1646,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "129011_new_mexico_highlands_university.svg"
   },
   {
     "id": "129020",
@@ -27683,7 +27975,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "129066_new_mexico_institute_of_mining_and_technology.png"
   },
   {
     "id": "129084",
@@ -27699,7 +27992,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "129084_university_of_new_mexico.svg"
   },
   {
     "id": "129127",
@@ -27712,7 +28006,8 @@
     "domain": "nmsu.edu",
     "alias": "NMSU",
     "population": 11107,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "129127_new_mexico_state_university.svg"
   },
   {
     "id": "129145",
@@ -27751,7 +28046,8 @@
     "domain": "sfcc.edu",
     "alias": "SFCC",
     "population": 2247,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "129163_santa_fe_community_college.svg"
   },
   {
     "id": "129172",
@@ -27862,7 +28158,8 @@
     "domain": "sunyacc.edu",
     "alias": "SUNY Adirondack",
     "population": 2292,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "129260_adirondack_community_college.jpg"
   },
   {
     "id": "129279",
@@ -28430,7 +28727,8 @@
     "domain": "columbia.edu",
     "alias": "Columbia University",
     "population": 8148,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "129905_columbia_university_in_the_city_of_new_york.svg"
   },
   {
     "id": "129914",
@@ -28688,7 +28986,8 @@
     "domain": "jjay.cuny.edu",
     "alias": "John Jay  John Jay College of Criminal Justice",
     "population": 13324,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "130147_john_jay_college_of_criminal_justice_of_the_city_university_of_new_york.svg"
   },
   {
     "id": "130156",
@@ -28779,7 +29078,8 @@
     "domain": "qcc.cuny.edu",
     "alias": "QCC  Queensborough CC  Queensborough Community College",
     "population": 11222,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "130217_queensborough_community_college_of_the_city_university_of_new_york.svg"
   },
   {
     "id": "130226",
@@ -28974,7 +29274,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "130448_fordham_university.svg"
   },
   {
     "id": "130466",
@@ -29354,7 +29655,8 @@
     "domain": "lemoyne.edu",
     "alias": "LEMOYNE",
     "population": 2674,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "130819_le_moyne_college.svg"
   },
   {
     "id": "130837",
@@ -29553,7 +29855,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "131070_mercy_college.png"
   },
   {
     "id": "131089",
@@ -29869,7 +30172,8 @@
       "CAE-R",
       "CAE-CO",
       "CAE-CD"
-    ]
+    ],
+    "logo": "131423_new_york_university.svg"
   },
   {
     "id": "131432",
@@ -30025,7 +30329,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "131584_pace_university.svg"
   },
   {
     "id": "131593",
@@ -30244,7 +30549,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "131821_rochester_institute_of_technology.svg"
   },
   {
     "id": "131830",
@@ -30285,7 +30591,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "131858_rockland_community_college.jpg"
   },
   {
     "id": "131867",
@@ -30605,7 +30912,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "132204_st_johns_university.svg"
   },
   {
     "id": "132222",
@@ -30740,7 +31048,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "132338_suny_at_albany.svg"
   },
   {
     "id": "132347",
@@ -30980,7 +31289,8 @@
     "domain": "plattsburgh.edu",
     "alias": "SUNY Plattsburgh",
     "population": 4603,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "132514_suny_college_at_plattsburgh.svg"
   },
   {
     "id": "132532",
@@ -31049,7 +31359,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "132578_syracuse_university.svg"
   },
   {
     "id": "132587",
@@ -31174,7 +31485,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "132709_excelsior_university.svg"
   },
   {
     "id": "132718",
@@ -31262,7 +31574,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "132781_utica_college.png"
   },
   {
     "id": "132790",
@@ -31380,7 +31693,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "132897_westchester_community_college.svg"
   },
   {
     "id": "132912",
@@ -31771,7 +32085,8 @@
     "domain": "cpcc.edu",
     "alias": "CPCC",
     "population": 13691,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "133289_central_piedmont_community_college.svg"
   },
   {
     "id": "133298",
@@ -31831,7 +32146,8 @@
     "domain": "cravencc.edu",
     "alias": "CRAVENCC",
     "population": 2109,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "133331_craven_community_college.jpg"
   },
   {
     "id": "133340",
@@ -31883,7 +32199,8 @@
     "domain": "durhamtech.edu",
     "alias": "DURHAMTECH",
     "population": 3661,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "133377_durham_technical_community_college.svg"
   },
   {
     "id": "133386",
@@ -31899,7 +32216,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "133386_east_carolina_university.svg"
   },
   {
     "id": "133395",
@@ -31962,7 +32280,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "133438_fayetteville_technical_community_college.jpg"
   },
   {
     "id": "133447",
@@ -32130,7 +32449,8 @@
     "domain": "highpoint.edu",
     "alias": "HPU",
     "population": 4608,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "133562_high_point_university.svg"
   },
   {
     "id": "133571",
@@ -32341,7 +32661,8 @@
     "domain": "methodist.edu",
     "alias": "Methodist",
     "population": 1419,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "133748_methodist_university.png"
   },
   {
     "id": "133766",
@@ -32404,7 +32725,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "133809_montreat_college.svg"
   },
   {
     "id": "133827",
@@ -32460,7 +32782,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "133854_north_carolina_a_t_state_university.svg"
   },
   {
     "id": "133863",
@@ -32503,7 +32826,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "133881_university_of_north_carolina_at_charlotte.svg"
   },
   {
     "id": "133890",
@@ -32558,7 +32882,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "133933_north_carolina_state_university.svg"
   },
   {
     "id": "133942",
@@ -32587,7 +32912,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "133951_university_of_north_carolina_at_wilmington.svg"
   },
   {
     "id": "133960",
@@ -32684,7 +33010,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134024_pitt_community_college.png"
   },
   {
     "id": "134051",
@@ -32830,7 +33157,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134158_sampson_community_college.png"
   },
   {
     "id": "134167",
@@ -32950,7 +33278,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134264_alamance_community_college.png"
   },
   {
     "id": "134273",
@@ -33005,7 +33334,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134307_wake_technical_community_college.svg"
   },
   {
     "id": "134316",
@@ -33159,7 +33489,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134440_bismarck_state_college.png"
   },
   {
     "id": "134459",
@@ -33353,7 +33684,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "134617_north_dakota_state_university.svg"
   },
   {
     "id": "134626",
@@ -33640,7 +33972,8 @@
     "domain": "bw.edu",
     "alias": "Baldwin Wallace Baldwin-Wallace College Baldwin-Wallace",
     "population": 2843,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "134936_baldwin_wallace_university.svg"
   },
   {
     "id": "134945",
@@ -33771,7 +34104,8 @@
     "domain": "case.edu",
     "alias": "CWRUCaseCase Western Reserve",
     "population": 5360,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "135106_case_western_reserve_university.svg"
   },
   {
     "id": "135115",
@@ -33788,7 +34122,8 @@
     "designations": [
       "CAE-CD",
       "CAE-CO"
-    ]
+    ],
+    "logo": "135115_cedarville_university.png"
   },
   {
     "id": "135124",
@@ -33878,7 +34213,8 @@
     "designations": [
       "CAE-CD",
       "CAE-CO"
-    ]
+    ],
+    "logo": "135212_university_of_cincinnati.svg"
   },
   {
     "id": "135221",
@@ -33946,7 +34282,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "135267_clark_state_community_college.svg"
   },
   {
     "id": "135276",
@@ -34083,7 +34420,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "135407_columbus_state_community_college.jpg"
   },
   {
     "id": "135425",
@@ -34096,7 +34434,8 @@
     "domain": "tri-c.edu",
     "alias": "TRI-C",
     "population": 12635,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "135425_cuyahoga_community_college.svg"
   },
   {
     "id": "135443",
@@ -34138,7 +34477,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "135461_university_of_dayton.svg"
   },
   {
     "id": "135470",
@@ -34246,7 +34586,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "135577_franklin_university.svg"
   },
   {
     "id": "135595",
@@ -34362,7 +34703,8 @@
     "domain": "hocking.edu",
     "alias": "Hocking Technical College",
     "population": 1985,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "135708_hocking_college.svg"
   },
   {
     "id": "135726",
@@ -34438,7 +34780,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "135869_kent_state_university.svg"
   },
   {
     "id": "135887",
@@ -34493,7 +34836,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "135911_lakeland_community_college.svg"
   },
   {
     "id": "135920",
@@ -34553,7 +34897,8 @@
     "domain": "lorainccc.edu",
     "alias": "LCCC",
     "population": 6618,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "135984_lorain_county_community_college.svg"
   },
   {
     "id": "135993",
@@ -34776,7 +35121,8 @@
     "domain": "ncstatecollege.edu",
     "alias": "NCSTATECOLLEGE",
     "population": 1520,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "136260_north_central_state_college.png"
   },
   {
     "id": "136288",
@@ -34968,7 +35314,8 @@
     "domain": "osu.edu",
     "alias": "OSU",
     "population": 45862,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "136507_ohio_state_university.svg"
   },
   {
     "id": "136552",
@@ -35194,7 +35541,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "136792_sinclair_community_college.svg"
   },
   {
     "id": "136808",
@@ -35302,7 +35650,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "136987_tiffin_university.svg"
   },
   {
     "id": "136996",
@@ -35581,7 +35930,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "137254_xavier_university.svg"
   },
   {
     "id": "137272",
@@ -35902,7 +36252,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "137582_oklahoma_christian_university.svg"
   },
   {
     "id": "137607",
@@ -35915,7 +36266,8 @@
     "domain": "opsu.edu",
     "alias": "OPSU, Panhandle, Panhandle State",
     "population": 1245,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137607_oklahoma_panhandle_state_university.jpg"
   },
   {
     "id": "137616",
@@ -35973,7 +36325,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "137643_oklahoma_city_community_college.svg"
   },
   {
     "id": "137652",
@@ -35999,7 +36352,8 @@
     "domain": "ou.edu",
     "alias": "University of OklahomaOklahoma UniversityOUOklahoma",
     "population": 21087,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137661_university_of_oklahoma.svg"
   },
   {
     "id": "137670",
@@ -36086,7 +36440,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "137740_rose_state_college.jpg"
   },
   {
     "id": "137759",
@@ -36210,7 +36565,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "137865_university_of_tulsa.png"
   },
   {
     "id": "137874",
@@ -36461,7 +36817,8 @@
     "domain": "georgefox.edu",
     "alias": "GFU",
     "population": 2451,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138105_george_fox_university.svg"
   },
   {
     "id": "138132",
@@ -36487,7 +36844,8 @@
     "domain": "lclark.edu",
     "alias": "Lewis and Clark College",
     "population": 1814,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138141_lewis_clark_college.png"
   },
   {
     "id": "138150",
@@ -36500,7 +36858,8 @@
     "domain": "linfield.edu",
     "alias": "Linfield CollegeLinfieldLCLindfieldLynfieldLinnfieldLynnfieldLinfeldLindfield CollegeLynfield CollegeLinnfield CollegeLynnfield CollegeLinfeld CollegeLinfield UniversityLindfield UniversityLynfield UniversityLynnfield UniversityLinfeld UniversityLinfeildLinfeild CollegeLinfeild UniversityWildcatsMac Campus",
     "population": 1389,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138150_linfield_college.png"
   },
   {
     "id": "138169",
@@ -36563,7 +36922,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "138220_mt_hood_community_college.png"
   },
   {
     "id": "138239",
@@ -36644,7 +37004,8 @@
     "domain": "oit.edu",
     "alias": "OITOregon Tech",
     "population": 3571,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138309_oregon_institute_of_technology.svg"
   },
   {
     "id": "138318",
@@ -36704,7 +37065,8 @@
     "domain": "pacificu.edu",
     "alias": "PacificPUPac UPacificUPacific University Oregon",
     "population": 1706,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138354_pacific_university.svg"
   },
   {
     "id": "138415",
@@ -36720,7 +37082,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "138415_portland_community_college.svg"
   },
   {
     "id": "138424",
@@ -36736,7 +37099,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "138424_portland_state_university.svg"
   },
   {
     "id": "138433",
@@ -36749,7 +37113,8 @@
     "domain": "up.edu",
     "alias": "UP",
     "population": 3536,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138433_university_of_portland.svg"
   },
   {
     "id": "138442",
@@ -36910,7 +37275,8 @@
     "domain": "willamette.edu",
     "alias": "WILLAMETTE",
     "population": 1288,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138585_willamette_university.png"
   },
   {
     "id": "138594",
@@ -37181,7 +37547,8 @@
     "domain": "ccbc.edu",
     "alias": "CCBC",
     "population": 1399,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "138868_community_college_of_beaver_county.jpg"
   },
   {
     "id": "138877",
@@ -37194,7 +37561,8 @@
     "domain": "arcadia.edu",
     "alias": "Beaver College",
     "population": 1832,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138877_arcadia_university.svg"
   },
   {
     "id": "138886",
@@ -37226,7 +37594,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "138910_bloomsburg_university_of_pennsylvania.png"
   },
   {
     "id": "138929",
@@ -37404,7 +37773,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "139074_carnegie_mellon_university.svg"
   },
   {
     "id": "139083",
@@ -37634,7 +38004,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "139311_drexel_university.svg"
   },
   {
     "id": "139320",
@@ -37947,7 +38318,8 @@
     "domain": "hacc.edu",
     "alias": "HACC",
     "population": 12616,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "139755_harrisburg_area_community_college.jpg"
   },
   {
     "id": "139764",
@@ -38262,7 +38634,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "140085_lehigh_carbon_community_college.svg"
   },
   {
     "id": "140100",
@@ -38485,7 +38858,8 @@
     "domain": "millersville.edu",
     "alias": "MILLERSVILLE",
     "population": 6314,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "140331_millersville_university_of_pennsylvania.svg"
   },
   {
     "id": "140340",
@@ -38686,7 +39060,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "140711_pennsylvania_state_university.svg"
   },
   {
     "id": "140711023",
@@ -38904,7 +39279,8 @@
     "domain": "ccp.edu",
     "alias": "CCP",
     "population": 12478,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "140951_community_college_of_philadelphia.svg"
   },
   {
     "id": "140960",
@@ -38947,7 +39323,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "140997_university_of_pittsburgh_main_campus.svg"
   },
   {
     "id": "141006",
@@ -39002,7 +39379,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "141042_pittsburgh_technical_college.jpg"
   },
   {
     "id": "141051",
@@ -39113,7 +39491,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "141185_robert_morris_university.svg"
   },
   {
     "id": "141194",
@@ -39200,7 +39579,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "141255_saint_vincent_college_and_seminary.png"
   },
   {
     "id": "141282",
@@ -39546,7 +39926,8 @@
     "domain": "villanova.edu",
     "alias": "VILLANOVA",
     "population": 6980,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "141644_villanova_university.svg"
   },
   {
     "id": "141671",
@@ -39849,7 +40230,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "141981_community_college_of_rhode_island.png"
   },
   {
     "id": "141990",
@@ -39904,7 +40286,8 @@
     "domain": "salve.edu",
     "alias": "SALVE",
     "population": 2141,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "142027_salve_regina_university.png"
   },
   {
     "id": "142036",
@@ -39972,7 +40355,8 @@
     "domain": "andersonuniversity.edu",
     "alias": "AU",
     "population": 2824,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "142090_anderson_university.svg"
   },
   {
     "id": "142115",
@@ -40037,7 +40421,8 @@
     "domain": "cofc.edu",
     "alias": "COFC",
     "population": 9100,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "142179_college_of_charleston.svg"
   },
   {
     "id": "142197",
@@ -40066,7 +40451,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "142203_the_citadel.svg"
   },
   {
     "id": "142212",
@@ -40268,7 +40654,8 @@
     "domain": "hgtc.edu",
     "alias": "HGTC",
     "population": 5441,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "142373_horry_georgetown_technical_college.svg"
   },
   {
     "id": "142416",
@@ -40452,7 +40839,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "142568_university_of_south_carolina_columbia.svg"
   },
   {
     "id": "142610",
@@ -40481,7 +40869,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "142629_south_carolina_state_university.svg"
   },
   {
     "id": "142647",
@@ -40561,7 +40950,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "142708_trident_technical_college.jpg"
   },
   {
     "id": "142717",
@@ -40678,7 +41068,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "142814_dakota_state_university.svg"
   },
   {
     "id": "142823",
@@ -40751,7 +41142,8 @@
     "domain": "mitchelltech.edu",
     "alias": "MITCHELLTECH",
     "population": 975,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "142878_mitchell_technical_institute.png"
   },
   {
     "id": "142887",
@@ -41380,7 +41772,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "143428_jackson_state_community_college.svg"
   },
   {
     "id": "143437",
@@ -41765,7 +42158,8 @@
     "domain": "nscc.edu",
     "alias": "NSCC",
     "population": 5853,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "143774_nashville_state_community_college.png"
   },
   {
     "id": "143783",
@@ -41870,7 +42264,8 @@
     "domain": "tcatcrump.edu",
     "alias": "TCAT Crump",
     "population": 206,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "143871_tennessee_college_of_applied_technology_crump.svg"
   },
   {
     "id": "143880",
@@ -41987,7 +42382,8 @@
     "domain": "pstcc.edu",
     "alias": "PSTCC",
     "population": 7360,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "143978_pellissippi_state_community_college.svg"
   },
   {
     "id": "143987",
@@ -42101,7 +42497,8 @@
     "domain": "tnstate.edu",
     "alias": "TNSTATE",
     "population": 5707,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "144078_tennessee_state_university.svg"
   },
   {
     "id": "144087",
@@ -42117,7 +42514,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "144087_tennessee_technological_university.svg"
   },
   {
     "id": "144096",
@@ -42190,7 +42588,8 @@
     "domain": "vanderbilt.edu",
     "alias": "VANDERBILT",
     "population": 7052,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "144148_vanderbilt_university.svg"
   },
   {
     "id": "144157",
@@ -42214,7 +42613,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "144166_volunteer_state_community_college.jpg"
   },
   {
     "id": "144175",
@@ -42295,7 +42695,8 @@
     "domain": "actx.edu",
     "alias": "ACTX",
     "population": 7068,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "144281_amarillo_college.svg"
   },
   {
     "id": "144290",
@@ -42511,7 +42912,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "144494_baylor_university.svg"
   },
   {
     "id": "144500",
@@ -42621,7 +43023,8 @@
     "domain": "ctcd.edu",
     "alias": "CTCD",
     "population": 6173,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "144607_central_texas_college.svg"
   },
   {
     "id": "144634",
@@ -42681,7 +43084,8 @@
     "domain": "nctc.edu",
     "alias": "NCTC/North Central Texas Community College District/North Central Texas College District",
     "population": 5796,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "144698_north_central_texas_college.png"
   },
   {
     "id": "144704",
@@ -42697,7 +43101,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "144704_texas_a_m_university_corpus_christi.svg"
   },
   {
     "id": "144713",
@@ -42790,7 +43195,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "144795_university_of_dallas.png"
   },
   {
     "id": "144801",
@@ -43043,7 +43449,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145053_hill_college.svg"
   },
   {
     "id": "145062",
@@ -43056,7 +43463,8 @@
     "domain": "hbu.edu",
     "alias": "HBU",
     "population": 2727,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "145062_houston_baptist_university.jpg"
   },
   {
     "id": "145071",
@@ -43085,7 +43493,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145080_houston_community_college.png"
   },
   {
     "id": "145099",
@@ -43136,7 +43545,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "145123_university_of_houston.svg"
   },
   {
     "id": "145132",
@@ -43188,7 +43598,8 @@
     "domain": "uiw.edu",
     "alias": "UIWIncarnate WordIncarnateIncarnate Word, University ofIncarnate Word, Univ ofUniv. of the Incarnate Word",
     "population": 4856,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "145178_university_of_the_incarnate_word.svg"
   },
   {
     "id": "145187",
@@ -43319,7 +43730,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145345_laredo_college.png"
   },
   {
     "id": "145354",
@@ -43450,7 +43862,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145451_mc_lennan_community_college.png"
   },
   {
     "id": "145460",
@@ -43635,7 +44048,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "145664_university_of_north_texas.png"
   },
   {
     "id": "145673",
@@ -43793,7 +44207,8 @@
     "domain": "pvamu.edu",
     "alias": "PVAMU",
     "population": 8372,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "145804_prairie_view_a_m_university.svg"
   },
   {
     "id": "145813",
@@ -43819,7 +44234,8 @@
     "domain": "rice.edu",
     "alias": "RICE",
     "population": 4052,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "145831_rice_university.png"
   },
   {
     "id": "145840",
@@ -43827,7 +44243,8 @@
     "street": "12800 Abrams Rd",
     "city": "Dallas",
     "state": "TX",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "145840_richland_college.svg"
   },
   {
     "id": "145868",
@@ -43856,7 +44273,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145877_st_philips_college.svg"
   },
   {
     "id": "145886",
@@ -43909,7 +44327,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145910_san_antonio_college.svg"
   },
   {
     "id": "145938",
@@ -44026,7 +44445,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "146047_southern_methodist_university.svg"
   },
   {
     "id": "146056",
@@ -44112,7 +44532,8 @@
     "domain": "txstate.edu",
     "alias": "Texas StateTexas State University-San MarcosSouthwest Texas State UniversitySouthwest Texas StateSWTSWTSUTexas State San MarcosTxStTxStateTS",
     "population": 33193,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "146117_texas_state_university.svg"
   },
   {
     "id": "146126",
@@ -44185,7 +44606,8 @@
     "domain": "tccd.edu",
     "alias": "Tarrant County College",
     "population": 41369,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "146171_tarrant_county_college_district.svg"
   },
   {
     "id": "146180",
@@ -44249,7 +44671,8 @@
     "domain": "tstc.edu",
     "alias": "TSTC",
     "population": 9411,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "146232_texas_state_technical_college.gif"
   },
   {
     "id": "146241",
@@ -44293,7 +44716,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "146278_texas_a_m_university.svg"
   },
   {
     "id": "146296",
@@ -44306,7 +44730,8 @@
     "domain": "uta.edu",
     "alias": "UT Arlington",
     "population": 34726,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "146296_the_university_of_texas_at_arlington.svg"
   },
   {
     "id": "146302",
@@ -44319,7 +44744,8 @@
     "domain": "utexas.edu",
     "alias": "UT Austin",
     "population": 39624,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "146302_university_of_texas_at_austin.svg"
   },
   {
     "id": "146311",
@@ -44337,7 +44763,8 @@
       "CAE-CD",
       "CAE-CO",
       "CAE-R"
-    ]
+    ],
+    "logo": "146311_the_university_of_texas_at_dallas.svg"
   },
   {
     "id": "146320",
@@ -44354,7 +44781,8 @@
     "designations": [
       "CAE-CD",
       "CAE-CO"
-    ]
+    ],
+    "logo": "146320_the_university_of_texas_at_el_paso.svg"
   },
   {
     "id": "146339",
@@ -44367,7 +44795,8 @@
     "domain": "uttyler.edu",
     "alias": "UT Tyler",
     "population": 6840,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "146339_university_of_texas_at_tyler.svg"
   },
   {
     "id": "146348",
@@ -44474,7 +44903,8 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "146427_the_university_of_texas_at_san_antonio.svg"
   },
   {
     "id": "146436",
@@ -44595,7 +45025,8 @@
     "predominantDegree": "N/A",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "146542_texas_state_technical_college_harlingen.png"
   },
   {
     "id": "146551",
@@ -44791,7 +45222,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "146746_brigham_young_university.svg"
   },
   {
     "id": "146755",
@@ -44804,7 +45236,8 @@
     "domain": "byuh.edu",
     "alias": "BYUH BYUHC BYU Hawaii BYU Hawaii Campus Brigham Young University Hawaii Brigham Young University Hawaii Campus BYU-H BYU-HC BYU-Hawaii BYU-Hawaii Campus Brigham Young University Hawaii Campus BYU - H BYU - HC BYU - Hawaii BYU - Hawaii Campus Brigham Young University - Hawaii Brigham Young University - Hawaii Campus BYUHawaii BYUHawaii Campus",
     "population": 3107,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "146755_brigham_young_university_hawaii.svg"
   },
   {
     "id": "146764",
@@ -44922,7 +45355,8 @@
     "domain": "ensign.edu",
     "alias": "Ensign College",
     "population": 1811,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "146913_lds_business_college.svg"
   },
   {
     "id": "146922",
@@ -44998,7 +45432,8 @@
     "domain": "usu.edu",
     "alias": "USU",
     "population": 21087,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "147004_utah_state_university.svg"
   },
   {
     "id": "147013",
@@ -45011,7 +45446,8 @@
     "domain": "uvu.edu",
     "alias": "UVU",
     "population": 28120,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "147013_utah_valley_university.svg"
   },
   {
     "id": "147022",
@@ -45037,7 +45473,8 @@
     "domain": "utah.edu",
     "alias": "The U",
     "population": 23645,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "147031_university_of_utah.svg"
   },
   {
     "id": "147040",
@@ -45053,7 +45490,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147040_weber_state_university.svg"
   },
   {
     "id": "147059",
@@ -45116,7 +45554,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147095_champlain_college.svg"
   },
   {
     "id": "147101",
@@ -45200,7 +45639,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147183_norwich_university.svg"
   },
   {
     "id": "147192",
@@ -45384,7 +45824,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147350_blue_ridge_community_college.png"
   },
   {
     "id": "147369",
@@ -45447,7 +45888,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147411_regent_university.svg"
   },
   {
     "id": "147439",
@@ -45515,7 +45957,8 @@
     "domain": "danville.edu",
     "alias": "DANVILLE",
     "population": 1332,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "147518_danville_community_college.png"
   },
   {
     "id": "147527",
@@ -45609,7 +46052,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "147581_george_mason_university.svg"
   },
   {
     "id": "147590",
@@ -45654,7 +46098,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147615_hampton_university.jpg"
   },
   {
     "id": "147624",
@@ -45712,7 +46157,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147660_james_madison_university.svg"
   },
   {
     "id": "147679",
@@ -45741,7 +46187,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147703_liberty_university.svg"
   },
   {
     "id": "147712",
@@ -45770,7 +46217,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147721_lord_fairfax_community_college.svg"
   },
   {
     "id": "147730",
@@ -45825,7 +46273,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147776_marymount_university.svg"
   },
   {
     "id": "147794",
@@ -45896,7 +46345,8 @@
     "domain": "tidewatertechtrades.edu",
     "alias": "TIDEWATERTECHTRADES",
     "population": 436,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "147837_tidewater_tech.png"
   },
   {
     "id": "147846",
@@ -45912,7 +46362,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147846_norfolk_state_university.svg"
   },
   {
     "id": "147855",
@@ -45928,7 +46379,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147855_northern_virginia_community_college.svg"
   },
   {
     "id": "147864",
@@ -45945,7 +46397,8 @@
     "designations": [
       "CAE-CO",
       "CAE-CD"
-    ]
+    ],
+    "logo": "147864_old_dominion_university.svg"
   },
   {
     "id": "147873",
@@ -45992,7 +46445,8 @@
     "domain": "pvcc.edu",
     "alias": "PVCC",
     "population": 2925,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "147916_piedmont_virginia_community_college.png"
   },
   {
     "id": "147925",
@@ -46024,7 +46478,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147943_radford_university.svg"
   },
   {
     "id": "147952",
@@ -46270,7 +46725,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "148177_tidewater_community_college.svg"
   },
   {
     "id": "148186",
@@ -46295,7 +46751,8 @@
     "domain": "uvawise.edu",
     "alias": "UVA Wise",
     "population": 1143,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "148195_the_university_of_virginias_college_at_wise.png"
   },
   {
     "id": "148201",
@@ -46333,7 +46790,8 @@
     "designations": [
       "CAE-R",
       "CAE-CO"
-    ]
+    ],
+    "logo": "148229_virginia_polytechnic_institute_and_state_university.svg"
   },
   {
     "id": "148238",
@@ -46383,7 +46841,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "148256_university_of_virginia.svg"
   },
   {
     "id": "148265",
@@ -46435,7 +46894,8 @@
     "domain": "vsu.edu",
     "alias": "VSU",
     "population": 3653,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "148292_virginia_state_university.svg"
   },
   {
     "id": "148308",
@@ -46619,7 +47079,8 @@
     "domain": "cwu.edu",
     "alias": "CWU",
     "population": 10264,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "148496_central_washington_university.svg"
   },
   {
     "id": "148502",
@@ -46648,7 +47109,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "148511_city_university_of_seattle.svg"
   },
   {
     "id": "148520",
@@ -46711,7 +47173,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "148566_columbia_basin_college.png"
   },
   {
     "id": "148575",
@@ -46753,7 +47216,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "148593_eastern_washington_university.svg"
   },
   {
     "id": "148609",
@@ -46808,7 +47272,8 @@
     "domain": "evergreen.edu",
     "alias": "EvergreenTESC",
     "population": 2053,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "148636_the_evergreen_state_college.svg"
   },
   {
     "id": "148654",
@@ -46858,7 +47323,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "148690_green_river_community_college.svg"
   },
   {
     "id": "148706",
@@ -46900,7 +47366,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "148724_highline_college.png"
   },
   {
     "id": "148733",
@@ -47260,7 +47727,8 @@
     "domain": "scc.spokane.edu",
     "alias": "SPOKANE",
     "population": 5216,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "149073_spokane_community_college.png"
   },
   {
     "id": "149082",
@@ -47276,7 +47744,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "149082_spokane_falls_community_college.png"
   },
   {
     "id": "149091",
@@ -47341,7 +47810,8 @@
     "domain": "wsu.edu",
     "alias": "WSU",
     "population": 25084,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "149134_washington_state_university.svg"
   },
   {
     "id": "149143",
@@ -47358,7 +47828,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "149143_university_of_washington.svg"
   },
   {
     "id": "149152",
@@ -47387,7 +47858,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "149170_western_washington_university.svg"
   },
   {
     "id": "149189",
@@ -47403,7 +47875,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "149189_whatcom_community_college.jpg"
   },
   {
     "id": "149198",
@@ -47630,7 +48103,8 @@
     "domain": "marshall.edu",
     "alias": "MARSHALL",
     "population": 7595,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "149444_marshall_university.svg"
   },
   {
     "id": "149453",
@@ -47877,7 +48351,8 @@
     "domain": "wvjc.edu",
     "alias": "WVJC",
     "population": 622,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "149727_west_virginia_junior_college_morgantown.png"
   },
   {
     "id": "149745",
@@ -47907,7 +48382,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "149754_west_virginia_university.svg"
   },
   {
     "id": "149763",
@@ -47949,7 +48425,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "149824_madison_area_technical_college.png"
   },
   {
     "id": "149833",
@@ -48090,7 +48567,8 @@
     "domain": "fvtc.edu",
     "alias": "FVTC",
     "population": 6029,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "149967_fox_valley_technical_college.png"
   },
   {
     "id": "149976",
@@ -48254,7 +48732,8 @@
     "domain": "mstc.edu",
     "alias": "Mid-State MSTC",
     "population": 2211,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "150145_mid_state_technical_college.png"
   },
   {
     "id": "150154",
@@ -48267,7 +48746,8 @@
     "domain": "matc.edu",
     "alias": "MATC",
     "population": 11903,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "150154_milwaukee_area_technical_college.png"
   },
   {
     "id": "150163",
@@ -48293,7 +48773,8 @@
     "domain": "msoe.edu",
     "alias": "MSOE",
     "population": 2492,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "150172_milwaukee_school_of_engineering.svg"
   },
   {
     "id": "150181",
@@ -48507,7 +48988,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "150419_chippewa_valley_technical_college.svg"
   },
   {
     "id": "150428",
@@ -48523,7 +49005,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "150428_waukesha_county_technical_college.svg"
   },
   {
     "id": "150437",
@@ -48552,7 +49035,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "150446_university_of_wisconsin_whitewater.svg"
   },
   {
     "id": "150455",
@@ -48565,7 +49049,8 @@
     "domain": "northwoodtech.edu",
     "alias": "Northwood Tech",
     "population": 2226,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "150455_wisconsin_indianhead_technical_college.svg"
   },
   {
     "id": "150464",
@@ -48624,7 +49109,8 @@
     "domain": "uwlax.edu",
     "alias": "UWLAX",
     "population": 9375,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "150507_university_of_wisconsin_la_crosse.png"
   },
   {
     "id": "150516",
@@ -48663,7 +49149,8 @@
     "domain": "uwp.edu",
     "alias": "UWP",
     "population": 3612,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "150534_university_of_wisconsin_parkside.png"
   },
   {
     "id": "150552",
@@ -48679,7 +49166,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "150552_university_of_wisconsin_stout.png"
   },
   {
     "id": "150561",
@@ -48718,7 +49206,8 @@
     "domain": "uwm.edu",
     "alias": "UWM",
     "population": 18910,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "150598_university_of_wisconsin_milwaukee.svg"
   },
   {
     "id": "150604",
@@ -48874,7 +49363,8 @@
     "domain": "uwyo.edu",
     "alias": "UW",
     "population": 9140,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "150729_university_of_wyoming.svg"
   },
   {
     "id": "150738",
@@ -49148,7 +49638,8 @@
     "street": "P.O. Box 2010",
     "city": "Carolina",
     "state": "PR",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "151041_sistema_universitario_ana_g_mendez.png"
   },
   {
     "id": "151050",
@@ -49480,7 +49971,8 @@
     "domain": "uprb.edu",
     "alias": "UPRB",
     "population": 3592,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "151397_university_of_puerto_rico_bayamon.svg"
   },
   {
     "id": "151403",
@@ -49650,7 +50142,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "151564_universidad_politecnica_de_puerto_rico.jpg"
   },
   {
     "id": "151582",
@@ -49731,7 +50224,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "151652_purdue_university.svg"
   },
   {
     "id": "151661",
@@ -50177,7 +50671,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "152406_collin_county_community_college_district.svg"
   },
   {
     "id": "152415",
@@ -50201,7 +50696,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "152433_owensboro_community_and_technical_college.svg"
   },
   {
     "id": "152442",
@@ -50340,7 +50836,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "152619_ecpi_university.png"
   },
   {
     "id": "152619008",
@@ -50370,7 +50867,8 @@
     "state": "VA",
     "domain": "ecpi.edu",
     "alias": "ECPI",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "152619014_ecpi_university_richmond_south_moorefield.png"
   },
   {
     "id": "152637",
@@ -51017,7 +51515,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "153658_university_of_advancing_technology.png"
   },
   {
     "id": "153700",
@@ -51410,7 +51909,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "154280_suffolk_county_community_college.svg"
   },
   {
     "id": "154299",
@@ -51558,7 +52058,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "154466_california_state_university_san_marcos.svg"
   },
   {
     "id": "154484",
@@ -55046,7 +55547,8 @@
     "domain": "csumb.edu",
     "alias": "CSUMB",
     "population": 6456,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "160612_california_state_university_monterey_bay.svg"
   },
   {
     "id": "160658",
@@ -55207,7 +55709,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "160959_capella_university.svg"
   },
   {
     "id": "160968",
@@ -55984,7 +56487,8 @@
     "domain": "matech.edu",
     "alias": "MATECH",
     "population": 974,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "162371_mid_america_technology_center.png"
   },
   {
     "id": "162380",
@@ -56005,7 +56509,8 @@
     "domain": "eoctech.edu",
     "alias": "EOCTECH",
     "population": 105,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "162399_eastern_oklahoma_county_technology_center.png"
   },
   {
     "id": "162405",
@@ -57394,7 +57899,8 @@
     "domain": "ccctc.edu",
     "alias": "CCCTC",
     "population": 41,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "164933_clearfield_county_career_and_technology_center.png"
   },
   {
     "id": "164960",
@@ -57896,7 +58402,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "165820_western_governors_university.svg"
   },
   {
     "id": "165918",
@@ -58153,7 +58660,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "166328_the_community_college_of_baltimore_county.png"
   },
   {
     "id": "166355",
@@ -58930,7 +59438,8 @@
     "street": "2076 South Street",
     "city": "Quantico",
     "state": "VA",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "167729_marine_corps_university.png"
   },
   {
     "id": "167774",
@@ -60433,7 +60942,8 @@
     "domain": "grantham.edu",
     "alias": "GRANTHAM",
     "population": 5292,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "170736_grantham_university.svg"
   },
   {
     "id": "170763",
@@ -61089,7 +61599,8 @@
     "domain": "flc.losrios.edu",
     "alias": "Folsom Lake  FLC",
     "population": 8660,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "172228_folsom_lake_college.svg"
   },
   {
     "id": "172255",
@@ -61686,7 +62197,8 @@
     "domain": "ucmerced.edu",
     "alias": "UC Merced",
     "population": 8276,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "173197_university_of_california_merced.svg"
   },
   {
     "id": "173258",
@@ -61984,7 +62496,8 @@
     "designations": [
       "CAE-CD",
       "CAE-CO"
-    ]
+    ],
+    "logo": "174376_united_states_air_force_academy.svg"
   },
   {
     "id": "174482",
@@ -62174,7 +62687,8 @@
     "domain": "mvc.edu",
     "alias": "MVC",
     "population": 8029,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "176460_moreno_valley_college.jpg"
   },
   {
     "id": "176488",
@@ -62508,7 +63022,8 @@
     "domain": "columbiacentral.edu",
     "alias": "COLUMBIACENTRAL",
     "population": 682,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "179098_columbia_central_university.svg"
   },
   {
     "id": "179122",
@@ -62813,7 +63328,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "182962_american_public_university_system.svg"
   },
   {
     "id": "183008",
@@ -62847,7 +63363,8 @@
     "domain": "columbiasouthern.edu",
     "alias": "COLUMBIASOUTHERN",
     "population": 13077,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "183099_columbia_southern_university.svg"
   },
   {
     "id": "183309",
@@ -64654,7 +65171,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "189130_blue_ridge_community_and_technical_college.jpg"
   },
   {
     "id": "189149",
@@ -64680,7 +65198,8 @@
     "domain": "mtec.pasco.k12.fl.us",
     "alias": "FL",
     "population": 217,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "189158_fred_k_marchman_technical_college.jpg"
   },
   {
     "id": "189167",
@@ -65735,7 +66254,8 @@
     "state": "OK",
     "domain": "francistuttle.edu",
     "alias": "FRANCISTUTTLE",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "192280_francis_tuttle_technology_center_portland.png"
   },
   {
     "id": "192299",
@@ -66162,7 +66682,8 @@
     "domain": "asher.edu",
     "alias": "ASHER",
     "population": 748,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "204200_asher_college.jpg"
   },
   {
     "id": "204255",
@@ -68730,7 +69251,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "214689_the_sans_technology_institute.png"
   },
   {
     "id": "214704",
@@ -68800,7 +69322,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "214980_century_college.png"
   },
   {
     "id": "215044",
@@ -70756,7 +71279,8 @@
     "domain": "csuglobal.edu",
     "alias": "CSUGLOBAL",
     "population": 7528,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "219222_colorado_state_university_global_campus.svg"
   },
   {
     "id": "219231",
@@ -72669,7 +73193,8 @@
     "domain": "jccmi.edu",
     "alias": "JCCMI",
     "population": 3002,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "231712_jackson_college.png"
   },
   {
     "id": "231721",
@@ -72693,7 +73218,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "231730_augusta_university.svg"
   },
   {
     "id": "231749",
@@ -72753,7 +73279,8 @@
     "domain": "tamuct.edu",
     "alias": "A&M-Central Texas",
     "population": 1885,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "232052_texas_a_m_university_central_texas.svg"
   },
   {
     "id": "232061",
@@ -73228,7 +73755,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "234474_middle_georgia_state_university.png"
   },
   {
     "id": "234483",
@@ -73236,7 +73764,8 @@
     "street": "1200 East Diehl Road",
     "city": "Naperville",
     "state": "IL",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "234483_de_vry_university.svg"
   },
   {
     "id": "234492",
@@ -73252,7 +73781,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "234492_university_of_north_georgia.png"
   },
   {
     "id": "234508",
@@ -74440,7 +74970,8 @@
     "domain": "alamo.edu",
     "alias": "ALAMO",
     "population": 5511,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "239062_northeast_lakeview_college.svg"
   },
   {
     "id": "239099",
@@ -75046,7 +75577,8 @@
     "predominantDegree": "N/A",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "242130_cochise_college.png"
   },
   {
     "id": "242185",
@@ -75285,7 +75817,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "243692_purdue_university_global.png"
   },
   {
     "id": "243902",
@@ -75327,7 +75860,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "244428_saint_louis_community_college.svg"
   },
   {
     "id": "244437",
@@ -75622,7 +76156,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "246099_texas_a_m_university_san_antonio.svg"
   },
   {
     "id": "246169",
