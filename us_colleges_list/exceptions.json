@@ -64,5 +64,10 @@
   {
     "id": "113245",
     "street": "100 N University St"
+  },
+  {
+    "id": "103884",
+    "name": "San Diego College of Continuing Education",
+    "alias": "SDCCD"
   }
 ]

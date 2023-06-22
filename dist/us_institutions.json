@@ -35,7 +35,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "100034_university_of_alabama_at_birmingham.svg"
   },
   {
     "id": "100043",
@@ -675,7 +676,8 @@
     "domain": "stillman.edu",
     "alias": "STILLMAN",
     "population": 699,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "100672_stillman_college.png"
   },
   {
     "id": "100681",
@@ -944,7 +946,7 @@
   {
     "id": "101028",
     "name": "Arizona Western College",
-    "street": "P.O. Box 929",
+    "street": "2020 S. Avenue 8E",
     "city": "Yuma",
     "state": "AZ",
     "lon": -114.495968,
@@ -1807,7 +1809,8 @@
     "domain": "hendrix.edu",
     "alias": "HENDRIX",
     "population": 1065,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "101967_hendrix_college.svg"
   },
   {
     "id": "101985",
@@ -2251,7 +2254,7 @@
   {
     "id": "102483",
     "name": "American Beauty College",
-    "street": "646 South Sunset Avenue",
+    "street": "652 South Sunset Avenue",
     "city": "West Covina",
     "state": "CA",
     "lon": -117.936959,
@@ -2811,7 +2814,8 @@
     "domain": "berkeley.edu",
     "alias": "UC Berkeley",
     "population": 30796,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "103015_university_of_california_berkeley.svg"
   },
   {
     "id": "103024",
@@ -3033,7 +3037,8 @@
     "domain": "canadacollege.edu",
     "alias": "CANADACOLLEGE",
     "population": 4279,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "103219_canada_college.svg"
   },
   {
     "id": "103228",
@@ -3051,8 +3056,8 @@
   {
     "id": "103246",
     "name": "Casa Loma College",
-    "street": "6725 Kester Avenue",
-    "city": "Van Nuys",
+    "street": "Suite D-100, 15301 Ventura Boulevard",
+    "city": "Sherman Oaks",
     "state": "CA",
     "lon": -118.457781,
     "lat": 34.192829,
@@ -3165,7 +3170,8 @@
     "domain": "chapman.edu",
     "alias": "CHAPMAN",
     "population": 7231,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "103370_chapman_university.svg"
   },
   {
     "id": "103389",
@@ -3665,11 +3671,13 @@
   },
   {
     "id": "103884",
-    "name": "SDCCD Continuing Education",
+    "name": "San Diego College of Continuing Education",
     "street": "4343 Ocean View Blvd",
     "city": "San Diego",
     "state": "CA",
-    "predominantDegree": "N/A"
+    "alias": "SDCCD",
+    "predominantDegree": "N/A",
+    "logo": "103884_san_diego_college_of_continuing_education.svg"
   },
   {
     "id": "103893",
@@ -4607,7 +4615,7 @@
   },
   {
     "id": "104984",
-    "name": "MTI College",
+    "name": "Campus",
     "street": "5221 Madison Ave",
     "city": "Sacramento",
     "state": "CA",
@@ -5479,7 +5487,8 @@
     "street": "333 E Eighth St",
     "city": "Oakland",
     "state": "CA",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "105914_peralta_community_college_system_office.png"
   },
   {
     "id": "105923",
@@ -5934,7 +5943,7 @@
   {
     "id": "106360",
     "name": "William Jessup University",
-    "street": "333 Sunset Blvd.",
+    "street": "2121 University Avenue",
     "city": "Rocklin",
     "state": "CA",
     "lon": -121.292312,
@@ -6781,7 +6790,7 @@
   {
     "id": "107196",
     "name": "Thomas Jefferson School of Law",
-    "street": "2121 San Diego Ave",
+    "street": "701 B Street Suite 110",
     "city": "San Diego",
     "state": "CA",
     "lon": -117.157862,
@@ -6954,7 +6963,8 @@
     "domain": "colorado.edu",
     "alias": "U of ColoradoUniv of ColoradoUniversity of ColoradoU of COUniv of COUniversity of COBoulderCUCU-BoulderUCBCUBColoradoColorado UniversityU of ColoUniv of ColoUniversity of ColoColoBuffsBuffalosBuffaloesCU at BoulderGolden BuffsUniversity of Colorado at Boulder",
     "population": 29779,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "107363_university_of_colorado_at_boulder.svg"
   },
   {
     "id": "107372",
@@ -6984,7 +6994,7 @@
   },
   {
     "id": "107390",
-    "name": "Concorde Career College - Aurora",
+    "name": "Concorde Career College - Denver",
     "street": "111 N. Havana Street",
     "city": "Aurora",
     "state": "CO",
@@ -7027,7 +7037,8 @@
     "domain": "cncc.edu",
     "alias": "CNCC",
     "population": 584,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "107424_colorado_northwestern_community_college.svg"
   },
   {
     "id": "107433",
@@ -7180,7 +7191,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107567_university_of_denver.svg"
   },
   {
     "id": "107576",
@@ -7737,7 +7749,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "108108_university_of_connecticut.svg"
   },
   {
     "id": "108126",
@@ -8092,7 +8105,8 @@
     "domain": "qu.edu",
     "alias": "QU",
     "population": 6787,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "108472_quinnipiac_university.svg"
   },
   {
     "id": "108481",
@@ -9247,7 +9261,8 @@
     "domain": "georgestonecollege.edu",
     "alias": "George Stone Technical Center",
     "population": 545,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "109554_george_stone_technical_college.jpg"
   },
   {
     "id": "109572",
@@ -9278,7 +9293,7 @@
   {
     "id": "109590",
     "name": "Hillsborough Community College",
-    "street": "39 Columbia Drive",
+    "street": "4115 North Lois Avenue",
     "city": "Tampa",
     "state": "FL",
     "lon": -82.456253,
@@ -9677,12 +9692,13 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "110079_university_of_north_florida.svg"
   },
   {
     "id": "110097",
     "name": "Nova Southeastern University",
-    "street": "3301 College Ave",
+    "street": "3300 S. University Drive",
     "city": "Fort Lauderdale",
     "state": "FL",
     "lon": -80.24248,
@@ -9711,7 +9727,7 @@
   },
   {
     "id": "110121",
-    "name": "Orange Technical College - Orlando Campus",
+    "name": "Orange Technical College",
     "street": "301 West Amelia Street",
     "city": "Orlando",
     "state": "FL",
@@ -10449,7 +10465,8 @@
     "street": "11935 Abercorn St",
     "city": "Savannah",
     "state": "GA",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "110857_armstrong_state_university.png"
   },
   {
     "id": "110866",
@@ -10867,7 +10884,7 @@
   },
   {
     "id": "111249",
-    "name": "Grady Health System Professional Schools",
+    "name": "Grady Memorial Hospital/Grady Health System",
     "street": "SE, 80 Jesse Hill Jr Drive",
     "city": "Atlanta",
     "state": "GA",
@@ -11218,7 +11235,8 @@
     "domain": "mercer.edu",
     "alias": "MERCER",
     "population": 4725,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "111540_mercer_university.svg"
   },
   {
     "id": "111559",
@@ -11273,7 +11291,8 @@
     "domain": "ung.edu",
     "alias": "UNG",
     "population": 17341,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "111595_north_georgia_college_state_university.png"
   },
   {
     "id": "111601",
@@ -11557,7 +11576,8 @@
     "domain": "valdosta.edu",
     "alias": "VSU; Valdosta State; Valdosta State College; V-State",
     "population": 9367,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "111841_valdosta_state_university.png"
   },
   {
     "id": "111869",
@@ -11681,7 +11701,8 @@
     "domain": "hpu.edu",
     "alias": "HPU",
     "population": 2652,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "111966_hawaii_pacific_university.png"
   },
   {
     "id": "111975",
@@ -11879,7 +11900,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "112136_boise_state_university.svg"
   },
   {
     "id": "112145",
@@ -12376,7 +12398,8 @@
     "domain": "ccc.edu",
     "alias": "CCC",
     "population": 5419,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "112701_city_colleges_of_chicago_malcolm_x_college.png"
   },
   {
     "id": "112710",
@@ -12428,7 +12451,8 @@
     "domain": "ccc.edu",
     "alias": "CCC",
     "population": 5022,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "112747_city_colleges_of_chicago_harold_washington_college.jpeg"
   },
   {
     "id": "112756",
@@ -12622,7 +12646,7 @@
   },
   {
     "id": "112978",
-    "name": "First Institute",
+    "name": "First Institute of Travel",
     "street": "790 McHenry Ave",
     "city": "Crystal Lake",
     "state": "IL",
@@ -12936,7 +12960,7 @@
   {
     "id": "113281",
     "name": "John A Logan College",
-    "street": "700 Logan College Road",
+    "street": "700 Logan College Drive",
     "city": "Carterville",
     "state": "IL",
     "lon": -89.09021,
@@ -13506,7 +13530,8 @@
     "domain": "northpark.edu",
     "alias": "NORTHPARK",
     "population": 1840,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "113810_north_park_university.jpg"
   },
   {
     "id": "113829",
@@ -13561,7 +13586,7 @@
   },
   {
     "id": "113883",
-    "name": "Oakton Community College",
+    "name": "Oakton College",
     "street": "1600 E Golf Rd.",
     "city": "Des Plaines",
     "state": "IL",
@@ -14010,7 +14035,7 @@
   {
     "id": "114354",
     "name": "Taylor Business Institute",
-    "street": "Suite 500, 318 West Adams",
+    "street": "29 East Madison Street",
     "city": "Chicago",
     "state": "IL",
     "lon": -87.62671,
@@ -14179,7 +14204,8 @@
     "domain": "anderson.edu",
     "alias": "ANDERSON",
     "population": 1198,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "114521_anderson_university.svg"
   },
   {
     "id": "114530",
@@ -14434,7 +14460,8 @@
     "domain": "hcc-nd.edu",
     "alias": "HCC-ND",
     "population": 437,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "114813_holy_cross_college.png"
   },
   {
     "id": "114831",
@@ -14559,7 +14586,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "115092_indiana_state_university.svg"
   },
   {
     "id": "115108",
@@ -14984,7 +15012,7 @@
   {
     "id": "115621",
     "name": "Taylor University",
-    "street": "236 W Reade Ave",
+    "street": "1846 Main Street",
     "city": "Upland",
     "state": "IN",
     "lon": -85.497034,
@@ -15301,7 +15329,7 @@
     "alias": "Eastern Iowa Community Colleges",
     "population": 3371,
     "predominantDegree": "Associate",
-    "logo": "115904_eastern_iowa_community_college_district.jpg"
+    "logo": "115904_eastern_iowa_community_college_district.png"
   },
   {
     "id": "115913",
@@ -15509,7 +15537,8 @@
     "domain": "kirkwood.edu",
     "alias": "KIRKWOOD",
     "population": 8019,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "116129_kirkwood_community_college.png"
   },
   {
     "id": "116138",
@@ -15833,7 +15862,7 @@
   },
   {
     "id": "116439",
-    "name": "Mercy Medical Center-North Iowa",
+    "name": "MercyOne North Iowa Medical Center",
     "street": "SW, 1000 4th Street",
     "city": "Mason City",
     "state": "IA",
@@ -15854,7 +15883,7 @@
   },
   {
     "id": "116475",
-    "name": "E Q School of Hair Design",
+    "name": "SOHO Hair Academy",
     "street": "2600 South 9th Street",
     "city": "Council Bluffs",
     "state": "IA",
@@ -15943,7 +15972,8 @@
     "domain": "witcc.edu",
     "alias": "WITCC",
     "population": 2804,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "116554_western_iowa_tech_community_college.jpg"
   },
   {
     "id": "116563",
@@ -16236,7 +16266,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "116828_fort_hays_state_university.svg"
   },
   {
     "id": "116837",
@@ -16353,7 +16384,8 @@
     "domain": "hutchcc.edu",
     "alias": "HUTCHCC",
     "population": 3110,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "116916_hutchinson_community_college.png"
   },
   {
     "id": "116925",
@@ -17700,7 +17732,8 @@
     "domain": "ayers.edu",
     "alias": "AYERS",
     "population": 174,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "118295_ayers_career_college.png"
   },
   {
     "id": "118301",
@@ -18660,25 +18693,7 @@
     "street": "116 O'Brien Ave",
     "city": "Machias",
     "state": "ME",
-    "lon": -67.458025,
-    "lat": 44.708803,
-    "domain": "machias.edu",
-    "alias": "University of Maine-Machias",
-    "population": 390,
-    "predominantDegree": "Bachelor"
-  },
-  {
-    "id": "119580",
-    "name": "University of Maine",
-    "street": "Suite 200, 5703 Alumni Hall",
-    "city": "Orono",
-    "state": "ME",
-    "lon": -68.669332,
-    "lat": 44.899257,
-    "domain": "umaine.edu",
-    "alias": "UMAINE",
-    "population": 8870,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "N/A"
   },
   {
     "id": "119605",
@@ -18833,9 +18848,9 @@
   },
   {
     "id": "119739",
-    "name": "Unity College",
-    "street": "90 Quaker Hill Road",
-    "city": "Unity",
+    "name": "Unity Environmental University",
+    "street": "Suite 200, 70 Farm View Drive",
+    "city": "New Gloucester",
     "state": "ME",
     "lon": -69.332276,
     "lat": 44.603165,
@@ -20140,7 +20155,8 @@
     "domain": "enc.edu",
     "alias": "ENC",
     "population": 541,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "120999_eastern_nazarene_college.png"
   },
   {
     "id": "121008",
@@ -21137,7 +21153,8 @@
     "domain": "wit.edu",
     "alias": "WIT",
     "population": 4143,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "121974_wentworth_institute_of_technology.svg"
   },
   {
     "id": "121983",
@@ -21613,7 +21630,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "122445_eastern_michigan_university.svg"
   },
   {
     "id": "122463",
@@ -21897,7 +21915,7 @@
   {
     "id": "122737",
     "name": "Lansing Community College",
-    "street": "419 N Capitol Ave",
+    "street": "600 N. Grand Avenue",
     "city": "Lansing",
     "state": "MI",
     "lon": -84.55157,
@@ -22235,8 +22253,8 @@
   {
     "id": "123013",
     "name": "Oakland Community College",
-    "street": "2480 Opdyke Rd",
-    "city": "Bloomfield Hills",
+    "street": "2900 Featherstone Road",
+    "city": "Auburn Hills",
     "state": "MI",
     "lon": -83.244787,
     "lat": 42.595441,
@@ -23102,7 +23120,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "123846_metropolitan_state_university.png"
   },
   {
     "id": "123855",
@@ -23120,7 +23139,7 @@
   },
   {
     "id": "123864",
-    "name": "University of Minnesota - Crookston",
+    "name": "University of Minnesota Crookston",
     "street": "2900 University Ave",
     "city": "Crookston",
     "state": "MN",
@@ -23163,7 +23182,8 @@
     "domain": "minneapolis.edu",
     "alias": "MINNEAPOLIS",
     "population": 5203,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "123891_minneapolis_community_and_technical_college.png"
   },
   {
     "id": "123916",
@@ -23175,7 +23195,7 @@
   },
   {
     "id": "123925",
-    "name": "Minnesota School of Cosmetology",
+    "name": "Nova Academy of Cosmetology Woodbury",
     "street": "1750 Weir Drive",
     "city": "Woodbury",
     "state": "MN",
@@ -23674,7 +23694,8 @@
     "domain": "century.edu",
     "alias": "CENTURY",
     "population": 6815,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "124496_century_college.png"
   },
   {
     "id": "124502",
@@ -23704,7 +23725,7 @@
   },
   {
     "id": "124520",
-    "name": "Blue Mountain College",
+    "name": "Blue Mountain Christian University",
     "street": "201 W Main St",
     "city": "Blue Mountain",
     "state": "MS",
@@ -24127,7 +24148,8 @@
     "domain": "usm.edu",
     "alias": "USM",
     "population": 11348,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "124919_university_of_southern_mississippi.svg"
   },
   {
     "id": "124937",
@@ -24555,7 +24577,8 @@
     "domain": "evangel.edu",
     "alias": "EVANGEL",
     "population": 1480,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "125347_evangel_university.svg"
   },
   {
     "id": "125356",
@@ -25012,7 +25035,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "125851_missouri_university_of_science_and_technology.svg"
   },
   {
     "id": "125860",
@@ -26078,7 +26102,8 @@
     "designations": [
       "CAE-CO",
       "CAE-CD"
-    ]
+    ],
+    "logo": "127024_university_of_nebraska_omaha.svg"
   },
   {
     "id": "127042",
@@ -27026,7 +27051,8 @@
     "domain": "rcsj.edu",
     "alias": "Rowan College South Jersey Cumberland Campus",
     "population": 2149,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "128009_cumberland_county_college.png"
   },
   {
     "id": "128045",
@@ -27166,7 +27192,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "128179_rowan_college_of_south_jersey.png"
   },
   {
     "id": "128197",
@@ -27716,7 +27743,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "128762_stevens_institute_of_technology.svg"
   },
   {
     "id": "128771",
@@ -27782,7 +27810,8 @@
     "domain": "wpunj.edu",
     "alias": "WPUNJ",
     "population": 7936,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "128878_william_paterson_university_of_new_jersey.svg"
   },
   {
     "id": "128896",
@@ -29288,7 +29317,8 @@
     "domain": "fmcc.edu",
     "alias": "FM",
     "population": 1276,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "130466_fulton_montgomery_community_college.png"
   },
   {
     "id": "130475",
@@ -29789,7 +29819,8 @@
     "domain": "marist.edu",
     "alias": "MARIST",
     "population": 5210,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "130998_marist_college.svg"
   },
   {
     "id": "131007",
@@ -30094,7 +30125,7 @@
   },
   {
     "id": "131353",
-    "name": "New York Chiropractic College",
+    "name": "Northeast College of Health Sciences",
     "street": "2360 State Route 89",
     "city": "Seneca Falls",
     "state": "NY",
@@ -30398,8 +30429,8 @@
   {
     "id": "131654",
     "name": "Davis College",
-    "street": "1 Christfield Avenue",
-    "city": "Johnson City",
+    "street": "4230 Glendale Road",
+    "city": "Pottersville",
     "state": "NY",
     "lon": -75.967044,
     "lat": 42.10601,
@@ -30503,7 +30534,8 @@
     "domain": "rpi.edu",
     "alias": "RPI, Rensselaer",
     "population": 6265,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "131779_rensselaer_polytechnic_institute.svg"
   },
   {
     "id": "131788",
@@ -30963,7 +30995,8 @@
     "domain": "alfredstate.edu",
     "alias": "Alfred State College",
     "population": 3651,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "132277_suny_college_of_technology_at_alfred.png"
   },
   {
     "id": "132286",
@@ -31125,7 +31158,7 @@
   },
   {
     "id": "132392",
-    "name": "SUNY College at Brockport",
+    "name": "State University of New York Brockport",
     "street": "350 New Campus Dr",
     "city": "Brockport",
     "state": "NY",
@@ -31138,7 +31171,7 @@
   },
   {
     "id": "132408",
-    "name": "SUNY Buffalo State",
+    "name": "SUNY Buffalo State University",
     "street": "1300 Elmwood Ave",
     "city": "Buffalo",
     "state": "NY",
@@ -31151,7 +31184,7 @@
   },
   {
     "id": "132417",
-    "name": "SUNY College at Cortland",
+    "name": "SUNY Cortland",
     "street": "PO Box 2000",
     "city": "Cortland",
     "state": "NY",
@@ -31164,7 +31197,7 @@
   },
   {
     "id": "132426",
-    "name": "SUNY at Fredonia",
+    "name": "SUNY Fredonia",
     "street": "280 Central Ave",
     "city": "Fredonia",
     "state": "NY",
@@ -31190,7 +31223,7 @@
   },
   {
     "id": "132444",
-    "name": "SUNY College at New Paltz",
+    "name": "SUNY New Paltz",
     "street": "1 Hawk Drive",
     "city": "New Paltz",
     "state": "NY",
@@ -31280,7 +31313,7 @@
   },
   {
     "id": "132514",
-    "name": "SUNY College at Plattsburgh",
+    "name": "SUNY Plattsburgh",
     "street": "101 Broad Street",
     "city": "Plattsburgh",
     "state": "NY",
@@ -31294,7 +31327,7 @@
   },
   {
     "id": "132532",
-    "name": "SUNY Empire State College",
+    "name": "Empire State University",
     "street": "1 Union Ave",
     "city": "Saratoga Springs",
     "state": "NY",
@@ -31545,7 +31578,8 @@
     "domain": "usmma.edu",
     "alias": "USMMAKings Point",
     "population": 1028,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "132763_united_states_merchant_marine_academy.svg"
   },
   {
     "id": "132772",
@@ -31558,7 +31592,8 @@
     "domain": "westpoint.edu",
     "alias": "West Point",
     "population": 4536,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "132772_united_states_military_academy.svg"
   },
   {
     "id": "132781",
@@ -31707,7 +31742,7 @@
   {
     "id": "132921",
     "name": "Word of Life Bible Institute",
-    "street": "4200 Glendale Road",
+    "street": "4230 Glendale Road",
     "city": "Pottersville",
     "state": "NY",
     "lon": -73.812057,
@@ -31827,7 +31862,8 @@
     "domain": "appstate.edu",
     "alias": "Appalachian State University",
     "population": 17990,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "133049_appalachian_state_university.svg"
   },
   {
     "id": "133058",
@@ -32186,7 +32222,8 @@
     "domain": "duke.edu",
     "alias": "DUKE",
     "population": 6650,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "133368_duke_university.svg"
   },
   {
     "id": "133377",
@@ -33621,7 +33658,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134565_minot_state_university.svg"
   },
   {
     "id": "134574",
@@ -34751,7 +34789,8 @@
     "domain": "egcc.edu",
     "alias": "EGCC",
     "population": 38613,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "135762_eastern_gateway_community_college.png"
   },
   {
     "id": "135771",
@@ -34958,7 +34997,8 @@
     "domain": "mtc.edu",
     "alias": "MTC",
     "population": 1255,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "136048_marion_technical_college.png"
   },
   {
     "id": "136057",
@@ -35914,7 +35954,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "137236_wright_state_university.svg"
   },
   {
     "id": "137254",
@@ -36339,7 +36380,8 @@
     "domain": "okcu.edu",
     "alias": "OKCU",
     "population": 1520,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137652_oklahoma_city_university.svg"
   },
   {
     "id": "137661",
@@ -36527,7 +36569,7 @@
   {
     "id": "137847",
     "name": "Tulsa Community College",
-    "street": "6111 E Skelly Dr",
+    "street": "909 South Boston Ave",
     "city": "Tulsa",
     "state": "OK",
     "lon": -95.90825,
@@ -36697,7 +36739,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "137999_chemeketa_community_college.svg"
   },
   {
     "id": "138008",
@@ -37026,7 +37069,8 @@
     "domain": "oregonstate.edu",
     "alias": "OSU",
     "population": 26048,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "138327_oregon_state_university.svg"
   },
   {
     "id": "138336",
@@ -37834,7 +37878,8 @@
     "domain": "chc.edu",
     "alias": "CHC",
     "population": 1051,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "139126_chestnut_hill_college.png"
   },
   {
     "id": "139135",
@@ -38519,7 +38564,7 @@
   },
   {
     "id": "139977",
-    "name": "La Roche College",
+    "name": "La Roche University",
     "street": "9000 Babcock Blvd",
     "city": "Pittsburgh",
     "state": "PA",
@@ -38819,13 +38864,14 @@
     "domain": "mercyhurst.edu",
     "alias": "MERCYHURST",
     "population": 2369,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "140298_mercyhurst_university.svg"
   },
   {
     "id": "140304",
-    "name": "Messiah College",
+    "name": "Messiah University",
     "street": "One College Ave",
-    "city": "Grantham",
+    "city": "Mechanicsburg",
     "state": "PA",
     "lon": -76.988269,
     "lat": 40.156579,
@@ -38927,7 +38973,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "140395_mount_aloysius_college.png"
   },
   {
     "id": "140401",
@@ -39052,12 +39099,9 @@
     "street": "201 Old Main Building",
     "city": "University Park",
     "state": "PA",
-    "lon": -77.862848,
-    "lat": 40.7965,
     "domain": "psu.edu",
-    "alias": "Penn State",
-    "population": 73189,
-    "predominantDegree": "Bachelor",
+    "alias": "PSU",
+    "predominantDegree": "N/A",
     "designations": [
       "CAE-CD"
     ],
@@ -39071,7 +39115,8 @@
     "state": "PA",
     "domain": "york.psu.edu",
     "alias": "Penn State York",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "140711023_pennsylvania_state_university_york.svg"
   },
   {
     "id": "140775",
@@ -40172,7 +40217,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "141918_new_england_institute_of_technology.png"
   },
   {
     "id": "141936",
@@ -40247,12 +40293,13 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "141990_university_of_rhode_island.svg"
   },
   {
     "id": "142009",
     "name": "Rhode Island School of Design",
-    "street": "2 College St",
+    "street": "20 Washington Place",
     "city": "Providence",
     "state": "RI",
     "lon": -71.407692,
@@ -40382,7 +40429,8 @@
     "domain": "tcl.edu",
     "alias": "TCL",
     "population": 1734,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "142124_technical_college_of_the_lowcountry.png"
   },
   {
     "id": "142133",
@@ -40809,7 +40857,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "142540_university_of_south_carolina_aiken.png"
   },
   {
     "id": "142559",
@@ -41390,7 +41439,7 @@
   {
     "id": "143109",
     "name": "Tennessee College of Applied Technology - Athens",
-    "street": "1635 Vo-Tech Drive, 1635 Vo-Tech Drive",
+    "street": "1635 Vo-Tech Drive, 1635 Technology Way",
     "city": "Athens",
     "state": "TN",
     "lon": -84.630484,
@@ -41544,7 +41593,7 @@
   },
   {
     "id": "143224",
-    "name": "Concorde Career College",
+    "name": "Concorde Career College - Memphis",
     "street": "Suite 132, 5100 Poplar Avenue",
     "city": "Memphis",
     "state": "TN",
@@ -41618,7 +41667,8 @@
     "domain": "etsu.edu",
     "alias": "ETSU",
     "population": 10705,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "143297_east_tennessee_state_university.svg"
   },
   {
     "id": "143303",
@@ -41636,7 +41686,7 @@
   {
     "id": "143312",
     "name": "Tennessee College of Applied Technology - Elizabethton",
-    "street": "426 Highway 91, PO Box 789",
+    "street": "426 Highway 91, 426 Highway 91 N",
     "city": "Elizabethton",
     "state": "TN",
     "lon": -82.178198,
@@ -43399,7 +43449,7 @@
   {
     "id": "145026",
     "name": "Hallmark University",
-    "street": "10401 IH 10 West",
+    "street": "9855 Westover Hills Boulevard",
     "city": "San Antonio",
     "state": "TX",
     "lon": -98.568618,
@@ -43662,7 +43712,8 @@
     "domain": "kilgore.edu",
     "alias": "KILGORE",
     "population": 3429,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "145293_kilgore_college.svg"
   },
   {
     "id": "145309",
@@ -44023,7 +44074,8 @@
     "domain": "lonestar.edu",
     "alias": "North Harris MontgomeryNorth HarrisNHMCCDN Harris MontgomeryKingwoodTomballCy-FairCyFairMontgomeryUniversity Park/Houston North",
     "population": 50580,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "145646_lone_star_college_system.svg"
   },
   {
     "id": "145655",
@@ -44129,7 +44181,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145743_our_lady_of_the_lake_university.jpg"
   },
   {
     "id": "145752",
@@ -45291,7 +45344,7 @@
   },
   {
     "id": "146834",
-    "name": "Dixie State university",
+    "name": "Utah Tech University",
     "street": "225 S 700 E",
     "city": "Saint George",
     "state": "UT",
@@ -45872,7 +45925,8 @@
     "domain": "wm.edu",
     "alias": "William & Mary",
     "population": 6217,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "147396_college_of_william_and_mary.png"
   },
   {
     "id": "147411",
@@ -46290,7 +46344,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "147794_mountain_empire_community_college.png"
   },
   {
     "id": "147800",
@@ -46484,7 +46539,7 @@
   {
     "id": "147952",
     "name": "Sylvain Melloul International Hair Academy",
-    "street": "#G-360, 3405 Candlers Mountain Road",
+    "street": "#68, 3700 Candlers Mountain Road",
     "city": "Lynchburg",
     "state": "VA",
     "lon": -79.179789,
@@ -47024,7 +47079,8 @@
     "domain": "bellevuecollege.edu",
     "alias": "BC",
     "population": 5775,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "148432_bellevue_college.svg"
   },
   {
     "id": "148441",
@@ -47136,7 +47192,8 @@
     "domain": "clark.edu",
     "alias": "CLARK",
     "population": 6292,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "148539_clark_college.svg"
   },
   {
     "id": "148548",
@@ -48245,8 +48302,8 @@
   {
     "id": "149611",
     "name": "Southern West Virginia Community and Technical College",
-    "street": "Dempsey Branch Road",
-    "city": "Mount Gay",
+    "street": "100 College Drive",
+    "city": "Logan",
     "state": "WV",
     "lon": -82.023014,
     "lat": 37.851756,
@@ -49193,7 +49250,8 @@
     "domain": "wisc.edu",
     "alias": "WISC",
     "population": 31651,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "150589_university_of_wisconsin_madison.svg"
   },
   {
     "id": "150598",
@@ -50276,7 +50334,7 @@
   },
   {
     "id": "151704",
-    "name": "ICPR Junior College",
+    "name": "Instituto Comercial de Puerto Rico Junior College",
     "street": "558 Munoz Rivera Avenue",
     "city": "San Juan",
     "state": "PR",
@@ -50528,7 +50586,8 @@
     "domain": "alamo.edu",
     "alias": "ALAMO",
     "population": 7999,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "152132_palo_alto_college.svg"
   },
   {
     "id": "152187",
@@ -50857,7 +50916,8 @@
     "state": "SC",
     "domain": "ecpi.edu",
     "alias": "ECPI",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "152619010_ecpi_university_columbia.png"
   },
   {
     "id": "152619014",
@@ -51221,7 +51281,7 @@
   },
   {
     "id": "153199",
-    "name": "Taylortown School of Beauty, Inc. DBA Dorsey School of Beauty",
+    "name": "Dorsey School of Beauty",
     "street": "23125 Ecorse Road",
     "city": "Taylor",
     "state": "MI",
@@ -51389,7 +51449,7 @@
   },
   {
     "id": "153436",
-    "name": "Sunstate Academy",
+    "name": "Aveda Institute-Fort Meyers",
     "street": "2040 Colonial Blvd. Ste 100",
     "city": "Fort Myers",
     "state": "FL",
@@ -53761,7 +53821,7 @@
   {
     "id": "157146",
     "name": "Paul Mitchell the School - Provo",
-    "street": "480 North 900 East",
+    "street": "483 West 2310 North",
     "city": "Provo",
     "state": "UT",
     "lon": -117.927468,
@@ -54071,7 +54131,8 @@
     "domain": "hawaii.hawaii.edu",
     "alias": "Hawaii CC / HCC",
     "population": 1815,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "157818_hawaii_community_college.png"
   },
   {
     "id": "157827",
@@ -57404,7 +57465,7 @@
   {
     "id": "163772",
     "name": "inlingua Washington DC",
-    "street": "Suite LL-01, 1901 N Moore St.",
+    "street": "1911 N. Fort Myer Drive Suite 310",
     "city": "Arlington",
     "state": "VA",
     "predominantDegree": "N/A"
@@ -58344,7 +58405,8 @@
     "domain": "otcollege.net",
     "alias": "OTCOLLEGE",
     "population": 458,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "165705_okaloosa_technical_college.png"
   },
   {
     "id": "165741",
@@ -58929,19 +58991,6 @@
     "domain": "gwinnettcollege.edu",
     "alias": "Gwinnett College - Raleigh Campus",
     "population": 101,
-    "predominantDegree": "Certificate"
-  },
-  {
-    "id": "166850",
-    "name": "Fortis College",
-    "street": "200 E. Laurel Avenue",
-    "city": "Foley",
-    "state": "AL",
-    "lon": -87.681828,
-    "lat": 30.40611,
-    "domain": "fortis.edu",
-    "alias": "FORTIS",
-    "population": 87,
     "predominantDegree": "Certificate"
   },
   {
@@ -60311,7 +60360,7 @@
   },
   {
     "id": "169628",
-    "name": "West Coast Ultrasound Institute",
+    "name": "Smith Chason College",
     "street": "3580 Wilshire Blvd.; 4th Floor",
     "city": "Los Angeles",
     "state": "CA",
@@ -61613,8 +61662,8 @@
   {
     "id": "172273",
     "name": "Cambridge Technical Institute",
-    "street": "1058 Avenue Ponce de Leon",
-    "city": "San Juan",
+    "street": "Ste. 18, Plaza Centro, 200 Rafael Cordero Avenue",
+    "city": "Caugus",
     "state": "PR",
     "lon": -66.052442,
     "lat": 18.399839,
@@ -61686,7 +61735,7 @@
   {
     "id": "172404",
     "name": "Baptist University of the Americas",
-    "street": "7838 Barlite Street",
+    "street": "2418 West Ansley Boulevard",
     "city": "San Antonio",
     "state": "TX",
     "lon": -98.546081,
@@ -62946,7 +62995,7 @@
   },
   {
     "id": "178891",
-    "name": "Phillips School of Nursing at Mount Sinai Beth Israel",
+    "name": "Mount Sinai Phillips School of Nursing",
     "street": "776 6th Avenue",
     "city": "New York",
     "state": "NY",
@@ -63996,7 +64045,7 @@
   {
     "id": "185457",
     "name": "ATA College",
-    "street": "Suite A-200, 10180 Linn Station Road",
+    "street": "Suite 125, 10200 Linn Station Road",
     "city": "Louisville",
     "state": "KY",
     "lon": -85.563365,
@@ -66637,7 +66686,7 @@
   {
     "id": "204051",
     "name": "MyComputerCareer.com / TechSkills",
-    "street": "8909 Purdue Road",
+    "street": "2601 Fortune Circle Drive E #100C",
     "city": "Indianapolis",
     "state": "IN",
     "lon": -86.25478,
@@ -66811,8 +66860,8 @@
   {
     "id": "207087",
     "name": "Veritas Baptist College",
-    "street": "Suite 204, 181 US 50 E",
-    "city": "Greendale",
+    "street": "208 Walnut Street Suite 115",
+    "city": "Lawrenceburg",
     "state": "IN",
     "lon": -84.82617,
     "lat": 39.145234,
@@ -67115,7 +67164,7 @@
   {
     "id": "207759",
     "name": "Healing Hands School of Holistic Health",
-    "street": "Suite 212, 125 W Mission",
+    "street": "344 East Valley Parkway",
     "city": "Escondido",
     "state": "CA",
     "lon": -117.086211,
@@ -67463,7 +67512,7 @@
   {
     "id": "209533",
     "name": "Urshan College and Urshan Graduate School of Theology",
-    "street": "1151 Century Tel Dr.",
+    "street": "155 Urshan Way",
     "city": "Wentzville",
     "state": "MO",
     "lon": -90.830252,
@@ -67758,8 +67807,8 @@
   {
     "id": "210669",
     "name": "Aveda Frederic's Institute",
-    "street": "Castleton Square Mall, 6020 East 82nd Street",
-    "city": "Indianapolis",
+    "street": "2208 East 116th Street",
+    "city": "Carmel",
     "state": "IN",
     "lon": -86.066049,
     "lat": 39.908216,
@@ -67972,7 +68021,8 @@
     "domain": "ggc.edu",
     "alias": "GGC",
     "population": 11013,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "211255_georgia_gwinnett_college.svg"
   },
   {
     "id": "211264",
@@ -68224,8 +68274,8 @@
   {
     "id": "211918",
     "name": "Theatre of Arts",
-    "street": "Suite 200, 6755 Hollywood Boulevard",
-    "city": "Hollywood",
+    "street": "6476 Santa Monica Boulevard",
+    "city": "Los Angeles",
     "state": "CA",
     "lon": -118.338144,
     "lat": 34.0984,
@@ -68237,7 +68287,7 @@
   {
     "id": "211927",
     "name": "The Collective",
-    "street": "4th Floor, 541 6th Avenue",
+    "street": "Lobby 1, 26 Broadway",
     "city": "New York",
     "state": "NY",
     "predominantDegree": "N/A"
@@ -68830,7 +68880,8 @@
     "domain": "dacc.nmsu.edu",
     "alias": "NMSU-Dona Ana",
     "population": 5061,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "213385_new_mexico_state_university_dona_ana_community_college.svg"
   },
   {
     "id": "213598",
@@ -69322,8 +69373,7 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ],
-    "logo": "214980_century_college.png"
+    ]
   },
   {
     "id": "215044",
@@ -69364,7 +69414,7 @@
   },
   {
     "id": "215080",
-    "name": "Learnet Academy, Inc.",
+    "name": "Learnet Academy English as a Foreign Language and TOEFL iBT Program",
     "street": "3251 West 6th Street",
     "city": "Los Angeles",
     "state": "CA",
@@ -70824,7 +70874,7 @@
   {
     "id": "218353",
     "name": "Woodruff Medical and Wellness Training",
-    "street": "4053 Lavista Road",
+    "street": "1927 Lakeside Parkway",
     "city": "Tucker",
     "state": "GA",
     "lon": -84.238614,
@@ -71435,7 +71485,7 @@
   {
     "id": "219693",
     "name": "MyComputerCareer.com",
-    "street": "Suite 204, Drive, 5511 Capitol Center",
+    "street": "Suite 500, Drive, 5511 Capital Center",
     "city": "Raleigh",
     "state": "NC",
     "lon": -78.727186,
@@ -71609,19 +71659,6 @@
     "city": "Hicksville",
     "state": "NY",
     "predominantDegree": "N/A"
-  },
-  {
-    "id": "224697",
-    "name": "Digital Film Academy",
-    "street": "5th Floor, 20 W. 38th Street",
-    "city": "New York",
-    "state": "NY",
-    "lon": -73.991082,
-    "lat": 40.760073,
-    "domain": "digitalfilmacademy.edu",
-    "alias": "Digital Film Center",
-    "population": 102,
-    "predominantDegree": "Certificate"
   },
   {
     "id": "225885",
@@ -71941,7 +71978,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "228200_college_of_western_idaho.jpg"
   },
   {
     "id": "228219",
@@ -72142,7 +72180,7 @@
     "id": "228802",
     "name": "Rocky Vista University",
     "street": "8401 South Chambers Road",
-    "city": "Parker",
+    "city": "Englewood",
     "state": "CO",
     "lon": -104.815034,
     "lat": 39.563516,
@@ -72200,8 +72238,8 @@
   {
     "id": "228945",
     "name": "America Evangelical University",
-    "street": "1818 S. Western Avenue # 409",
-    "city": "Los Angeles",
+    "street": "1204 W. 163rd Street",
+    "city": "Gardena",
     "state": "CA",
     "lon": -118.308661,
     "lat": 34.041239,
@@ -72815,7 +72853,7 @@
   },
   {
     "id": "230490",
-    "name": "Advantage Career Institute",
+    "name": "ACI Medical & Dental School",
     "street": "215 Broad Street",
     "city": "Eatontown",
     "state": "NJ",
@@ -73075,7 +73113,7 @@
   },
   {
     "id": "231183",
-    "name": "Ricci's Toni & Guy Hairdressing Academy",
+    "name": "TIGI Hairdressing Academy Newtown",
     "street": "99 South Main Street",
     "city": "Newtown",
     "state": "CT",
@@ -73520,8 +73558,8 @@
   {
     "id": "233602",
     "name": "Wright Graduate University for the Realization of Human Potential",
-    "street": "N7698 County Highway H",
-    "city": "Elkhorn",
+    "street": "1207 W Canal Street",
+    "city": "Milwaukee",
     "state": "WI",
     "lon": -88.591085,
     "lat": 42.767178,
@@ -73669,6 +73707,14 @@
     "alias": "PAULMITCHELL",
     "population": 197,
     "predominantDegree": "Certificate"
+  },
+  {
+    "id": "234012",
+    "name": "Americare Technical School",
+    "street": "505 Busse Highway",
+    "city": "Park Ridge",
+    "state": "IL",
+    "predominantDegree": "N/A"
   },
   {
     "id": "234076",
@@ -74280,6 +74326,14 @@
     "predominantDegree": "Certificate"
   },
   {
+    "id": "236416",
+    "name": "San Francisco School of Massage & Bodywork",
+    "street": "3rd Floor, 475 Valencia Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "236425",
     "name": "EC-Council University",
     "street": "101 C Sun Avenue",
@@ -74511,6 +74565,14 @@
     "predominantDegree": "Certificate"
   },
   {
+    "id": "237084",
+    "name": "Technology Learning Center",
+    "street": "11 Buffum Dam Road",
+    "city": "Oxford",
+    "state": "MA",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "237093",
     "name": "Pets Playground Grooming School",
     "street": "1296 N. Federal Hwy",
@@ -74522,6 +74584,14 @@
     "alias": "PETSPLAYGROUND",
     "population": 13,
     "predominantDegree": "Certificate"
+  },
+  {
+    "id": "237118",
+    "name": "NationsUniversity",
+    "street": "PMB 133, Suite 1400, 650 Poydras Street",
+    "city": "New Orleans",
+    "state": "LA",
+    "predominantDegree": "N/A"
   },
   {
     "id": "237181",
@@ -74704,8 +74774,8 @@
   {
     "id": "237987",
     "name": "Bellasa Professional Institute",
-    "street": "744 NE 125 Street",
-    "city": "North Miami",
+    "street": "303, Suite 103, 700 S. Royal Poinciana Blvd.",
+    "city": "Miami Springs",
     "state": "FL",
     "lon": -80.183799,
     "lat": 25.890157,
@@ -74806,6 +74876,14 @@
     "predominantDegree": "Certificate"
   },
   {
+    "id": "238254",
+    "name": "Morris Brown College",
+    "street": "643 Martin Luther King Jr. Drive",
+    "city": "Atlanta",
+    "state": "GA",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "238281",
     "name": "Altierus Career College",
     "street": "825 Greenbrier Circle",
@@ -74876,7 +74954,7 @@
     "name": "California Jazz Conservatory",
     "street": "2087 Addison Street",
     "city": "Berkeley",
-    "state": "VA",
+    "state": "CA",
     "lon": -122.268878,
     "lat": 37.871235,
     "domain": "cjc.edu",
@@ -75002,8 +75080,8 @@
   {
     "id": "239114",
     "name": "Medical Career College of Northern California",
-    "street": "7475 Kanai Avenue",
-    "city": "Citrus Heights",
+    "street": "Suite 140, 1220 Melody Lane",
+    "city": "Roseville",
     "state": "CA",
     "lon": -121.293121,
     "lat": 38.723329,
@@ -75036,7 +75114,7 @@
   {
     "id": "239150",
     "name": "Regan Career Institute",
-    "street": "11350 Valley Boulevard",
+    "street": "3144 Santa Anita Avenue",
     "city": "El Monte",
     "state": "CA",
     "lon": -118.030152,
@@ -75134,6 +75212,14 @@
     "domain": "meridianuniversity.edu",
     "alias": "MERIDIANUNIVERSITY",
     "predominantDegree": "Graduate"
+  },
+  {
+    "id": "239381",
+    "name": "Reach University",
+    "street": "Suite 100, 1221 Preservation Park Way",
+    "city": "Oakland",
+    "state": "CA",
+    "predominantDegree": "N/A"
   },
   {
     "id": "239390",
@@ -75381,8 +75467,8 @@
   {
     "id": "240897",
     "name": "MyComputerCareer.com / TechSkills",
-    "street": "Suite 110, 380 Polaris Parkway",
-    "city": "Westerville",
+    "street": "4349 Easton Way Suite 145",
+    "city": "Columbus",
     "state": "OH",
     "lon": -82.941874,
     "lat": 40.147019,
@@ -75453,7 +75539,7 @@
   },
   {
     "id": "241410",
-    "name": "Latin American Bible Institute",
+    "name": "LABI College",
     "street": "14209 E. Lomitas Avenue",
     "city": "La Puente",
     "state": "CA",
@@ -75621,7 +75707,7 @@
   },
   {
     "id": "242404",
-    "name": "Davines Professional Academy of Beauty and Business",
+    "name": "Entourage Institute of Beauty and Esthetics",
     "street": "Suite D, 5601 South 59th Street",
     "city": "Lincoln",
     "state": "NE",
@@ -75791,6 +75877,14 @@
     "predominantDegree": "N/A"
   },
   {
+    "id": "243647",
+    "name": "Dharma Realm Buddhist University",
+    "street": "4951 Bodhi Way",
+    "city": "Ukiah",
+    "state": "CA",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "243656",
     "name": "Los Angeles Pacific University",
     "street": "300 N. Lone Hill Ave #200",
@@ -75821,6 +75915,14 @@
     "logo": "243692_purdue_university_global.png"
   },
   {
+    "id": "243717",
+    "name": "Hair Academy LLC",
+    "street": "62 Consumer Drive",
+    "city": "Chillicothe",
+    "state": "OH",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "243902",
     "name": "THE TEMPLE Annapolis: A Paul Mitchell Partner School",
     "street": "Suite C, 2303 Forest Drive",
@@ -75845,6 +75947,14 @@
     "alias": "UNIVERSALUTI",
     "population": 176,
     "predominantDegree": "Certificate"
+  },
+  {
+    "id": "244321",
+    "name": "Personal Touch Beauty and Barber College",
+    "street": "128 West Mill Street",
+    "city": "Kingstree",
+    "state": "SC",
+    "predominantDegree": "N/A"
   },
   {
     "id": "244428",
@@ -76031,7 +76141,7 @@
   {
     "id": "245388",
     "name": "Austin Career Institute",
-    "street": "Suite H-98, 8711 Burnet Road",
+    "street": "7215 Cameron Road",
     "city": "Austin",
     "state": "TX",
     "lon": -97.726714,
@@ -76160,6 +76270,14 @@
     "logo": "246099_texas_a_m_university_san_antonio.svg"
   },
   {
+    "id": "246141",
+    "name": "Studio 75 Hair Academy",
+    "street": "4970 Navy Road",
+    "city": "Millington",
+    "state": "TN",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "246169",
     "name": "Ray J's College of Hair",
     "street": "1726 Wooddale Court",
@@ -76236,6 +76354,14 @@
     "predominantDegree": "Graduate"
   },
   {
+    "id": "246503",
+    "name": "Boone Career and Technical Center (BCTC)",
+    "street": "Suite B, 3505 Daniel Boone Parkway",
+    "city": "Foster",
+    "state": "WV",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "246549",
     "name": "Congregation Talmidei Mesivta Tiferes Shmiel Aleksander",
     "street": "1535 63rd Street",
@@ -76252,6 +76378,14 @@
     "id": "246585",
     "name": "The Institute of Allied Healthcare",
     "street": "Suite 15, 7434 Louis Pasteur Drive",
+    "city": "San Antonio",
+    "state": "TX",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "246600",
+    "name": "Top of the Line Barber School",
+    "street": "5806 Walzem Road",
     "city": "San Antonio",
     "state": "TX",
     "predominantDegree": "N/A"
@@ -76383,8 +76517,8 @@
   {
     "id": "247630",
     "name": "Sri Sai Krish Institute",
-    "street": "Suite 14, 12362 Beach Boulevard",
-    "city": "Stanton",
+    "street": "5334 E. Chapman Ave.",
+    "city": "Orange",
     "state": "CA",
     "predominantDegree": "N/A"
   },
@@ -76457,6 +76591,14 @@
     "alias": "FPI",
     "population": 12,
     "predominantDegree": "Certificate"
+  },
+  {
+    "id": "248572",
+    "name": "Barbers Trade School",
+    "street": "665 Orleans Street",
+    "city": "Beaumont",
+    "state": "TX",
+    "predominantDegree": "N/A"
   },
   {
     "id": "248730",
@@ -76600,6 +76742,14 @@
     "predominantDegree": "Graduate"
   },
   {
+    "id": "249964",
+    "name": "Academy for Jewish Religion",
+    "street": "28 Wells Ave",
+    "city": "Yonkers",
+    "state": "NY",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "249991",
     "name": "Puerto Rico Aviation Maintenance Institute (PRAMI)",
     "street": "Km. 49.5, Carr. #3, Bo. Quebrada Vueltas",
@@ -76610,9 +76760,9 @@
   {
     "id": "250072",
     "name": "Pathways College",
-    "street": "320 N Halstead St",
-    "city": "Pasadena",
-    "state": "CA",
+    "street": "2226 N. 7th Street Suite 220",
+    "city": "Phoenix",
+    "state": "AZ",
     "lon": -118.078697,
     "lat": 34.152285,
     "domain": "pathwayscollege.org",
@@ -76634,6 +76784,14 @@
     "street": "205 East Elizabeth Street",
     "city": "Brownsville",
     "state": "TX",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "250346",
+    "name": "Chancellor Institute",
+    "street": "Suite 7, 2900 W. Cypress Road",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
     "predominantDegree": "N/A"
   },
   {
@@ -76666,11 +76824,56 @@
     "predominantDegree": "Certificate"
   },
   {
+    "id": "250513",
+    "name": "The Barber Education Academy",
+    "street": "Suite 230, 1505 Calle Del Norte",
+    "city": "Laredo",
+    "state": "TX",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "250559",
     "name": "Great Northern University",
     "street": "611 E. Indiana Avenue",
     "city": "Spokane",
     "state": "WA",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "250568",
+    "name": "Jackson Theological Seminary",
+    "street": "520 North Locust Street",
+    "city": "North Little Rock",
+    "state": "AR",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "250595",
+    "name": "AMDA College of the Performing Arts",
+    "street": "6305 Yucca Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "lon": -73.987549,
+    "lat": 40.772275,
+    "domain": "amda.edu",
+    "alias": "AMDA",
+    "population": 1395,
+    "predominantDegree": "Certificate"
+  },
+  {
+    "id": "250762",
+    "name": "Hello Gorgeous Barbers Stillwater's School of Barbering",
+    "street": "2207 W 6th Avenue",
+    "city": "Stillwater",
+    "state": "OK",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "250771",
+    "name": "Elite Beauty College",
+    "street": "221 North 32nd Street PO Box 1863",
+    "city": "Muskogee",
+    "state": "OK",
     "predominantDegree": "N/A"
   },
   {
@@ -76690,6 +76893,22 @@
     "predominantDegree": "N/A"
   },
   {
+    "id": "250911",
+    "name": "The Salon Professional Academy",
+    "street": "4741 US Highway 9",
+    "city": "Howell",
+    "state": "NJ",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "250948",
+    "name": "Legends Barber College",
+    "street": "1815 West Frank Avenue",
+    "city": "Lufkin",
+    "state": "TX",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "251020",
     "name": "Albert Einstein College of Medicine",
     "street": "1300 Morris Park Avenue  Jack and Pearl Resnick Campus",
@@ -76702,6 +76921,14 @@
     "predominantDegree": "Graduate"
   },
   {
+    "id": "251039",
+    "name": "Commercial Diving Technologies Institute",
+    "street": "17212 US Hwy 19",
+    "city": "Hudson",
+    "state": "FL",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "251075",
     "name": "Turing School of Software & Design",
     "street": "1331 17th Street Suite LL-100",
@@ -76710,11 +76937,27 @@
     "predominantDegree": "N/A"
   },
   {
+    "id": "251145",
+    "name": "Kino College",
+    "street": "Suite 202, 1980 W Hospital Drive",
+    "city": "Tucson",
+    "state": "AZ",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "251154",
     "name": "National Institute of Medical Assistant Advancement, Inc.",
     "street": "Suite 260, 1525 Raleigh Street",
     "city": "Denver",
     "state": "CO",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "251321",
+    "name": "Bridges Christian College",
+    "street": "2524 Napoleon Avenue",
+    "city": "New Orleans",
+    "state": "LA",
     "predominantDegree": "N/A"
   },
   {
@@ -76729,6 +76972,14 @@
     "alias": "COMPTON",
     "population": 3180,
     "predominantDegree": "Associate"
+  },
+  {
+    "id": "251738",
+    "name": "Graham's Barber College",
+    "street": "3016 AL Lipscomb Way",
+    "city": "Dallas",
+    "state": "TX",
+    "predominantDegree": "N/A"
   },
   {
     "id": "251978",
@@ -76791,6 +77042,22 @@
     "predominantDegree": "N/A"
   },
   {
+    "id": "252458",
+    "name": "Academia Medical Institute, LLC",
+    "street": "3445 South Boulevard",
+    "city": "Columbus",
+    "state": "OH",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "252494",
+    "name": "Southern California College of Barber and Beauty",
+    "street": "641 North Broadway",
+    "city": "Escondido",
+    "state": "CA",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "252591",
     "name": "St. Louis College of Health Careers - County",
     "street": "1297 North Highway Drive",
@@ -76815,6 +77082,27 @@
     "alias": "STRATFORD",
     "population": 1682,
     "predominantDegree": "Bachelor"
+  },
+  {
+    "id": "253026",
+    "name": "Premier Barber School",
+    "street": "Suite 107, 8795 Antoine Drive",
+    "city": "Houston",
+    "state": "TX",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "253585",
+    "name": "Great Lakes Boat Building School",
+    "street": "485 S. Meridian Rd.",
+    "city": "Cedarville",
+    "state": "MI",
+    "lon": -84.362578,
+    "lat": 45.992299,
+    "domain": "glbbs.edu",
+    "alias": "GLBBS",
+    "population": 20,
+    "predominantDegree": "Certificate"
   },
   {
     "id": "253895",
@@ -76877,5 +77165,47 @@
     "city": "Louisville",
     "state": "KY",
     "predominantDegree": "N/A"
+  },
+  {
+    "id": "255095",
+    "name": "Larkin University",
+    "street": "18301 North Miami Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "255110",
+    "name": "Fortis College - Dothan",
+    "street": "200 Vulcan Way",
+    "city": "Dothan",
+    "state": "AL",
+    "lon": -85.37446,
+    "lat": 31.243014,
+    "domain": "fortiscollege.edu",
+    "alias": "FORTISCOLLEGE",
+    "population": 165,
+    "predominantDegree": "Certificate"
+  },
+  {
+    "id": "255615",
+    "name": "University of Maine System",
+    "street": "15 Estabrooke Drive",
+    "city": "Orono",
+    "state": "ME",
+    "predominantDegree": "N/A"
+  },
+  {
+    "id": "255846",
+    "name": "Dewey University - Carolina Campus",
+    "street": "Road 3 Compound 11 Lot 7 Carolina Industrial Park",
+    "city": "Carolina",
+    "state": "PR",
+    "lon": -65.958397,
+    "lat": 18.376596,
+    "domain": "dewey.edu",
+    "alias": "DEWEY",
+    "population": 345,
+    "predominantDegree": "Associate"
   }
 ]
