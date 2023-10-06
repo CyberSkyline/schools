@@ -41,7 +41,7 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
 
   json.forEach((object) => {
     const id = object.DapipId;
-    const { IpedsUnitIds : ipedsId, OpeId : opeId, LocationName : locationName, LocationType : locationType, Address : address } = object;
+    const { IpedsUnitIds : ipedsIds, OpeId : opeId, LocationName : locationName, LocationType : locationType, Address : address } = object;
 
     const exception = exceptionsLookup[id];
 
@@ -54,11 +54,18 @@ const collegeScorecardLookupByOpe8Id = _.keyBy(COLLEGE_SCORECARD, 'ope8Id');
     const [ state ] = stateAndZip.split(' ');
 
     const ope8Id = _.padStart(opeId, 8, '0');
-    const collegeScorecard = collegeScorecardLookupByIpedsId[ipedsId] || collegeScorecardLookupByOpe8Id[ope8Id];
+    let collegeScorecard;
+    if (_.includes(ipedsIds, ',')) {
+      const ids = _.chain(ipedsIds).split(',').map(_.trim).value();
+      _.each(ids, (ipedsId) => {
+        collegeScorecard = collegeScorecard || collegeScorecardLookupByIpedsId[ipedsId];
+      });
+    }
+    collegeScorecard = collegeScorecard || collegeScorecardLookupByIpedsId[ipedsIds] || collegeScorecardLookupByOpe8Id[ope8Id];
 
     const numLocations = parentInstitutionLookup[id] || 0;
 
-    if (!collegeScorecard && !exception && !ipedsId && !opeId && numLocations <= 5) {
+    if (!collegeScorecard && !exception && !ipedsIds && !opeId && numLocations <= 5) {
       return;
     }
 
