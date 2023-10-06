@@ -87,5 +87,15 @@
   {
     "id": "320006000977",
     "population": 500
+  },
+  {
+    "id": "00297281",
+    "name": "George Walton Academy",
+    "street": "1 Bulldog Dr",
+    "city": "Monroe",
+    "state": "GA",
+    "zip": "30655",
+    "population": 692,
+    "type": "PRIVATE"
   }
 ]
