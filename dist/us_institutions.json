@@ -66,7 +66,8 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
+    ],
+    "logo": "100052_university_of_alabama_at_huntsville.svg"
   },
   {
     "id": "100061",
@@ -2536,7 +2537,8 @@
     "domain": "calbaptist.edu",
     "alias": "CBU",
     "population": 8234,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102766_california_baptist_university.svg"
   },
   {
     "id": "102784",
@@ -7375,7 +7377,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "107798_red_rocks_community_college.svg"
   },
   {
     "id": "107804",
@@ -13654,7 +13657,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "114026_rock_valley_college.svg"
   },
   {
     "id": "114035",
@@ -16401,7 +16405,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-R"
-    ]
+    ],
+    "logo": "117016_kansas_state_university.svg"
   },
   {
     "id": "117025",
@@ -17425,7 +17430,8 @@
     "domain": "bigsandy.kctcs.edu",
     "alias": "KCTCS",
     "population": 1690,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "117982_big_sandy_community_and_technical_college.svg"
   },
   {
     "id": "118028",
@@ -20425,7 +20431,8 @@
     "domain": "umass.edu",
     "alias": "UMass Amherst",
     "population": 23947,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "121354_university_of_massachusetts_amherst.svg"
   },
   {
     "id": "121363",
@@ -20491,7 +20498,8 @@
     "domain": "web.mit.edu",
     "alias": "MIT, M.I.T.",
     "population": 4629,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "121415_massachusetts_institute_of_technology.svg"
   },
   {
     "id": "121424",
@@ -27077,7 +27085,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "128249_hudson_county_community_college.svg"
   },
   {
     "id": "128258",
@@ -31824,7 +31833,8 @@
     "domain": "blueridge.edu",
     "alias": "BLUERIDGE",
     "population": 1830,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "133155_blue_ridge_community_college.png"
   },
   {
     "id": "133164",
@@ -31884,7 +31894,8 @@
     "domain": "cccti.edu",
     "alias": "CCCTI",
     "population": 2195,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "133207_caldwell_community_college_and_technical_institute.png"
   },
   {
     "id": "133216",
@@ -32288,7 +32299,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "133517_guilford_technical_community_college.png"
   },
   {
     "id": "133526",
@@ -33141,7 +33153,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "134237_stanly_community_college.png"
   },
   {
     "id": "134246",
@@ -34255,7 +34268,8 @@
     "domain": "csuohio.edu",
     "alias": "CSUOHIO",
     "population": 10208,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "135346_cleveland_state_university.svg"
   },
   {
     "id": "135355",
@@ -35030,7 +35044,8 @@
     "domain": "northweststate.edu",
     "alias": "NORTHWESTSTATE",
     "population": 966,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "136288_northwest_state_community_college.svg"
   },
   {
     "id": "136297",
@@ -35783,7 +35798,8 @@
     "domain": "wittenberg.edu",
     "alias": "WittenbergWittenburgWittenburg University",
     "population": 1256,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137218_wittenberg_university.svg"
   },
   {
     "id": "137227",
@@ -36070,7 +36086,8 @@
     "domain": "langston.edu",
     "alias": "LANGSTON",
     "population": 1814,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137494_langston_university.png"
   },
   {
     "id": "137500",
@@ -36345,7 +36362,8 @@
     "domain": "rsu.edu",
     "alias": "RSURogers UniversityRogers State CollegeClaremore Junior CollegeClaremore Jr. CollegeCJCOklahoma Military AcademyOMAEastern University Preparatory School",
     "population": 2591,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137731_rogers_state_university.svg"
   },
   {
     "id": "137740",
@@ -38695,7 +38713,8 @@
     "domain": "messiah.edu",
     "alias": "MESSIAH",
     "population": 2350,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "140304_messiah_university.svg"
   },
   {
     "id": "140322",
@@ -42401,7 +42420,8 @@
     "domain": "northeaststate.edu",
     "alias": "Northeast State Technical Community College",
     "population": 4289,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "144111_northeast_state_community_college.png"
   },
   {
     "id": "144120",
@@ -45145,7 +45165,8 @@
     "domain": "utahtech.edu",
     "alias": "UT",
     "population": 8796,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "146834_utah_tech_university.svg"
   },
   {
     "id": "146843",
@@ -47013,7 +47034,8 @@
     "domain": "cptc.edu",
     "alias": "CPTCClover PkClover ParkClover Park Tech",
     "population": 1184,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "148548_clover_park_technical_college.svg"
   },
   {
     "id": "148557",
@@ -47565,7 +47587,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "149064_south_puget_sound_community_college.png"
   },
   {
     "id": "149073",
@@ -48058,7 +48081,8 @@
     "domain": "wvup.edu",
     "alias": "WVUP",
     "population": 1607,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "149550_west_virginia_university_at_parkersburg.png"
   },
   {
     "id": "149578",
@@ -50775,7 +50799,8 @@
     "state": "NC",
     "domain": "ecpi.edu",
     "alias": "ECPI",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "logo": "152619008_ecpi_university_raleigh.png"
   },
   {
     "id": "152619009",
@@ -51353,7 +51378,8 @@
     "domain": "metrotech.edu",
     "alias": "METROTECH",
     "population": 2030,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "153481_metro_technology_centers_springlake.svg"
   },
   {
     "id": "153490",
@@ -51856,7 +51882,8 @@
     "domain": "laspositascollege.edu",
     "alias": "LASPOSITASCOLLEGE",
     "population": 6483,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "154299_las_positas_college.svg"
   },
   {
     "id": "154305",
@@ -57041,7 +57068,8 @@
     "domain": "alamo.edu",
     "alias": "ALAMO",
     "population": 12720,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "163277_northwest_vista_college.svg"
   },
   {
     "id": "163295",
@@ -58295,7 +58323,8 @@
     "domain": "cnicollege.edu",
     "alias": "CNI College",
     "population": 699,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "165671_career_networks_institute_dba_cni_college.png"
   },
   {
     "id": "165699",
