@@ -204,7 +204,10 @@
     "domain": "escc.edu",
     "alias": "Enterprise-Ozark Community College Enterprise State Junior College",
     "population": 1336,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100229",
@@ -382,7 +385,10 @@
     "domain": "jeffersonstate.edu",
     "alias": "Jeff State  JSCC  Jefferson State",
     "population": 6143,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "100405",
@@ -2811,10 +2817,6 @@
     "alias": "UC Davis",
     "population": 31637,
     "predominantDegree": "Bachelor",
-    "designations": [
-      "CAE-CD",
-      "CAE-R"
-    ],
     "logo": "103024_university_of_california_davis.svg"
   },
   {
@@ -5060,8 +5062,8 @@
     "predominantDegree": "Graduate",
     "designations": [
       "CAE-CD",
-      "CAE-R",
-      "CAE-CO"
+      "CAE-CO",
+      "CAE-R"
     ],
     "logo": "105525_naval_postgraduate_school.svg"
   },
@@ -8032,6 +8034,9 @@
     "alias": "QU",
     "population": 6243,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "108472_quinnipiac_university.svg"
   },
   {
@@ -8145,6 +8150,9 @@
     "alias": "USCGA",
     "population": 1049,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "108612_united_states_coast_guard_academy.svg"
   },
   {
@@ -8454,6 +8462,9 @@
     "alias": "HU",
     "population": 8902,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "108913_howard_university.svg"
   },
   {
@@ -9671,6 +9682,9 @@
     "alias": "PALMBEACHSTATE",
     "population": 20631,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "110149_palm_beach_state_college.jpg"
   },
   {
@@ -10085,6 +10099,9 @@
     "alias": "FL",
     "population": 10653,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "110529_tallahassee_community_college.svg"
   },
   {
@@ -10112,6 +10129,9 @@
     "alias": "UT",
     "population": 9838,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "110565_the_university_of_tampa.png"
   },
   {
@@ -10895,6 +10915,9 @@
     "alias": "GEORGIASOUTHERN",
     "population": 22404,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "111328_georgia_southern_university.svg"
   },
   {
@@ -11096,7 +11119,10 @@
     "domain": "centralgatech.edu",
     "alias": "CGTC",
     "population": 5531,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "111498",
@@ -11893,9 +11919,6 @@
     "alias": "NIC",
     "population": 3018,
     "predominantDegree": "Certificate",
-    "designations": [
-      "CAE-CD"
-    ],
     "logo": "112233_north_idaho_college.svg"
   },
   {
@@ -12118,6 +12141,9 @@
     "alias": "BRADLEY",
     "population": 4319,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "112473_bradley_university.svg"
   },
   {
@@ -13108,10 +13134,7 @@
     "domain": "llcc.edu",
     "alias": "LLCC  Lincoln Land",
     "population": 3959,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "113528",
@@ -14107,6 +14130,9 @@
     "alias": "ANDERSON",
     "population": 1137,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "114521_anderson_university.svg"
   },
   {
@@ -15231,6 +15257,9 @@
     "alias": "Eastern Iowa Community Colleges",
     "population": 3435,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "115904_eastern_iowa_community_college_district.png"
   },
   {
@@ -18809,6 +18838,9 @@
     "alias": "BCCC",
     "population": 3171,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "119845_baltimore_city_community_college.svg"
   },
   {
@@ -19122,7 +19154,6 @@
     "population": 5727,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD",
       "CAE-R"
     ],
     "logo": "120120_johns_hopkins_university.svg"
@@ -19486,6 +19517,7 @@
     "population": 4528,
     "predominantDegree": "Bachelor",
     "designations": [
+      "CAE-CD",
       "CAE-CO"
     ]
   },
@@ -19649,7 +19681,10 @@
     "domain": "assumption.edu",
     "alias": "ASSUMPTION",
     "population": 1896,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "120643",
@@ -20748,8 +20783,7 @@
     "population": 15645,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-R",
-      "CAE-CO"
+      "CAE-R"
     ],
     "logo": "121716_northeastern_university.svg"
   },
@@ -22824,7 +22858,10 @@
     "domain": "hennepintech.edu",
     "alias": "HENNEPINTECH",
     "population": 2966,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "123688",
@@ -23261,7 +23298,10 @@
     "domain": "sctcc.edu",
     "alias": "SCTCC",
     "population": 3083,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "124256",
@@ -23868,7 +23908,10 @@
     "domain": "mgccc.edu",
     "alias": "MGCCC",
     "population": 6633,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "124849",
@@ -26375,6 +26418,9 @@
     "alias": "SNHU",
     "population": 119248,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "127565_southern_new_hampshire_university.svg"
   },
   {
@@ -27375,7 +27421,6 @@
     "population": 35827,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-CD",
       "CAE-R"
     ],
     "logo": "128629_rutgers_the_state_university_of_new_jersey.svg"
@@ -32707,7 +32752,10 @@
     "domain": "nccu.edu",
     "alias": "NCCU",
     "population": 5323,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "133924",
@@ -33090,7 +33138,10 @@
     "domain": "stanly.edu",
     "alias": "Stanly Technical College Stanly Technical InstituteStanley Technical College Stanley Community College Stanley Technical Institute Stanly Tech Stanley Tech",
     "population": 1638,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "134246",
@@ -35415,7 +35466,10 @@
     "domain": "starkstate.edu",
     "alias": "Stark State College",
     "population": 6992,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "136923",
@@ -44408,6 +44462,9 @@
     "alias": "Tarrant County College",
     "population": 35075,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "146171_tarrant_county_college_district.svg"
   },
   {
@@ -46512,10 +46569,7 @@
     "domain": "vpcc.edu",
     "alias": "Thomas Nelson Community College",
     "population": 4327,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "148177",
@@ -46594,8 +46648,7 @@
     "population": 29699,
     "predominantDegree": "Bachelor",
     "designations": [
-      "CAE-R",
-      "CAE-CO"
+      "CAE-R"
     ],
     "logo": "148229_virginia_polytechnic_institute_and_state_university.svg"
   },
@@ -46701,6 +46754,9 @@
     "alias": "VSU",
     "population": 3886,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "148292_virginia_state_university.svg"
   },
   {
@@ -47038,10 +47094,7 @@
     "domain": "edmonds.edu",
     "alias": "Edmonds",
     "population": 3839,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "148618",
@@ -47509,7 +47562,10 @@
     "domain": "spscc.edu",
     "alias": "SPSCC",
     "population": 3450,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "149073",
@@ -47899,6 +47955,9 @@
     "alias": "MARSHALL",
     "population": 7175,
     "predominantDegree": "Bachelor",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "149444_marshall_university.svg"
   },
   {
@@ -48856,6 +48915,9 @@
     "alias": "Northwood Tech",
     "population": 2183,
     "predominantDegree": "Certificate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "150455_wisconsin_indianhead_technical_college.svg"
   },
   {
@@ -50365,6 +50427,9 @@
     "alias": "ALAMO",
     "population": 7624,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "152132_palo_alto_college.svg"
   },
   {
@@ -52080,7 +52145,10 @@
     "domain": "nwacc.edu",
     "alias": "NWACC",
     "population": 4872,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "154721",
@@ -55368,10 +55436,7 @@
     "domain": "southtexascollege.edu",
     "alias": "South Texas Community College",
     "population": 19668,
-    "predominantDegree": "Associate",
-    "designations": [
-      "CAE-CD"
-    ]
+    "predominantDegree": "Associate"
   },
   {
     "id": "160542",
@@ -57379,7 +57444,10 @@
     "street": "Bldg 62 - Marshall Hall",
     "city": "Fort McNair",
     "state": "DC",
-    "predominantDegree": "N/A"
+    "predominantDegree": "N/A",
+    "designations": [
+      "CAE-CD"
+    ]
   },
   {
     "id": "163921",
@@ -75005,6 +75073,9 @@
     "alias": "ALAMO",
     "population": 5463,
     "predominantDegree": "Associate",
+    "designations": [
+      "CAE-CD"
+    ],
     "logo": "239062_northeast_lakeview_college.svg"
   },
   {

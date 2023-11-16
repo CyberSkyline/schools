@@ -24,6 +24,12 @@
     ]
   },
   {
+    "school": "Anderson University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Anne Arundel Community College",
     "designations": [
       "CAE-CD"
@@ -39,6 +45,12 @@
     "school": "Arizona State University",
     "designations": [
       "CAE-R"
+    ]
+  },
+  {
+    "school": "Assumption University",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
@@ -69,6 +81,12 @@
   },
   {
     "school": "Baker College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Baltimore City Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -153,6 +171,12 @@
     ]
   },
   {
+    "school": "Bradley University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Brigham Young University",
     "designations": [
       "CAE-CD"
@@ -231,6 +255,12 @@
     "designations": [
       "CAE-CD",
       "CAE-CO"
+    ]
+  },
+  {
+    "school": "Central Georgia Technical College",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
@@ -483,6 +513,12 @@
     ]
   },
   {
+    "school": "Eastern Iowa Community College District",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Eastern Michigan University",
     "designations": [
       "CAE-CD"
@@ -507,12 +543,6 @@
     ]
   },
   {
-    "school": "Edmonds Community College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "El Paso Community College District",
     "designations": [
       "CAE-CD"
@@ -526,6 +556,12 @@
   },
   {
     "school": "Embry-Riddle Aeronautical University - Prescott",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Enterprise State Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -660,6 +696,12 @@
     ]
   },
   {
+    "school": "Georgia Southern University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Georgia State University",
     "designations": [
       "CAE-CD",
@@ -733,6 +775,12 @@
     ]
   },
   {
+    "school": "Hennepin Technical College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Henry Ford College",
     "designations": [
       "CAE-CD"
@@ -770,6 +818,12 @@
   },
   {
     "school": "Howard Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Howard University",
     "designations": [
       "CAE-CD"
     ]
@@ -856,6 +910,12 @@
   },
   {
     "school": "James Madison University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Jefferson State Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -951,12 +1011,6 @@
     ]
   },
   {
-    "school": "Lincoln Land Community College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "Long Beach City College",
     "designations": [
       "CAE-CD"
@@ -995,6 +1049,12 @@
   },
   {
     "school": "Marquette University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Marshall University",
     "designations": [
       "CAE-CD"
     ]
@@ -1067,6 +1127,12 @@
   },
   {
     "school": "Minot State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Mississippi Gulf Coast Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -1146,6 +1212,12 @@
     ]
   },
   {
+    "school": "National Defense University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "National University",
     "designations": [
       "CAE-CD"
@@ -1155,8 +1227,8 @@
     "school": "Naval Postgraduate School",
     "designations": [
       "CAE-CD",
-      "CAE-R",
-      "CAE-CO"
+      "CAE-CO",
+      "CAE-R"
     ]
   },
   {
@@ -1217,6 +1289,12 @@
     ]
   },
   {
+    "school": "North Carolina Central University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "North Carolina State University",
     "designations": [
       "CAE-R"
@@ -1226,12 +1304,6 @@
     "school": "North Dakota State University",
     "designations": [
       "CAE-R"
-    ]
-  },
-  {
-    "school": "North Idaho College",
-    "designations": [
-      "CAE-CD"
     ]
   },
   {
@@ -1247,10 +1319,15 @@
     ]
   },
   {
+    "school": "Northeast Lakeview College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Northeastern University",
     "designations": [
-      "CAE-R",
-      "CAE-CO"
+      "CAE-R"
     ]
   },
   {
@@ -1267,6 +1344,18 @@
   },
   {
     "school": "Northern Virginia Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "NorthWest Arkansas Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Northwood Technical College",
     "designations": [
       "CAE-CD"
     ]
@@ -1334,6 +1423,18 @@
   },
   {
     "school": "Pace University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Palm Beach State College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Palo Alto College",
     "designations": [
       "CAE-CD"
     ]
@@ -1412,6 +1513,12 @@
   },
   {
     "school": "Purdue University Northwest",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Quinnipiac University",
     "designations": [
       "CAE-CD"
     ]
@@ -1504,7 +1611,6 @@
   {
     "school": "Rutgers, The State University of New Jersey",
     "designations": [
-      "CAE-CD",
       "CAE-R"
     ]
   },
@@ -1581,7 +1687,7 @@
     ]
   },
   {
-    "school": "South Texas College",
+    "school": "South Puget Sound Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -1600,6 +1706,12 @@
   },
   {
     "school": "Southern Methodist University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Southern New Hampshire University",
     "designations": [
       "CAE-CD"
     ]
@@ -1624,6 +1736,12 @@
   },
   {
     "school": "Saint Cloud State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "St. Cloud Technical and Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -1659,6 +1777,18 @@
     ]
   },
   {
+    "school": "Stanly Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Stark State College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Stevens Institute of Technology",
     "designations": [
       "CAE-CD",
@@ -1686,6 +1816,18 @@
   },
   {
     "school": "Talladega College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Tallahassee Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Tarrant County College District",
     "designations": [
       "CAE-CD"
     ]
@@ -1755,7 +1897,6 @@
   {
     "school": "Johns Hopkins University",
     "designations": [
-      "CAE-CD",
       "CAE-R"
     ]
   },
@@ -1793,6 +1934,12 @@
     ]
   },
   {
+    "school": "The University of Tampa",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "The University of Tennessee - Chattanooga",
     "designations": [
       "CAE-CD"
@@ -1804,12 +1951,6 @@
       "CAE-CD",
       "CAE-R",
       "CAE-CO"
-    ]
-  },
-  {
-    "school": "Virginia Peninsula Community College",
-    "designations": [
-      "CAE-CD"
     ]
   },
   {
@@ -1851,8 +1992,15 @@
     ]
   },
   {
+    "school": "United States Coast Guard Academy",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "United States Naval Academy",
     "designations": [
+      "CAE-CD",
       "CAE-CO"
     ]
   },
@@ -1886,13 +2034,6 @@
     "school": "University of Arkansas at Little Rock",
     "designations": [
       "CAE-CD"
-    ]
-  },
-  {
-    "school": "University of California - Davis",
-    "designations": [
-      "CAE-CD",
-      "CAE-R"
     ]
   },
   {
@@ -2338,8 +2479,13 @@
   {
     "school": "Virginia Polytechnic Institute and State University",
     "designations": [
-      "CAE-R",
-      "CAE-CO"
+      "CAE-R"
+    ]
+  },
+  {
+    "school": "Virginia State University",
+    "designations": [
+      "CAE-CD"
     ]
   },
   {
