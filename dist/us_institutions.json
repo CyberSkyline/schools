@@ -50792,6 +50792,16 @@
     "logo": "152619_ecpi_university.png"
   },
   {
+    "id": "152619004",
+    "name": "ECPI University - Charlotte",
+    "street": "4800 Airport Center Parkway",
+    "city": "Charlotte",
+    "state": "NC",
+    "domain": "ecpi.edu",
+    "alias": "ECPI",
+    "predominantDegree": "N/A"
+  },
+  {
     "id": "152619008",
     "name": "ECPI University - Raleigh",
     "street": "4101 Doie Cope Road",
