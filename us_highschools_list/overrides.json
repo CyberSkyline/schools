@@ -87,5 +87,15 @@
     "zip": "22124",
     "population": 1014,
     "type": "PRIVATE"
+  },
+  {
+    "id": "2011640CAATC",
+    "name": "Shawnee Mission Center for Academic Achievement",
+    "street": "8200 West 71st Street",
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "zip": "66204",
+    "population": 100,
+    "type": "PUBLIC"
   }
 ]
