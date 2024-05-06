@@ -110,11 +110,9 @@ const MAPPINGS = {
 
   const output = _.flatMap($('.cae-map--data'), (entry) => {
     const $entry = $(entry);
-    const name = $entry.find('.cae-map--title').text().trim();
-    const designations = _.map($entry.find('.designation-name'), (designation) => $(designation).text().trim());
-    const stateName = $entry.parent().siblings().text().trim();
-
-    const { abbreviation } = _.find(states, ({ name : fullName }) => _.lowerCase(stateName) === _.lowerCase(fullName));
+    //Updates to the CAE site: have to sanatize name, changed location of the designation in the html
+    const name = $entry.find('.cae-map--title').text().trim().replace(/^\+\s*/, '');
+    const designations = _.map($entry.parent().siblings().find('.designation-name'), (designation) => $(designation).text().trim());
 
     const correctName = MAPPINGS[name];
     if (correctName === null) return []; // explicit skip
