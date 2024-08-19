@@ -97,5 +97,16 @@
     "zip": "66204",
     "population": 100,
     "type": "PUBLIC"
+  },
+  {
+    "id": "2903408",
+    "name": "Summit Technology Academy",
+    "street": "301 NE Tudor Rd",
+    "city": "Lee's Summit",
+    "state": "MO",
+    "zip": "64086",
+    "population": 100,
+    "type": "PRIVATE"
   }
 ]
+

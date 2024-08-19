@@ -9,5 +9,15 @@
     "population": 19000,
     "predominantDegree": "Bachelor",
     "logo": "5117_macewan_university.svg"
-  }
+  },
+  {
+    "id": "020365",
+    "name": "Ontario Tech University",
+    "street": "2000 Simcoe Street North",
+    "city": "Oshawa",
+    "province": "ON",
+    "domain": "ontariotechu.ca",
+    "population": 10000,
+    "predominantDegree": "Bachelor",
+  },
 ]
