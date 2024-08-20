@@ -107,6 +107,17 @@
     "zip": "64086",
     "population": 100,
     "type": "PRIVATE"
+  },
+  {
+    "id": "040061503525",
+    "name": "West-MEC - Southwest Campus",
+    "street": "500 N VERRADO WAY",
+    "city": "Buckeye",
+    "state": "AZ",
+    "zip": "85326",
+    "agency": "West-MEC - Western Maricopa Education Center (80923)",
+    "population": 26,
+    "type": "PUBLIC"
   }
 ]
 
