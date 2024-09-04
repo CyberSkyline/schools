@@ -118,6 +118,24 @@
     "agency": "West-MEC - Western Maricopa Education Center (80923)",
     "population": 26,
     "type": "PUBLIC"
+  },
+  {
+    "id" : "A0770599",
+    "name" : "Stratford Preparatory",
+    "street" : "3800 Blackford Avenue",
+    "city" : "San Jose",
+    "state" : "CA",
+    "zip" : "95117",
+    "type" : "PRIVATE"
+  },
+  {
+    "id" : "320006000463",
+    "name" : "College of Southern Nevada High School",
+    "street" : "700 College Dr",
+    "city" : "Henderson",
+    "state" : "NV",
+    "zip" : "89002",
+    "type" : "PUBLIC"
   }
 ]
 
