@@ -136,6 +136,24 @@
     "state" : "NV",
     "zip" : "89002",
     "type" : "PUBLIC"
+  },
+  {
+    "id" : "4901140CTHS",
+    "name" : "Career Tech High School",
+    "street" : "1001 White Dome Dr",
+    "city" : "St. George",
+    "state" : "UT",
+    "zip" : "84790",
+    "type" : "PUBLIC"
+  },
+  {
+    "id" : "510027000109",
+    "name" : "Technical Education & Career Center",
+    "street" : "816 S Walter Reed Dr",
+    "city" : "Arlington",
+    "state" : "VA",
+    "zip" : "22204",
+    "type" : "PUBLIC"
   }
 ]
 

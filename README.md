@@ -35,6 +35,8 @@ Inside the `us_highschools_list` directory:
 
 In each directory, there's an `exceptions.json` which you can add in additional schools. Run `create_list.js` again to create the list. The final list should be in the `dist` directory.
 
+When adding new high schools as exceptions, try to obtain the NCES ID of the school district and use the school district's ID as the prefix for the school id. You can use the abbreviation of the school name as the suffix of the school id. (e.g. `4901140CTHS` for Career Tech High School, which is in Washington District (4901140))
+
 ### Boosting search ranking
 
 The default ranking is based on the school's population, but some times large population schools may not necessarily be participating in our events, so we can boost their score by adding their school ID and the boost value (some value less than 10 should suffice, adjust to taste) to the `score_boost.json` file.
