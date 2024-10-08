@@ -154,6 +154,15 @@
     "state" : "VA",
     "zip" : "22204",
     "type" : "PUBLIC"
+  },
+  {
+    "id" : "CAHSSISLER",
+    "name" : "Sisler High School",
+    "street" : "1360 Redwood Avenue",
+    "city" : "Winnipeg",
+    "state" : "OT",
+    "zip" : "R3Y 0Z1",
+    "type" : "PUBLIC"
   }
 ]
 
