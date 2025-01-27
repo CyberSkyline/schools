@@ -19,5 +19,13 @@
     "domain": "ontariotechu.ca",
     "population": 10000,
     "predominantDegree": "Bachelor"
+  },
+  {
+    "id": "CAUNICARLETON",
+    "name": "Carleton University",
+    "street": "1125 Colonel By Drive",
+    "city": "Ottawa",
+    "province": "ON",
+    "domain": "carleton.ca"
   }
 ]
