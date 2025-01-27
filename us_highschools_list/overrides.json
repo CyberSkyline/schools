@@ -167,6 +167,42 @@
   {
     "id" : "190897002268",
     "name" : "Central Campus, Des Moines Public Schools"
+  },
+  {
+    "id" : "CAHSWESTVANCOUVERSECONDARY",
+    "name" : "West Vancouver Secondary School",
+    "street" : "1750 Mathers Avenue",
+    "city" : "West Vancouver",
+    "state" : "BC",
+    "zip" : "V7V 2G7",
+    "type" : "PUBLIC"
+  },
+  {
+    "id" : "510002801504",
+    "name" : "Shenandoah Valley Governor's School",
+    "street" : "49 Hornet Road",
+    "city" : "Fishersville",
+    "state" : "VA",
+    "zip" : "22939",
+    "type" : "PUBLIC"
+  },
+  {
+    "id" : "A1902690",
+    "name" : "The Pembroke Hill School - Wornall Campus",
+    "street" : "400 W 51st St",
+    "city" : "Kansas City",
+    "state" : "MO",
+    "zip" : "64112",
+    "type" : "PRIVATE"
+  },
+  {
+    "id" : "440774105122322",
+    "name" : "Lorain County Joint Vocational School",
+    "street" : "15181 St Rte 58 S",
+    "city" : "Oberlin",
+    "state" : "OH",
+    "zip" : "44074",
+    "type" : "PUBLIC"
   }
 ]
 
