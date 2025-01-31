@@ -27,5 +27,13 @@
     "city": "Ottawa",
     "province": "ON",
     "domain": "carleton.ca"
+  },
+  {
+    "id": "CAUNIGUELPH",
+    "name": "University of Guelph",
+    "street": "50 Stone Rd E",
+    "city": "Guelph",
+    "province": "ON",
+    "domain": "uoguelph.ca"
   }
 ]
