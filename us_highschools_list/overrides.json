@@ -203,6 +203,15 @@
     "state" : "OH",
     "zip" : "44074",
     "type" : "PUBLIC"
+  },
+  {
+    "id" : "360110006402",
+    "name" : "Brooklyn Urban Garden Charter School",
+    "street" : "500 19th St",
+    "city" : "Brooklyn",
+    "state" : "NY",
+    "zip" : "11215",
+    "type" : "PUBLIC"
   }
 ]
 
