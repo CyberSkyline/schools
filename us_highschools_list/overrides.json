@@ -212,6 +212,15 @@
     "state" : "NY",
     "zip" : "11215",
     "type" : "PUBLIC"
+  },
+  {
+    "id" : "510225003075",
+    "name" : "Academies Of Loudoun",
+    "street" : "42075 Loudoun Academy Drive",
+    "city" : "Leesburg",
+    "state" : "VA",
+    "zip" : "20175",
+    "type" : "PUBLIC"
   }
 ]
 
