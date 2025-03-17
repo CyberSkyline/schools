@@ -77317,5 +77317,14 @@
     "city": "Jacksonville",
     "state": "FL",
     "predominantDegree": "N/A"
+  },
+  {
+    "id": "150299",
+    "name": "Francis Tuttle Technology Center - Danforth",
+    "street": "3841 E. Danforth Road",
+    "city": "Edmond",
+    "state": "OK",
+    "domain": "francistuttle.edu",
+    "alias": "FRANCISTUTTLE"
   }
 ]
