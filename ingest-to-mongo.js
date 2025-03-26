@@ -19,7 +19,12 @@ async function main() {
   console.log(`Processing ${colleges.length + canadaColleges.length} colleges`);
   const bulkCollege = collection.initializeUnorderedBulkOp();
   _.each(colleges, (college) => {
-    bulkCollege.find({ eduId : college.id, level : 'UC' }).upsert().updateOne({
+    bulkCollege.find({
+      $or: [
+      { eduId: college.id, level: 'UC' },
+      { name: college.name, city: college.city, subdivision: college.state, level: 'UC' }
+      ]
+    }).upsert().updateOne({
       $set : {
         eduId : college.id,
         name : college.name,
@@ -42,7 +47,12 @@ async function main() {
     });
   });
   _.each(canadaColleges, (college) => {
-    bulkCollege.find({ eduId : college.id, level : 'UC' }).upsert().updateOne({
+    bulkCollege.find({
+      $or: [
+      { eduId: college.id, level: 'UC' },
+      { name: college.name, city: college.city, subdivision: college.province, level: 'UC' }
+      ]
+    }).upsert().updateOne({
       $set : {
         eduId : college.id,
         name : college.name,
@@ -69,7 +79,12 @@ async function main() {
   console.log(`Processing ${highschools.length} highschools`);
   const bulkHS = collection.initializeUnorderedBulkOp();
   _.each(highschools, (highschool) => {
-    bulkHS.find({ eduId : highschool.id, level : 'HS' }).upsert().updateOne({
+    bulkCollege.find({
+      $or: [
+      { eduId: college.id, level: 'HS' },
+      { name: college.name, city: college.city, subdivision: college.state, level: 'HS' }
+      ]
+    }).upsert().updateOne({
       $set : {
         eduId : highschool.id,
         name : highschool.name,
