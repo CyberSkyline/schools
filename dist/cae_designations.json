@@ -42,12 +42,6 @@
     ]
   },
   {
-    "school": "Arizona State University",
-    "designations": [
-      "CAE-R"
-    ]
-  },
-  {
     "school": "Assumption University",
     "designations": [
       "CAE-CD"
@@ -76,7 +70,8 @@
   {
     "school": "Augusta University",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -111,7 +106,7 @@
     ]
   },
   {
-    "school": "SUNY at Binghamton",
+    "school": "Binghamton University",
     "designations": [
       "CAE-R"
     ]
@@ -184,6 +179,12 @@
     ]
   },
   {
+    "school": "Bristol Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Brookdale Community College",
     "designations": [
       "CAE-CD"
@@ -203,6 +204,12 @@
   },
   {
     "school": "California State Polytechnic University, Pomona",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "California State University, Chico",
     "designations": [
       "CAE-CD"
     ]
@@ -392,6 +399,12 @@
     ]
   },
   {
+    "school": "Colorado Christian University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Colorado Mesa University",
     "designations": [
       "CAE-CD"
@@ -435,6 +448,12 @@
   },
   {
     "school": "Columbus State University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Community College of Allegheny County",
     "designations": [
       "CAE-CD"
     ]
@@ -515,6 +534,12 @@
   },
   {
     "school": "Drexel University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Duke University",
     "designations": [
       "CAE-CD"
     ]
@@ -604,6 +629,12 @@
     ]
   },
   {
+    "school": "Fairfield University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Fairleigh Dickinson University",
     "designations": [
       "CAE-CD"
@@ -648,6 +679,12 @@
   },
   {
     "school": "Florida Memorial University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Florida State College at Jacksonville",
     "designations": [
       "CAE-CD"
     ]
@@ -753,12 +790,6 @@
   },
   {
     "school": "Grand Valley State University",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
-    "school": "Montana State University - Great Falls College of Technology",
     "designations": [
       "CAE-CD"
     ]
@@ -970,6 +1001,12 @@
     ]
   },
   {
+    "school": "Johnston Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Kansas State University",
     "designations": [
       "CAE-R"
@@ -1001,6 +1038,12 @@
     ]
   },
   {
+    "school": "LaGuardia Community College, CUNY",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Lakeland Community College",
     "designations": [
       "CAE-CD"
@@ -1008,6 +1051,12 @@
   },
   {
     "school": "Lansing Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Laramie County Community College",
     "designations": [
       "CAE-CD"
     ]
@@ -1110,6 +1159,12 @@
     ]
   },
   {
+    "school": "Mercer University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Mercy University",
     "designations": [
       "CAE-CD"
@@ -1124,7 +1179,8 @@
   {
     "school": "Metropolitan State University",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-CO"
     ]
   },
   {
@@ -1240,6 +1296,12 @@
   },
   {
     "school": "Mountain Empire Community College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Mountwest Community and Technical College",
     "designations": [
       "CAE-CD"
     ]
@@ -1553,12 +1615,6 @@
     ]
   },
   {
-    "school": "Pittsburgh Technical College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "Universidad Politecnica de Puerto Rico",
     "designations": [
       "CAE-CD"
@@ -1626,6 +1682,12 @@
   },
   {
     "school": "Regis University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "Rhode Island College",
     "designations": [
       "CAE-CD"
     ]
@@ -1734,6 +1796,12 @@
     ]
   },
   {
+    "school": "Saint Peter's University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Saint Vincent College and Seminary",
     "designations": [
       "CAE-CD"
@@ -1747,6 +1815,18 @@
   },
   {
     "school": "San Antonio College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "San Jacinto College",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "San Jose State University",
     "designations": [
       "CAE-CD"
     ]
@@ -1891,6 +1971,12 @@
     ]
   },
   {
+    "school": "Stevenson University",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
     "school": "Stillman College",
     "designations": [
       "CAE-CD"
@@ -2016,7 +2102,8 @@
   {
     "school": "Ohio State University",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-R"
     ]
   },
   {
@@ -2168,12 +2255,6 @@
     ]
   },
   {
-    "school": "University of Arkansas at Little Rock",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "University of California - Davis",
     "designations": [
       "CAE-R"
@@ -2214,7 +2295,8 @@
   {
     "school": "University of Colorado at Colorado Springs",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-R"
     ]
   },
   {
@@ -2336,6 +2418,12 @@
   },
   {
     "school": "University of Maine at Augusta",
+    "designations": [
+      "CAE-CD"
+    ]
+  },
+  {
+    "school": "University of Mary",
     "designations": [
       "CAE-CD"
     ]
@@ -2548,9 +2636,16 @@
     ]
   },
   {
+    "school": "University of Tennessee, Knoxville",
+    "designations": [
+      "CAE-R"
+    ]
+  },
+  {
     "school": "The University of Texas at Dallas",
     "designations": [
-      "CAE-CD"
+      "CAE-CD",
+      "CAE-R"
     ]
   },
   {
@@ -2636,12 +2731,6 @@
     ]
   },
   {
-    "school": "Valley Forge Military College",
-    "designations": [
-      "CAE-CD"
-    ]
-  },
-  {
     "school": "Vanderbilt University",
     "designations": [
       "CAE-R"
@@ -2658,12 +2747,6 @@
     "designations": [
       "CAE-CD",
       "CAE-R"
-    ]
-  },
-  {
-    "school": "Virginia Peninsula Community College",
-    "designations": [
-      "CAE-CD"
     ]
   },
   {
