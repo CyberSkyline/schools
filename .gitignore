@@ -12,6 +12,7 @@
 node_modules/*
 node_modules
 npm-debug.log
+package-lock.json
 yarn-error.log
 # --------------------
 # Profiling
