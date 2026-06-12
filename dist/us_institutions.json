@@ -2567,7 +2567,7 @@
     "alias": "CALLUTHERAN",
     "population": 2374,
     "predominantDegree": "Bachelor",
-    "logo" : "102809_California_Lutheran_University.png"
+    "logo": "102809_California_Lutheran_University.png"
   },
   {
     "id": "102818",
@@ -2620,7 +2620,8 @@
     "domain": "csustan.edu",
     "alias": "Stanislaus State",
     "population": 8564,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "102881_california_state_university_stanislaus.svg"
   },
   {
     "id": "102906",
@@ -7758,7 +7759,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "108153_fairfield_university.svg"
   },
   {
     "id": "108162",
@@ -8690,7 +8692,8 @@
     "domain": "cf.edu",
     "alias": "CF, CCF, Central Florida, Central FL College, Central Fla Coll, Central Fla College",
     "population": 4717,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "109156_college_of_central_florida.png"
   },
   {
     "id": "109174",
@@ -8771,7 +8774,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "109235_daytona_state_college.png"
   },
   {
     "id": "109253",
@@ -9612,7 +9616,8 @@
     "domain": "nwfsc.edu",
     "alias": "NWFSC",
     "population": 3193,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "110103_northwest_florida_state_college.svg"
   },
   {
     "id": "110121",
@@ -15983,7 +15988,8 @@
     "domain": "butlercc.edu",
     "alias": "Butler CC",
     "population": 5694,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "116688_butler_county_community_college.jpg"
   },
   {
     "id": "116697",
@@ -18561,6 +18567,15 @@
     "city": "Machias",
     "state": "ME",
     "predominantDegree": "N/A"
+  },
+  {
+    "id": "119580",
+    "name": "University of Maine",
+    "city": "Orono",
+    "state": "ME",
+    "domain": "umaine.edu",
+    "predominantDegree": "Bachelor",
+    "logo": "119580_university_of_maine.svg"
   },
   {
     "id": "119605",
@@ -22107,7 +22122,8 @@
     "domain": "ncmich.edu",
     "alias": "NCMC",
     "population": 897,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "122968_north_central_michigan_college.png"
   },
   {
     "id": "122977",
@@ -23525,7 +23541,8 @@
     "domain": "dunwoody.edu",
     "alias": "DUNWOODY",
     "population": 1417,
-    "predominantDegree": "Associate"
+    "predominantDegree": "Associate",
+    "logo": "124441_dunwoody_college_of_technology.png"
   },
   {
     "id": "124450",
@@ -27244,7 +27261,8 @@
     "domain": "monmouth.edu",
     "alias": "MONMOUTH",
     "population": 3831,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "128355_monmouth_university.svg"
   },
   {
     "id": "128364",
@@ -32088,7 +32106,8 @@
     "predominantDegree": "Associate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "133304_cleveland_community_college.png"
   },
   {
     "id": "133313",
@@ -32661,7 +32680,8 @@
     "domain": "mitchellcc.edu",
     "alias": "MITCHELLCC",
     "population": 1692,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "133766_mitchell_community_college.jpg"
   },
   {
     "id": "133775",
@@ -33524,7 +33544,8 @@
     "domain": "uj.edu",
     "alias": "UJ Jimmies",
     "population": 947,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "134495_university_of_jamestown.jpg"
   },
   {
     "id": "134501",
@@ -36170,7 +36191,8 @@
     "domain": "nsuok.edu",
     "alias": "NSU",
     "population": 4636,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137528_northeastern_state_university.svg"
   },
   {
     "id": "137537",
@@ -36261,7 +36283,8 @@
     "domain": "okstate.edu",
     "alias": "OKSTATE",
     "population": 20814,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "137616_oklahoma_state_university.svg"
   },
   {
     "id": "137625",
@@ -39566,7 +39589,8 @@
     "domain": "sru.edu",
     "alias": "SRU",
     "population": 6728,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "141389_slippery_rock_university_of_pennsylvania.png"
   },
   {
     "id": "141398",
@@ -41948,7 +41972,8 @@
     "domain": "mtsu.edu",
     "alias": "MTSU",
     "population": 16115,
-    "predominantDegree": "Bachelor"
+    "predominantDegree": "Bachelor",
+    "logo": "143686_middle_tennessee_state_university.svg"
   },
   {
     "id": "143695",
@@ -42657,7 +42682,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "144360_angelo_state_university.png"
   },
   {
     "id": "144379",
@@ -44172,7 +44198,8 @@
     "predominantDegree": "Bachelor",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "145901_sam_houston_state_university.svg"
   },
   {
     "id": "145910",
@@ -48779,6 +48806,16 @@
     "predominantDegree": "N/A"
   },
   {
+    "id": "150299",
+    "name": "Francis Tuttle Technology Center - Danforth",
+    "street": "3841 E. Danforth Road",
+    "city": "Edmond",
+    "state": "OK",
+    "domain": "francistuttle.edu",
+    "alias": "FRANCISTUTTLE",
+    "logo": "150299_Francis_Tuttle_Technology_Center_Danforth.svg"
+  },
+  {
     "id": "150303",
     "name": "St. Norbert College",
     "street": "100 Grant St",
@@ -50398,16 +50435,6 @@
     "alias": "FRANCISTUTTLE",
     "population": 825,
     "predominantDegree": "Certificate"
-  },
-  {
-    "id": "150299",
-    "name": "Francis Tuttle Technology Center - Danforth",
-    "street": "3841 E. Danforth Road",
-    "city": "Edmond",
-    "state": "OK",
-    "domain": "francistuttle.edu",
-    "alias": "FRANCISTUTTLE",
-    "logo": "150299_Francis_Tuttle_Technology_Center_Danforth.svg"
   },
   {
     "id": "152053",
@@ -57736,7 +57763,8 @@
     "predominantDegree": "Certificate",
     "designations": [
       "CAE-CD"
-    ]
+    ],
+    "logo": "164438_klamath_community_college.png"
   },
   {
     "id": "164465",
@@ -74974,7 +75002,8 @@
     "domain": "ciat.edu",
     "alias": "CIAT",
     "population": 14,
-    "predominantDegree": "Certificate"
+    "predominantDegree": "Certificate",
+    "logo": "237738_california_institute_of_applied_technology.png"
   },
   {
     "id": "237774",

@@ -8,4 +8,12 @@
     "population": 699,
     "predominantDegree": "Associate"
   }
+  ,{
+    "id": "119580",
+    "name": "University of Maine",
+    "city": "Orono",
+    "state": "ME",
+    "domain": "umaine.edu",
+    "predominantDegree": "Bachelor"
+  }
 ]
